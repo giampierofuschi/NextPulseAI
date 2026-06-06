@@ -7,7 +7,6 @@ from parametrizer import Parametrizer
 from index_builder import IndexBuilder
 import fitz #temporaneo per estrarre testo da pdf
 
-os.environ["GROQ_API_KEY"] = "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"
 
 # inizializzazione groq con cache di streamlit
 @st.cache_resource
