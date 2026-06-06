@@ -1,0 +1,632 @@
+Ministero delle Infrastrutture e dei Trasporti
+DIPARTIMENTO PER I TRASPORTI, LA NAVIGAZIONE,
+GLI AFFARI GENERALI ED IL PERSONALE
+Direzione generale per la sicurezza stradale
+Via G. Caraci, 36 – 00157 Roma
+All’
+ANCI
+Associazione nazionale Comuni Italiani
+anci@pec.anci.it
+All’
+Ufficio di Gabinetto
+ufficio.gabinetto@pec.mit.gov.it
+Al
+Dipartimento per i trasporti, la navigazione,
+gli affari generali ed il personale
+dip.trasporti@pec.mit.gov.it
+Oggetto: Linee Guida sulla regolamentazione della circolazione stradale e segnaletica nelle zone
+a traffico limitato
+Questa Direzione Generale, competente sulla disciplina della segnaletica stradale,
+sull’omologazione dei dispositivi di regolazione e controllo della circolazione, nonché titolare delle
+funzioni di autorizzazione all’installazione dei sistemi di controllo degli accessi alle zone a traffico
+limitato ai sensi del D.P.R. n. 250/99, con la presente emana le allegate “Linee Guida sulla
+regolamentazione della circolazione stradale e segnaletica nelle zone a traffico limitato”, rivolte a
+tutte le Amministrazioni Comunali, che intendono istituire o modificare una zona a traffico limitato.
+Le Linee Guida sono inoltre finalizzate ad agevolare le procedure di autorizzazione
+all’installazione degli impianti di controllo automatico e, più in generale, a realizzare sistemi
+segnaletici omogenei, coerenti e più facilmente riconoscibili dall’utenza stradale.
+Le indicazioni contenute nelle Linee Guida, coerenti con le disposizioni delle norme primarie e
+regolamentari vigenti, si applicano alle zone a traffico limitato di nuova realizzazione, nonché alle
+zone a traffico limitato esistenti sia nel caso di loro modifica e adeguamento, sia qualora si intenda
+attuare il controllo automatico.
+Le Linee Guida costituiscono in ogni caso il riferimento cui tendere per le zone a traffico
+limitato esistenti.
+La presente è inviata a codesta Associazione al fine di una più capillare informazione a tutte le
+Amministrazioni Comunali.
+Il Direttore Generale
+Dott. Ing. Virginio Di Giambattista
+Il Dirigente Tecnico: Dott. Ing. Silverio Antoniazzi
+Il funzionario: Ing. Anna Maria Atzori
+Firmato digitalmente da Di
+Giambattista Virginio
+C=IT
+O=Ministero delle Infrastrutture
+e dei Trasporti
+M_INF.SISTRA.REGISTRO UFFICIALE.U.0005050.28-06-2019
+Ministero delle Infrastrutture e dei Trasporti
+Dipartimento per i trasporti, la navigazione, gli affari generali ed il personale
+Direzione Generale per la sicurezza stradale
+LINEE GUIDA PER LA
+REGOLAMENTAZIONE
+DELLA CIRCOLAZIONE STRADALE
+E SEGNALETICA NELLE
+ZONE A TRAFFICO LIMITATO
+2
+1
+2
+REGOLAMENTAZIONE DELLA CIRCOLAZIONE STRADALE NELLE ZONE A TRAFFICO
+ZTL PERMANENTE CON DIVIETO GENERALIZZATO A TUTTE LE CATEGORIE DI VEICOLI ................................ 5
+3
+CONTROLLO AUTOMATICO DELLA CIRCOLAZIONE NELLE ZONE A TRAFFICO LIMITATO .......12
+4
+5
+3
+1 PREMESSA
+Le presenti Linee Guida sono rivolte a tutte le Amministrazioni comunali che, nell’ambito
+dei rispettivi centri abitati, intendono istituire o modificare le rispettive zone a traffico
+limitato (d’ora in poi per brevità ZTL), come definite dall’art. 3 del Codice della Strada, D.
+Lgs. n.285/92 (d’ora in poi per brevità Codice).
+Le Linee Guida intendono fornire indicazioni e procedure operative al fine di assicurare
+l’adozione, da parte dei diversi uffici comunali, di provvedimenti rispondenti alle norme
+contenute nell’art. 7 del Codice e nel relativo Regolamento di esecuzione ed attuazione,
+D.P.R. n.495/92 (d’ora in poi per brevità Regolamento), e volti a garantire un più agevole
+rispetto delle regole e dei divieti introdotti con la disciplina della ZTL, attraverso
+l’installazione di sistemi segnaletici corretti, chiari, inequivocabili ed il più possibile
+standardizzati.
+In relazione al crescente numero di Comuni che intendono installare dispositivi di
+controllo elettronico della circolazione nelle ZTL, ed in riferimento alle sempre più
+diversificate esigenze di applicazione di divieti a categorie di veicoli e di utenti, nonché
+all’aumento dell’estensione delle ZTL in particolare per le città di maggiori dimensioni, le
+Linee Guida forniscono inoltre indicazioni mirate sugli aspetti del controllo automatico.
+4
+2 REGOLAMENTAZIONE DELLA CIRCOLAZIONE STRADALE NELLE
+ZONE A TRAFFICO LIMITATO
+L’Amministrazione, nella piena autonomia e responsabilità, in relazione alla conoscenza
+dei luoghi e delle specificità del contesto, nell’istituire e/o estendere una ZTL deve valutare
+il relativo schema di circolazione in base ai seguenti criteri:
+- la nuova disciplina deve garantire una regolare circolazione nella rete viaria esterna
+alla ZTL;
+- devono essere adeguatamente previsti e correttamente segnalati i percorsi consentiti
+alle diverse tipologie di utenti e/o veicoli non autorizzati al transito nella ZTL,
+prevedendo che ci sia almeno una via di fuga;
+- l’individuazione del perimetro della ZTL deve corrispondere all’area che si intende
+preservare e che contestualmente deve possedere tutti i requisiti predetti in relazione
+ad una corretta circolazione stradale anche per gli utenti e/o veicoli non autorizzati
+all’accesso nella ZTL;
+- la nuova disciplina deve garantire una regolare circolazione anche all’interno della
+ZTL attraverso la verifica dei sensi di circolazione;
+- la disciplina della circolazione all’interno di una ZTL deve essere omogenea, ovvero
+le tipologie di utenti autorizzati e gli eventuali orari di accesso devono essere identici
+in tutti i varchi;
+- nel caso in cui, all’interno del medesimo centro abitato, si renda necessario
+differenziare le categorie di veicoli non ammesse o di utenti autorizzati in funzione di
+zone diverse, devono essere istituite ZTL distinte;
+- l’istituzione di Aree Pedonali (AP), isolate o contigue o concentriche alla ZTL, deve
+rispettare, in termini di schemi di circolazione le medesime regole di una qualunque
+ZTL, e devono essere installate le relative segnaletiche di varco e di preavviso;
+- i segnali preesistenti l’istituzione di una ZTL e/o di una AP, se non coerenti e/o
+discordanti con i segnali di preavviso ed i segnali di varco da installare, devono
+essere eliminati;
+- le limitazioni della circolazione non devono produrre effetti negativi sulla viabilità di
+altri enti proprietari/gestori di strade, ed in particolare non deve costituire deviazioni
+ingiustificate dei flussi di attraversamento da un centro abitato ad un altro o
+comunque su viabilità di enti diversi, ad eccezione dei casi in cui la deviazione
+avvenga su viabilità alternativa avente precipuamente la funzione di by-pass del
+centro abitato;
+- qualora l’istituzione della ZTL provochi, anche solo indirettamente, effetti sulla
+viabilità extraurbana o comunque sulla viabilità di altri enti proprietari/gestori, deve
+essere preventivamente acquisito il nulla osta da parte di tutti gli enti interessati.
+5
+2.1 ZTL permanente con divieto generalizzato a tutte le categorie di
+veicoli
+Nelle ZTL tipiche, con divieto generalizzato a tutte le categorie di veicoli, rientra nelle
+facoltà dell’Amministrazione comunale esentare dal divieto oltre alle categorie dei veicoli
+della polizia, ambulanze e vigili del fuoco e dei veicoli al servizio di persone con limitate o
+impedite capacità motorie, anche altre categorie quali ad esempio i veicoli merci,
+specificando il periodo in cui è consentito il carico e scarico.
+In tali zone le Amministrazioni possono concedere l’autorizzazione a determinate
+categorie di utenti, quali i residenti, e di veicoli, quali il trasporto pubblico, compresi i taxi1,
+nonché ad altre categorie quali veicoli elettrici, car sharing, noleggio con conducente
+Il segnale tipologico della ZTL (Fig. II 322/a) inserito nel Regolamento indica sia i divieti
+sia le eccezioni, e pertanto esplicita in un unico pannello tutte le tipologie di categorie di
+veicoli e /o utenti, cui si applica il divieto e quelle esentate, in quanto le due parti sono tra
+esse complementari.
+Si evidenzia che il divieto generalizzato può non comprendere la categoria dei
+motoveicoli e quindi in tal caso, dal citato segnale tipologico verticale di varco, dovrà
+essere eliminata la categoria dei “motoveicoli non autorizzati”.
+Particolare attenzione deve essere posta per la circolazione e la sosta dei veicoli al
+servizio di persone con disabilità, regolate dal Codice nonché dall’art. 11 del D.P.R. del 24
+luglio 1996, n. 503 "Regolamento recante norme per l'eliminazione delle barriere
+architettoniche negli edifici, spazi e servizi pubblici." (G.U. del 27 settembre 1996, n. 227).
+In particolare il comma 3 prevede che la “circolazione e la sosta sono consentite nelle
+«zone a traffico limitato» e «nelle aree pedonali urbane», così come definite dall'art. 3 del
+decreto legislativo 30 aprile l992, n. 285, qualora è autorizzato l'accesso anche ad una
+sola categoria di veicoli per l'espletamento di servizi di trasporto di pubblica utilità.”.
+Il pittogramma relativo alle persone con disabilità è stato aggiornato con il D.P.R. n. 151
+del 30 luglio 20122 “Regolamento recante modifiche al decreto del Presidente della
+Repubblica 16 dicembre 1992, n. 495, concernente il regolamento di esecuzione e
+attuazione del Nuovo codice della strada, in materia di strutture, contrassegno e
+segnaletica per facilitare la mobilità delle persone invalide” di cui alla Fig. II 130 del
+Regolamento.
+Per favorire l’accessibilità alle ZTL da parte delle persone con disabilità, nel segnale di
+varco (vedasi Tavv. da 7 a 11b) deve essere inserito un pannello integrativo riportante la
+dicitura “per informazioni” seguita dal simbolo del telefono (di cui alla Fig. II 107 del
+Regolamento) e dal numero telefonico, a cui devono rivolgersi oltre alle persone con
+1
+Consiglio di Stato, sez. VI, sentenza n. 5454/18 depositata il 18 settembre (taxi diretti in hotel all’interno delle zone a traffico
+limitato)
+2 http://www.mit.gov.it/mit/mop_all.php?p_id=12875
+6
+disabilità, non residenti, per le eventuali prenotazioni anche
+i soggetti che
+l’Amministrazione intende autorizzare all’accesso. Il predetto numero telefonico deve
+essere comunicato al Ministero delle Infrastrutture e dei Trasporti affinché si possa
+provvedere ad inserirlo in un elenco reperibile nel sito istituzionale, come servizio di
+pubblica utilità.
+2.2 ZTL variabili
+La limitazione della circolazione, anziché in modalità permanente, può essere adottata
+in modalità variabile nel tempo, in funzione delle diverse esigenze delle singole
+amministrazioni ed al fine di non estendere inutilmente ed ingiustificatamente il divieto a
+periodi non necessari.
+La variabilità della ZTL può essere relativa a:
+ fasce orarie all’interno delle 24 ore;
+ giorni feriali e festivi all’interno della settimana;
+ giorni specifici della settimana;
+ mesi o periodi all’interno dell’anno solare.
+La facoltà di realizzare ZTL variabili, pur rispondente alla finalità di contenere il disagio
+della limitazione, deve essere esercitata con molta attenzione poiché quanto più è
+articolata la variabilità tanto più è complessa la realizzazione della relativa segnaletica di
+varco, che deve risultare sempre e comunque di agevole ed immediata lettura da parte
+dell’utenza stradale.
+Pertanto sono tendenzialmente da evitare ZTL con criteri di variabilità sovrapposti e
+combinati (orari, giorni e periodi) oppure periodi di vigenza diversi per distinte categorie di
+veicoli,
+al
+fine
+di
+evitare
+confusione
+e
+indurre
+l’utenza
+in
+comportamenti
+inconsapevolmente impropri.
+In ausilio a tale criticità di dover esplicitare in modo chiaro la variabilità nella segnaletica
+fissa, intervengono i pannelli a messaggio variabile (d’ora in poi per brevità PMV), che
+risultano particolarmente efficaci nel caso di variabilità non differenziata per categorie di
+veicoli (v. Tavola 12 - varco 8), ma che invece devono essere utilizzati nel caso di
+variabilità differenziate per categorie di veicoli (v. Tavola 12 - varco 9), poiché addirittura
+potrebbero generare confusione o fornire messaggi impropri.
+I PMV sono opzionali, essendo invece prescrittiva la segnaletica verticale fissa, solo nel
+caso in cui la ZTL sia variabile ma non sia attuato il controllo elettronico della ZTL stessa.
+I PMV sono obbligatori, in modo complementare alla segnaletica verticale fissa, nel
+caso in cui la ZTL sia variabile e sia attuato il controllo elettronico della ZTL stessa.
+7
+Si evidenzia in particolare la criticità che il PMV, laddove presente in abbinamento alla
+segnaletica fissa di varco, costituisce per l’utenza un importante riferimento proprio per la
+natura dinamica dell’informazione, che quindi, per definizione, fornisce con esattezza
+all’utenza, nel momento di avvicinamento al varco, l’informazione attuale della vigenza o
+meno del divieto.
+Per questo motivo, anche in relazione al potenziale diffondersi del controllo in itinere e
+in uscita, descritti al cap. 3, la semplice informazione, ad esempio, che nel preciso istante
+di attraversamento del varco in ingresso, la ZTL non sia attiva, può non risultare
+sufficiente, e per contro potrebbe risultare addirittura fuorviante, nel caso in cui la ZTL
+diventasse attiva immediatamente dopo, e, dalla necessaria combinata lettura della
+prescrittiva segnaletica verticale, non emergesse chiaramente che il periodo di vigenza
+sarebbe decorso immediatamente dopo il transito.
+Quindi il PMV dovrebbe più correttamente contenere anche l’informazione opzionale
+dell’orario relativo alla fine (es. ore 16:00) della non vigenza della ZTL:
+ ZTL NON ATTIVA FINO ALLE 16:00
+ ZTL OPENED UNTIL 16:00
+I PMV attualmente installati, per forma e dimensioni, spesso consentono di utilizzare un
+numero limitato di righe e caratteri, e pertanto l’informazione completa di cui sopra non
+sarebbe attuabile, mentre le diciture indicate al par. 4.2 rispettivamente di
+ ZTL ATTIVA - ZTL NON ATTIVA
+ ZTL CLOSED - ZTL OPENED
+possono essere facilmente già implementate nella maggior parte dei PMV esistenti.
+2.3 ZTL con divieto per alcune categorie di veicoli
+La disciplina della regolamentazione della ZTL che prevede invece un divieto di
+circolazione all’interno della ZTL a particolari categorie di veicoli, anche in relazione alla
+valutazione della estensione della ZTL stessa, risulta possibile e nella piena facoltà delle
+Amministrazioni.
+A titolo esemplificativo e non esaustivo si riportano alcune categorie di veicoli a cui si
+possono applicare specifici divieti:
+veicoli di massa superiore a determinate soglie;
+veicoli di dimensione superiore a determinate soglie;
+particolari tipologie di veicoli;
+veicoli trasportanti merci pericolose;
+veicoli con determinate classi ambientali.
+Nel caso di ZTL con divieto solo per alcune categorie di veicoli il segnale di varco deve
+assumere immediata e specifica valenza per i conducenti di tali categorie.
+8
+Pertanto il segnale di varco, risulta semplificato, poiché sotto il “simbolo ZTL” (Fig. II
+322/a) sarà riportato direttamente il pannello della categoria a cui si applica e non sarà
+necessario né utile riportare il pannello tipologico, con deroghe ed eccezioni.
+Simbolo ZTL
+La scelta dei criteri di divieto e delle categorie di veicoli, nel caso in cui si intenda
+attuare il controllo automatico della ZTL, deve risultare coerente con le funzionalità dei
+dispositivi e con i loro limiti applicativi.
+Nelle Tavola 11a e Tavola 11b sono riportati alcuni esempi della “Segnaletica di varco
+per la ZTL con divieti per alcune categorie di veicoli” ed in particolare:
+varco 6: ZTL permanente con controllo elettronico è riportato il caso in cui il
+divieto permanente è applicato solo alla categoria degli autobus extraurbani (Fig. II
+142)
+varco 7: ZTL variabile per una categoria di veicoli con controllo elettronico e
+PMV è riportato il caso in cui il divieto variabile è applicato solo alla categoria degli
+autobus extraurbani con il periodo di vigenza (giorni feriali/festivi e orari), con
+l’installazione del PMV;
+varco 8: ZTL variabile per due categorie di veicoli con controllo elettronico e
+PMV è riportato il caso in cui il divieto variabile è applicato sia agli autobus
+extraurbani sia agli autocarri (Fig. II 137) di lunghezza superiore ai 7,5 m con il
+periodo di vigenza (giorni e orari) identico per entrambe le categorie, con
+l’installazione del PMV;
+varco 9: ZTL variabile per due categorie di veicoli con controllo elettronico
+(senza PMV) è riportato il caso in cui il divieto variabile è applicato sia agli autobus
+extraurbani sia agli autocarri (Fig. II 137) di lunghezza superiore ai 7,5 m con i
+rispettivi periodi di vigenza (giorni e orari), e pertanto il PMV non deve essere
+installato.
+L’installazione del PMV è opportuna quando la ZTL è variabile nel tempo, ovvero con
+periodo di vigenza variabile in funzione del giorno/orario, ma identico per tutte le categorie
+di veicoli.
+9
+2.4 Casi particolari
+Area pedonale
+L’Area Pedonale3 (AP), che rappresenta un caso particolare di ZTL, in cui la limitazione
+della circolazione riguarda tutte le categorie di veicoli a motore, è un’area riservata ai
+pedoni e quindi interdetta alla circolazione dei veicoli, salvo quelli in servizio di emergenza,
+i velocipedi e i veicoli al servizio di persone con limitate o impedite capacità motorie,
+nonché eventuali deroghe per i veicoli ad emissioni zero aventi ingombro e velocità tali da
+poter essere assimilati ai velocipedi. In particolari situazioni i comuni possono introdurre,
+attraverso apposita segnaletica, ulteriori restrizioni alla circolazione sulle AP. Infatti in
+particolari situazioni, affinché l’AP sia maggiormente fruibile da parte dei pedoni, i comuni
+possono ulteriormente limitare la circolazione ad alcune delle predette categorie di veicoli
+e/o utenti.
+Nel contempo però si evidenzia che anche all’interno delle AP, soprattutto se esse non
+si limitano a piccole aree, sussistono diverse esigenze legate al carico e scarico merci, al
+raggiungimento della propria civile abitazione, alla fruizione di particolari servizi e/o edifici
+pubblici, ecc.. Tali esigenze infatti sono esplicitate nel segnale della Figura II 320 “Area
+Pedonale” del Regolamento (D.P.R. n.495/92) che riporta tra gli autorizzati a circolare
+nell’AP anche i “veicoli merci autorizzati”, in specifiche fasce orarie, le “auto e motoveicoli
+dei residenti autorizzati, solo per accedere a cortili ed autorimesse” nonché la “polizia,
+ambulanze, vigili del fuoco (solo in servizio urgente di emergenza)”.
+Poiché le Figure del Regolamento sono da ritenersi esemplificative, il segnale di AP
+deve comunque riportare solo le indicazioni strettamente necessarie al caso specifico
+dell’AP che si intende regolamentare.
+Deve pertanto essere valutata la necessità di inserire il simbolo “carico e scarico” (Fig. II
+124) seguito dalla dicitura “veicoli merci autorizzati” e dalla fascia oraria in cui risulta
+consentito il carico e scarico delle merci e l’ulteriore categoria di “auto e motoveicoli
+residenti autorizzati, solo per accedere a cortili ed autorimesse”.
+3
+L’art. 3, c.1, p.2 del Codice della Strada (D.Lgs. n. 285/92) definisce l’Area Pedonale come la “zona interdetta alla circolazione dei
+veicoli, salvo quelli in servizio di emergenza, i velocipedi e i veicoli al servizio di persone con limitate o impedite capacità motorie,
+nonché eventuali deroghe per i veicoli ad emissioni zero aventi ingombro e velocità tali da poter essere assimilati ai velocipedi. In
+particolari situazioni i comuni possono introdurre, attraverso apposita segnalazione, ulteriori restrizioni alla circolazione su aree
+pedonali”.
+10
+Disciplina non omogenea nella ZTL
+La disciplina della circolazione all’interno di una ZTL può non risultare omogenea solo in
+alcuni casi eccezionali:
+- quando sussistono motivazioni oggettive di limitazione quali ad esempio la presenza
+di criticità geometriche di alcune strade interne alla ZTL che impediscono il transito in
+alcuni varchi ad alcune tipologie di veicoli (mezzi pesanti, mezzi ingombranti, ecc..);
+- quando la ZTL presenti delle aree tra loro non permeabili, ovvero l’accesso da alcuni
+varchi (con una diversa disciplina rispetto ai rimanenti varchi della ZTL stessa)
+consente la circolazione solo in una specifica porzione della ZTL;
+- qualora si intenda differenziare il regime di circolazione degli utenti autorizzati,
+limitando ad essi l’utilizzo di uno o più varchi (ed esplicitati nell’autorizzazione),
+rispetto alla totalità dei varchi della ZTL stessa, ed eventualmente indicando per tali
+utenti specifici percorsi obbligati da seguire internamente alla ZTL, tali da consentire
+la circolazione solo in una specifica porzione della ZTL;
+- qualora si intendano riservare specifiche strade e/o corsie ai veicoli del trasporto
+pubblico locale (TPL) o ad altre specifiche categorie, risultando necessario in tal caso
+apporre l’apposita segnaletica.
+Compresenza di più ZTL all’interno dello stesso centro abitato
+Nel caso in cui, all’interno del medesimo centro abitato, si renda necessario
+differenziare le categorie di veicoli non ammesse o di utenti autorizzati in funzione di zone
+diverse, devono essere istituite ZTL distinte, non solo nel caso in cui le ZTL risultino
+concentriche, solitamente con una progressiva limitazione della circolazione nelle zone più
+interne, ma anche nel caso in cui esse siano contigue.
+A tal fine, deve essere installata la relativa segnaletica di varco e di preavviso,
+prevedendo anche una apposita denominazione per ognuna delle ZTL, da riportare in
+apposito pannello integrativo collocato nei segnali di preavviso (v. Tavola 2) quando nel
+medesimo segnale siano presenti le indicazioni di più zone, o quando ci sia coincidenza
+tra il varco di una ZTL1 ed il varco di una ZTL2, come sotto esplicitato.
+Varco sul perimetro della ZTL coincidente con l’inzio della corsia riservata al
+Trasporto Pubblico Locale
+Nel caso particolare di un varco della ZTL coincidente con l’inizio di una corsia riservata
+al Trasporto Pubblico Locale (TPL), esso non rappresenta un varco in ingresso nella ZTL
+in quanto, sebbene rientrante fisicamente nel perimetro della ZTL stessa, non è un varco
+fruibile da parte degli autorizzati alla ZTL ma solamente ai veicoli del trasporto pubblico, e
+pertanto deve essere installata la sola segnaletica della corsia riservata al trasporto
+pubblico attraverso il segnale di divieto di transito (Fig. II 46) integrato dal pannello con la
+dicitura “eccetto:” seguita dal simbolo “autobus urbano” di cui alla Fig. II 141.
+11
+In generale tale coincidenza comporta notevoli criticità soprattutto per gli utenti
+autorizzati alla circolazione nella ZTL, ed in particolar modo quando la corsia riservata
+viene istituita contestualmente alla ZTL stessa. Pertanto tale scelta deve essere
+adeguatamente valutata dall’Amministrazione, anche in relazione all’estensione ed al
+tracciato delle corsie riservate al trasporto pubblico, ed in particolare quando esse sono
+controllate ai fini del sanzionamento automatico; tale specificità necessita pertanto di
+un’accuratezza nella segnaletica di preavviso e di varco delle predette corsie del trasporto
+pubblico.
+Inoltre, come ulteriore caso particolare della predetta coincidenza, ma con due corsie in
+ingresso nella ZTL, di cui una corsia riservata al TPL ed una corsia per l’accesso agli
+autorizzati nella ZTL, risulta in linea generale necessario che venga installata sia la
+segnaletica della corsia riservata al trasporto pubblico sia la segnaletica di varco della
+ZTL, nell’isola di traffico tra le due corsie o in assenza di essa attraverso specifici segnali
+di corsia installati sopra la carreggiata; tale configurazione presenta molteplici criticità
+anche nella corretta installazione della segnaletica di preavviso, attualmente non prevista
+del Codice e pertanto deve essere, di norma, evitata.
+Varco della ZTL1 coincidente con Varco della ZTL2
+Particolare attenzione dovrà essere posta nel caso in cui uno specifico varco risulti
+contemporaneamente di accesso a due ZTL distinte (ZTL1 e ZTL2) con diverse discipline,
+poiché dovrà essere installata la segnaletica relativa ad entrambe le ZTL, riportante due
+segnali di varco, distinti ed affiancati, con esplicitati i nomi delle ZTL, da riportare in
+apposito pannello integrativo collocato sopra il “simbolo ZTL”.
+Tale configurazione presenta molteplici criticità nella corretta interpretazione della
+segnaletica di preavviso e di varco e pertanto deve essere, di norma, evitata.
+12
+3 CONTROLLO AUTOMATICO DELLA CIRCOLAZIONE NELLE ZONE A
+TRAFFICO LIMITATO
+Nel caso in cui l’Amministrazione, con la delibera di Giunta Comunale con cui è istituita la
+ZTL ai sensi dell’articolo 7 del Codice, preveda di presidiare la ZTL attraverso impianti di
+controllo elettronico deve inoltre verificare che:
+- gli impianti da installare siano omologati dal Ministero delle Infrastrutture e dei
+Trasporti;
+- le tipologie di veicoli e/o di autorizzati cui si applica il divieto di transito nella ZTL
+siano coerenti con le specifiche tecniche degli impianti di controllo automatico da
+installare;
+- la conformazione degli accessi alla ZTL ed il posizionamento dei relativi impianti sia
+coerente con le caratteristiche degli impianti stessi e con le condizioni contenute nel
+manuale di utilizzo;
+- la nuova disciplina garantisca una regolare circolazione sia all’esterno sia all’interno
+della ZTL attraverso la verifica dei sensi di circolazione, anche al fine di minimizzare
+il presidio con l’installazione di impianti di controllo elettronico.
+In generale, l'obiettivo del controllo automatico della limitazione della circolazione
+all'interno di una ZTL è prevalentemente garantito dal controllo elettronico dei varchi in
+ingresso ed affinché tale obiettivo sia correttamente raggiunto il controllo deve essere
+attivato contestualmente in tutti i varchi.
+Il controllo automatico della limitazione della circolazione oltre ai varchi in ingresso, può
+prevedere in modo complementare, nel caso di ZTL variabili, anche varchi in itinere
+all'interno della ZTL per un controllo diffuso, volto a perseguire la violazione
+della circolazione dei veicoli permanentemente situati all'interno del perimetro, o
+comunque non rilevati in ingresso, nonché varchi in uscita, finalizzati a rilevare l'infrazione
+della circolazione a seguito dell'eventuale elusione del controllo in ingresso e in itinere.
+Infatti il controllo in itinere ed il controllo in uscita sono maggiormente efficaci quando il
+regime della ZTL non è permanente, e pertanto il controllo in ingresso potrebbe essere
+facilmente eluso con un ingresso immediatamente prima dell'inizio della fascia oraria del
+divieto; parimenti il controllo in uscita potrebbe essere raggirato con un egresso
+immediatamente dopo la fine del divieto. Pertanto i controlli in ingresso ed in uscita sono
+complementari ed entrambi efficaci, così come quelli in itinere, interni al perimetro della
+ZTL.
+Prima di procedere all’installazione dei sistemi di controllo dei varchi in uscita o in itinere
+deve essere stato realizzato un completo controllo di tutti i varchi in ingresso, al fine di
+evitare che il controllo delle uscite risulti vessatorio nei confronti dell'utenza.
+In particolare si evidenzia che il controllo in itinere, distribuito all'interno della ZTL, si
+giustifica maggiormente in quelle zone di grandi dimensioni dove alcuni veicoli potrebbero
+13
+non transitare mai ai varchi di ingresso (e neppure in quelli di uscita) poiché tenuti
+permanentemente ed intenzionalmente all'interno della zona.
+Nel caso di ZTL già istituite, ed in cui in cui il controllo automatico avviene solo nei
+varchi in ingresso, la segnaletica nel varco potrà continuare a riportare la dicitura “controllo
+elettronico degli accessi”.
+Nelle ZTL di nuova istituzione, con controllo automatico, dovrà invece utilizzarsi la
+dicitura “controllo elettronico ZTL”, come indicato nelle Tavole da 7 a 11b, tale da
+contemplare il controllo sia nei varchi in ingresso sia negli eventuali varchi in uscita e
+varchi in itinere.
+14
+4 SEGNALETICA
+La segnaletica verticale da installare deve essere conforme al Codice ed al
+Regolamento per quanto attiene le forme e le dimensioni dei segnali, delle iscrizioni, delle
+frecce, nonché devono essere rispettati i colori, le proporzioni, ecc..
+4.1 Segnaletica di preavviso
+I segnali di preavviso di una ZTL, non sono espressamente previsti nel Regolamento e
+pertanto per essi ci si deve ricondurre per analogia ai segnali di preavviso di intersezione
+urbana, di cui alla Figura II 233, Figura II 236 e Figura II 238 (v. rispettivamente Tavola 1,
+Tavola 2 e Tavola 3) e Figura II 239 (v. rispettivamente Tavola 4a, Tavola 4b e Tavola 4c),
+ed inserendo, nella direzione non consentita a tutti, la freccia ed il “simbolo ZTL” costituito
+dal disco del “divieto di transito” con la dicitura “zona traffico limitato”, ovvero con il
+pannello superiore del segnale della Figura II 322/a.
+Gli eventuali segnali di preavviso di intersezione, preesistenti all’istituzione di una ZTL,
+devono pertanto essere modificati attraverso l’inserimento del “simbolo ZTL”.
+Nel caso invece in cui non siano già presenti segnali di preavviso di intersezione,
+qualora si intenda contestualmente fornire le indicazioni delle destinazioni consentite, si
+possono utilizzare i segnali di preavviso di intersezione urbana sopracitati, mentre, qualora
+si ritenga sia prevalente, se non esclusivo, il significato di preavviso di ZTL, si possono
+utilizzare segnali di tipo semplificato (v. Tavola 5a e tavola 5b), senza l’indicazione delle
+destinazioni, ma contenenti soltanto lo schema dell’intersezione con le sole frecce sia
+nelle direzioni consentite sia nella direzione verso la ZTL, nella quale sarà inserito il
+“simbolo ZTL”.
+In linea di principio i contenuti del segnale di varco dovrebbero essere i medesimi del
+segnale di preavviso, ma risulta evidente che in tale segnale di preavviso non possano
+essere inserite tutte le informazioni relative alla disciplina della ZTL; pertanto è ammesso
+inserire sotto il “simbolo ZTL” al massimo due pannelli integrativi relativi a due categorie di
+veicoli (v. Tavola 4b) o ad una categoria e relativa fascia oraria di vigenza (v. Tavola 4c).
+Nella Tavola 6 è stato riportato un segnale di preavviso di intersezione urbana con una
+ZTL in cui è stato previsto un sistema sostituibile (ovvero amovibile) da utilizzare in caso di
+ZTL periodica, quando il periodo di non vigenza è molto prolungato (es. periodo
+estivo/invernale).
+15
+4.2 Segnaletica di varco
+Ai fini di una corretta percezione dei varchi di ingresso nella ZTL deve essere valutata
+l’opportunità di tracciare la relativa segnaletica orizzontale e/o di realizzare le eventuali
+isole di traffico al fine di canalizzare correttamente i flussi veicolari in ingresso nella ZTL,
+anche in funzione delle specifiche caratteristiche degli impianti di controllo da installare.
+Inoltre, è consentito tracciare a terra il “simbolo ZTL” nei varchi in ingresso alla ZTL, in
+quanto replicante la segnaletica verticale, ai sensi dell’art. 148 del Regolamento.
+Il comma 14 dell’art. 135 del Regolamento precisa che “Il segnale ZONA A TRAFFICO
+LIMITATO (Fig. II 322/a) indica l'inizio dell'area in cui l'accesso e la circolazione sono
+limitati nel tempo o a particolari categorie di veicoli.”.
+Per quanto riguarda la composizione del segnale di varco si riportano di seguito le
+indicazioni valide per la tipologia standard di segnale, utilizzato più di frequente (V. Tavola
+10 - varco 4), per una ZTL variabile con divieto generalizzato a tutte le categorie di veicoli,
+con il seguente ordine:
+“simbolo ZTL”
+pannello integrativo con il periodo e/o i giorni di vigenza e/o la fascia oraria di
+divieto della ZTL;
+pannello integrativo riportante limitazioni, deroghe ed eccezioni (utilizzando i
+simboli previsti dal Regolamento e limitando l’uso delle iscrizioni alle sole
+necessarie esplicitazioni). Se le limitazioni, deroghe ed eccezioni, sono molteplici
+e la lettura del segnale non risulta agevole deve essere valutata l’opportunità di
+riportare la sola dicitura “eccetto autorizzati ai sensi della Del. G.C. n. XXX del
+pannello integrativo con la dicitura “controllo elettronico ZTL”;
+pannello riportante la dicitura “per informazioni” seguita dal simbolo del telefono
+(Fig. II 107 del Regolamento) e dal numero telefonico, a cui devono rivolgersi i
+soggetti
+che
+l’Amministrazione
+intende
+autorizzare
+all’accesso,
+anche
+temporaneamente, oltre alle persone con disabilità, non residenti, per le
+eventuali prenotazioni.
+Nell’ultimo pannello integrativo relativo alle informazioni potrà essere indicato,
+solamente se ritenuto necessario, ma valutando l’intelligibilità delle molteplici informazioni
+riportate, un indirizzo email per le comunicazioni con il Comando della Polizia Municipale
+e/o l’eventuale sito web istituzionale riportante le informazioni relative alle modalità di
+accesso alla ZTL.
+Il predetto numero telefonico deve essere comunicato al Ministero delle Infrastrutture e
+dei Trasporti affinché si possa provvedere ad inserirlo in un elenco reperibile nel sito
+istituzionale, come servizio di pubblica utilità.
+Nella Tavola 7 sono riportati alcuni esempi dei pannelli con riferimento al “periodo e
+giorni di vigenza”, ai “divieti ed eccezioni” ed ai riferimenti “per informazioni”.
+16
+Nel caso di ZTL variabile, con controllo elettronico, in aggiunta alla segnaletica verticale
+prescrittiva, sopra riportata, deve essere installato sopra il segnale di varco un pannello a
+messaggio variabile (PMV) per un miglioramento per l’utenza stradale della segnalazione
+della vigenza o meno della disciplina della ZTL (v. Tavola 10 - varco 5).
+Il PMV deve riportare le seguenti diciture:
+“ZTL ATTIVA” quando è vigente il divieto;
+“ZTL NON ATTIVA” quando non è vigente il divieto.
+Nel caso in cui la tecnologia utilizzata lo consenta la dicitura:
+"ZTL ATTIVA" deve essere riportata in colore rosso;
+"ZTL NON ATTIVA" deve essere riportata in colore verde.
+Le predette diciture, quando si ritiene rilevante la presenza turistica straniera, devono
+opportunamente essere riportate sia in lingua italiana sia in lingua inglese,
+simultaneamente o alternate tra di loro, con un intervallo compatibile con i tempi di lettura
+in relazione alla velocità di percorrenza delle strade afferenti all’intersezione in esame.
+Il PMV deve riportare le seguenti diciture in lingua inglese, ed eventualmente con la
+corrispondente colorazione:
+"ZTL CLOSED" quando è vigente il divieto (in colore rosso);
+"ZTL OPENED" quando non è vigente il divieto (in colore verde).
+Nella Tavola 8 sono state riportate le diverse possibilità di utilizzo delle predette diciture.
+In coerenza con quanto indicato al par. 2.2 qualora le dimensioni del PMV lo
+consentano, dovrebbero più correttamente essere riportate le seguenti diciture con
+l’esplicitazione dell’orario relativo alla fine (es. ore 16:00) della non vigenza della ZTL:
+ ZTL NON ATTIVA FINO ALLE 16:00
+ ZTL OPENED UNTIL 16:00
+Non è ammissibile l’utilizzo di lanterne semaforiche in corrispondenza dei varchi di
+accesso della ZTL, con funzione di segnalazione della vigenza (rosso) o non vigenza
+(verde) della disciplina della ZTL, in quanto la segnaletica luminosa, rivolta a tutti gli utenti
+stradali, sarebbe in contrasto con la segnaletica verticale della ZTL sopraindicata, che
+invece consente l’accesso solamente a particolari tipologie di utenti e/o veicoli.
+L’installazione del PMV deve invece ritenersi opzionale nel caso di ZTL variabile ma
+senza il controllo elettronico.
+Durante il periodo prolungato (es. periodo estivo/invernale) di eventuale non vigenza
+della ZTL, si suggerisce di provvedere alla rimozione/copertura sia della segnaletica di
+preavviso (v. Tavola 6) sia della segnaletica di varco attraverso un sistema sostituibile
+(ovvero amovibile).
+17
+Se ritenuto necessario, nel caso in cui nello stesso centro abitato siano coesistenti due
+o più zone a traffico limitato, al fine della loro percezione e riconoscibilità da parte
+dell’utenza stradale, in aggiunta alla segnaletica verticale prescrittiva, sopra il “simbolo
+ZTL”, ed eventualmente sotto il PMV, può essere inserito il nome identificativo della ZTL
+(in analogia a quanto già indicato nel segnale di preavviso riportato nella Tavola 2).
+Deve invece essere installato il segnale di FINE ZONA A TRAFFICO LIMITATO
+previsto dalla Fig. II.322/b del Regolamento, in modo autonomo e posizionato in destra in
+ogni varco in uscita della ZTL, come esplicitato nella Tavola 7.
+Nei varchi in itinere e nei varchi di uscita non deve essere installata alcuna specifica
+segnaletica di informazione relativa al controllo elettronico in quanto essa risulta assolta
+dalla più generale dicitura “controllo elettronico ZTL” installata in corrispondenza dei varchi
+in ingresso.
+Il comma 14 dell’art. 135 del Regolamento precisa che il segnale ZONA A VELOCITA’
+LIMITATA (Fig. II 323/a) indica l'inizio di un'area nella quale non è consentito superare la
+velocità indicata nel segnale stesso; pertanto nel caso si intendano individuare ZTL in cui
+viga anche il limite di velocita di 30 km/h, deve essere opportunamente utilizzato anche il
+predetto segnale di “zona 30”, ma installato separatamente subito dopo il segnale di varco
+e a distanza utile minima in funzione del suo avvistamento.
+Nel caso sussistano particolari condizioni geometriche, che non consentono
+l’installazione dei segnali di formato normale, risulta possibile utilizzare i segnali di formato
+ridotto, ai sensi dell’art. 80, comma 3 del Regolamento.
+Tale installazione ravvicinata dei predetti segnali consente di mantenere la segnaletica
+standard di varco e comunque di fornire l’informazione relativa al limite di velocità e
+comunque subito dopo il varco senza modificarne l’efficacia segnaletica; pertanto non
+deve essere inserito il segnale di limite di velocità nel medesimo segnale di varco.
+18
+5
+ALLEGATO SEGNALETICA
+Tavola 1
+Segnale di preavviso di intersezione urbana con una ZTL (Fig. II 233)
+Tavola 2
+Segnale di preavviso di intersezioni ravvicinate urbane (Fig. II 236)
+in cui due rami conducono a due ZTL distinte
+Tavola 3
+Segnale di preavviso di intersezione urbana rotatoria (Fig. II 238)
+in cui un ramo conduce ad una ZTL
+Tavola 4a
+Segnale di preavviso di ZTL permanente in concomitanza di divieto di
+transito per una categoria di veicoli su un ramo dell'intersezione
+Tavola 4b
+Segnale di preavviso di ZTL permanente per specifiche categorie di veicoli
+Tavola 4c
+Segnale di preavviso di ZTL variabile con una fascia oraria e per una
+specifica categoria di veicoli
+Tavola 5a
+Segnale di preavviso semplificato di intersezione urbana con una ZTL
+Tavola 5b
+Segnale di preavviso semplificato di intersezione urbana con una ZTL
+Tavola 6
+Segnale di preavviso di intersezione urbana con una ZTL periodica
+(sistema sostituibile)
+Tavola 7
+Segnaletica di varco
+Tavola 8
+Segnaletica di varco con i PMV
+Tavola 9
+Segnaletica di varco per la ZTL permanente con divieto generalizzato a
+tutte le categorie di veicoli
+Tavola 10
+Segnaletica di varco per la ZTL variabile con divieto generalizzato a tutte le
+categorie di veicoli
+Tavola 11a Segnaletica di varco per la ZTL con divieti per alcune categorie di veicoli
+Tavola 11b Segnaletica di varco per la ZTL con divieti per alcune categorie di veicoli
+19
+TAVOLE SEGNALETICA
+ZONE A TRAFFICO LIMITATO
+20
+Tavola 1 - Segnale di preavviso di intersezione urbana con una ZTL (Fig. II 233)
+21
+Tavola 2 - Segnale di preavviso di intersezioni ravvicinate urbane (Fig. II 236)
+in cui due rami conducono a due ZTL distinte
+22
+Tavola 3 - Segnale di preavviso di intersezione urbana rotatoria (Fig. II 238)
+in cui un ramo conduce ad una ZTL
+23
+Tavola 4a - Segnale di preavviso di ZTL permanente
+in concomitanza di divieto di transito per una categoria di veicoli
+su un ramo dell'intersezione
+24
+Tavola 4b - Segnale di preavviso di ZTL permanente
+per specifiche categorie di veicoli
+25
+Tavola 4c - Segnale di preavviso di ZTL variabile
+con una fascia oraria e per una specifica categoria di veicoli
+26
+Tavola 5a - Segnale di preavviso semplificato di intersezione urbana con una ZTL
+Tavola 5b - Segnale di preavviso semplificato di intersezione urbana con una ZTL
+Tavola 6 - Segnale di preavviso di intersezione urbana con una ZTL periodica
+(sistema sostituibile)
+28
+Tavola 7 - Segnaletica di varco
+29
+Tavola 8 - Segnaletica di varco con i PMV
+30
+Tavola 9 - Segnaletica di varco per la ZTL permanente con divieto generalizzato a tutte le categorie di veicoli
+Tavola 10 - Segnaletica di varco per la ZTL variabile
+con divieto generalizzato a tutte le categorie di veicoli
+32
+Tavola 11a - Segnaletica di varco per la ZTL con divieti per alcune categorie di veicoli
+33
+Tavola 11b - Segnaletica di varco per la ZTL con divieti per alcune categorie di veicoli

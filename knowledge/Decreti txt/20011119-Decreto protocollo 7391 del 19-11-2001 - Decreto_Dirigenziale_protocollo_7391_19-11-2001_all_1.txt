@@ -1,0 +1,56 @@
+Ministero delle Infrastrutture e dei Trasporti
+ISPETTORATO GENERALE PER LA CIRCOLAZIONE E LA SICUREZZA STRADALE
+Prot n.7391
+VISTI gli artt. 41 e 45 del Decreto Legislativo 30 aprile 1992, n. 285 - Nuovo Codice della Strada
+e successive modificazioni;
+VISTI gli artt.159 ÷ 169 e 192 del D.P.R. 16 dicembre 1992, n. 495 - Regolamento di esecuzione
+ed attuazione del Nuovo Codice della Strada e successive modificazioni;
+VISTA la domanda in data 12 marzo 2001 presentata dalla Ditta S.C.A.E. S.p.A. Semafori Controlli
+Automazione Elettrica con sede in Via Alessandro Volta, 6 - 20090 Segrate (MI), integrata con nota
+in data 31 maggio 2001, intesa ad ottenere l'omologazione dei dispositivi luminosi lanterne
+semaforiche veicolari a tre luci con ottica a Led prodotte nei diametri di 200 mm e 300 mm,
+denominate rispettivamente SP3/L e SPP3/L, integrate con mascherine per realizzare lanterne
+semaforiche di corsia, per veicoli di trasporto pubblico e per attraversamenti pedonali;
+VISTA la norma EN 12368 edizione Gennaio 2000 inerente dispositivi di controllo del traffico-
+semafori;
+VISTO il voto n. 192 reso nell'adunanza del 18 luglio 2001 con il quale la V^ Sezione del
+Consiglio Superiore dei lavori pubblici ha espresso parere che la richiesta di omologazione fosse
+meritevole di accoglimento con limitazioni e con raccomandazioni circa la sicurezza elettrica;
+CONSIDERATO che la Ditta S.C.A.E. S.p.A., in ottemperanza al citato voto n.192, ha trasmesso,
+con nota n.2102 in data 25 ottobre 2001, il certificato di Conformità n. 654/01 per la sicurezza
+elettrica delle lanterne, rilasciato dalla Globe Comunications S.p.A. in data 24 ottobre 2001.
+DECRETA
+ART. 1 - Sono omologati, ai sensi dell'art. 192 del D.P.R. n. 495/92 - Regolamento di esecuzione
+ed attuazione del Nuovo Codice della Strada - i dispositivi luminosi lanterne semaforiche
+veicolari a tre luci nei colori rosso, giallo e verde, con ottica a Led, di diametro nominale
+di 200 mm e 300 mm con l'utilizzazione di mascherine con simboli per realizzare
+lanterne semaforiche di corsia, per veicoli di trasporto pubblico ad eccezione delle luci a
+barre, e per attraversamenti pedonali.
+ART. 2 - Le lanterne semaforiche sono caratterizzate dalle seguenti classi e livelli di prestazioni con
+riferimento alla norma EN 12368:2000:
+- Resistenza all'impatto:
+Classe IRI
+- Grado di protezione:
+Classe IV: IP 55
+- Range di temperatura:
+Classe B
+- Intensità luminosa:
+Livello 2/1
+Ministero delle Infrastrutture e dei Trasporti
+- Distribuzione intensità luminosa:
+Tipo W Classe A 2/1
+- Uniformità illuminante:
+Tipo W>= 1:10
+- Massimo effetto phantom:
+Classe 1
+- Segnale luminoso con simbolo:
+Classe S 1
+- Superficie di Contrasto:
+Classe C 1
+ART. 3 - Gli esemplari prodotti e posti in commercio dovranno essere conformi al campione
+depositato presso questo Ministero - Ispettorato Generale per la Circolazione e la
+Sicurezza Stradale - e dovranno riportare indelebilmente gli estremi del presente
+decreto, nonché il nome del fabbricante.
+Roma, li 19 novembre 2001
+IL CAPO DELL’ISPETTORATO
+(Dott . Ing. Pasquale Cialdini)
