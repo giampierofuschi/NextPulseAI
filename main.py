@@ -1,7 +1,7 @@
 import os
 import streamlit as st
 from langchain_groq import ChatGroq
-from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
 
 from retriever import Retriever
 from parametrizer import Parametrizer
@@ -9,7 +9,7 @@ from intent_classifier import IntentClassifier
 from prompt_builder import PromptBuilder
 
 #api-key
-GROQ_API_KEY = "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"
+GROQ_API_KEY =
 if not GROQ_API_KEY:
     try:
         GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
@@ -67,12 +67,26 @@ def retrieve_context(query: str, retriever) -> tuple[str, list]:
         return "\n\n---\n\n".join(parts), sources
     except Exception: return "", []
 
-def call_llm(llm, system: str, user: str) -> str:
+
+def call_llm(llm, system: str, user: str, history: list = None) -> str:
     if llm is None: return "API key Groq non configurata."
     try:
-        messages = [SystemMessage(content=system), HumanMessage(content=user)]
+        messages = [SystemMessage(content=system)]
+
+        # Aggiungiamo la memoria conversazionale (limitata agli ultimi 6 messaggi per non saturare i token)
+        if history:
+            for msg in history[-6:]:
+                if msg["role"] == "user":
+                    messages.append(HumanMessage(content=msg["content"]))
+                elif msg["role"] == "assistant":
+                    messages.append(AIMessage(content=msg["content"]))
+
+        # Aggiungiamo il prompt attuale (che contiene la nuova domanda, il RAG e il contesto)
+        messages.append(HumanMessage(content=user))
+
         return llm.invoke(messages).content
-    except Exception as e: return f"Errore: {str(e)}"
+    except Exception as e:
+        return f"Errore: {str(e)}"
 
 # ════════════════════════════════════════════════════════════════════════════
 # STYLING — INTERFACCIA PROFESSIONALE DARK/SOFT COMPATTA
@@ -299,8 +313,13 @@ DOCUMENTAZIONE DI SUPPORTO INTERNA (RAG):
 RICHIESTA COMMERCIALE UTENTE:
 {chat_input}
 """
-                # Chiamata Groq
-                answer = call_llm(llm, prompt_builder.get_system_prompt(), conversational_prompt)
+                # Chiamata Groq con memoria conversazionale
+                answer = call_llm(
+                    llm,
+                    prompt_builder.get_system_prompt(),
+                    conversational_prompt,
+                    history=st.session_state.chat_messages[:-1]  # Escludiamo l'ultimo messaggio inserito in UI
+                )
                 st.markdown(answer)
 
     # 3. Salva la risposta dell'assistente nello stato e rinfresca in modo sincrono

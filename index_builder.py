@@ -20,9 +20,6 @@ class IndexBuilder:
         self.index_path = os.path.join(persist_dir, "faiss.index")
         self.meta_path = os.path.join(persist_dir, "metadata.pkl")
 
-    # ─────────────────────────────
-    # BUILD INDEX
-    # ─────────────────────────────
 
     def build(self):
 
