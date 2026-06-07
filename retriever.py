@@ -39,8 +39,13 @@ class Retriever:
 
             meta = self.metadata[idx]
 
+            # Normalizzazione della distanza L2 in uno score di rilevanza (0-1)
+            # Valori più vicini a 1.0 indicano una similarità maggiore
+            raw_distance = float(scores[0][rank])
+            normalized_score = 1 / (1 + raw_distance)
+
             results.append({
-                "score": float(scores[0][rank]),
+                "score": normalized_score,
                 "file_name": meta.get("file_name", ""),
                 "file_path": meta.get("file_path", ""),
                 "chunk_id": meta.get("chunk_id", -1),
