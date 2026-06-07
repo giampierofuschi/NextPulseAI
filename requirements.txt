@@ -1,0 +1,7 @@
+streamlit>=1.35.0
+langchain-groq>=0.1.6
+langchain-core>=0.2.0
+sentence-transformers>=2.7.0
+faiss-cpu>=1.8.0
+llama-index-core>=0.10.0
+numpy>=1.26.0
