@@ -1,7 +1,7 @@
 # S.P.E.E.D. 🚦
 ### Smart Pre-sales Engine for Enforcement Data
 
-AI-powered sales assistant for the traffic enforcement domain, developed by Team "Dodici" during **Next Pulse**, a hackathon organized by **Zenita Group** (07/06/2026, Chieti).
+AI-powered sales assistant for the traffic enforcement domain, developed by Team "Dodici" during **Next Pulse**, a hackathon organized by **Zenita Group** (06-07/06/2026, Chieti).
 
 ---
 
