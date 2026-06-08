@@ -9,7 +9,7 @@ from intent_classifier import IntentClassifier
 from prompt_builder import PromptBuilder
 
 #api-key
-GROQ_API_KEY =
+GROQ_API_KEY = "" #inserire API key
 if not GROQ_API_KEY:
     try:
         GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
@@ -19,7 +19,7 @@ if not GROQ_API_KEY:
 os.environ["GROQ_API_KEY"] = GROQ_API_KEY
 
 #top_k indica i top 5 chunk
-TOP_K = 10
+TOP_K = 6
 PRODOTTI_OPTIONS = ["", "Controllo Velocità", "ZTL", "Infrazione semaforo", "Analytics per mobilità urbana"]
 SEGMENTI = ["", "Comune", "Provincia", "Polizia Locale", "Gestore autostradale", "Smart City", "Azienda trasporti"]
 
@@ -46,7 +46,8 @@ def get_deal_from_session() -> dict:
     return {
         "cliente":    st.session_state.get("f_cliente", ""),
         "segmento":   st.session_state.get("f_segmento", ""),
-        "budget":     st.session_state.get("f_budget", "")
+        "budget":     st.session_state.get("f_budget", ""),
+        "prodotti": st.session_state.get("sel_prodotti", [])
     }
 
 def format_budget(val: str) -> str:
@@ -88,13 +89,9 @@ def call_llm(llm, system: str, user: str, history: list = None) -> str:
     except Exception as e:
         return f"Errore: {str(e)}"
 
-# ════════════════════════════════════════════════════════════════════════════
-# STYLING — INTERFACCIA PROFESSIONALE DARK/SOFT COMPATTA
-# ════════════════════════════════════════════════════════════════════════════
-
 st.set_page_config(
     page_title="AI Sales Assistant",
-    page_icon="🤖",
+    page_icon="🚦",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -136,11 +133,25 @@ GLOBAL_CSS = """
     margin-bottom: -2px !important;
 }
 
-/* Elementi di input della sidebar adattati */
-[data-testid="stSidebar"] input, [data-testid="stSidebar"] select {
+/* Elementi di input della sidebar adattati (rimosso il selettore 'select' che spaccava l'UI) */
+[data-testid="stSidebar"] div[data-testid="stTextInput"] input {
     background-color: #25252e !important;
     color: #f4f5f7 !important;
     border: 1px solid #3a3a4a !important;
+}
+
+/* Applica colore e bordo ai contenitori esterni delle Selectbox e Multiselect */
+[data-testid="stSidebar"] div[data-baseweb="select"] > div {
+    background-color: #25252e !important;
+    border: 1px solid #3a3a4a !important;
+    border-radius: 6px !important; /* Facoltativo: arrotonda leggermente gli angoli */
+}
+
+/* Stile forzato per le "pills" del multiselect per renderle ben visibili */
+span[data-baseweb="tag"] {
+    background-color: #378ADD !important;
+    color: white !important;
+    border: none !important;
 }
 
 /* Contenitori dei report strutturati flat ed eleganti */
@@ -172,14 +183,12 @@ h1, h2, h3, p { color: #f4f5f7 !important; }
 """
 st.markdown(GLOBAL_CSS, unsafe_allow_html=True)
 
-# Caricamento istanze core
 llm = load_groq(GROQ_API_KEY)
 retriever = load_retriever()
 param = load_parametrizer()
 classifier = load_classifier()
 prompt_builder = load_prompt_builder()
 
-# Inizializzazione Session State
 defaults = {
     "f_cliente": "",
     "f_segmento": "",
@@ -192,77 +201,33 @@ for key, value in defaults.items():
     if key not in st.session_state:
         st.session_state[key] = value
 
-# ════════════════════════════════════════════════════════════════════════════
-# SIDEBAR COMPATTA — SPECIFICHE AGGIUNTIVE (NON OBBLIGATORIE)
-# ════════════════════════════════════════════════════════════════════════════
-
 with st.sidebar:
     st.markdown("## 📋 Specifiche Aggiuntive")
 
-    st.session_state.f_cliente = st.text_input(
-        "Cliente / Ente", value=st.session_state.f_cliente, placeholder="Opzionale (es. Comune di Roma)"
-    )
-    st.session_state.f_segmento = st.selectbox(
-        "Segmento", SEGMENTI, index=SEGMENTI.index(st.session_state.f_segmento) if st.session_state.f_segmento in SEGMENTI else 0
-    )
+    st.text_input("Cliente / Ente", key="f_cliente")
 
-    st.markdown("<label style='font-size:13px; color:#cbd5e0;'>Prodotti di interesse</label>", unsafe_allow_html=True)
-    st.session_state.sel_prodotti = st.multiselect(
-        "Prodotti", PRODOTTI_OPTIONS, default=st.session_state.sel_prodotti, label_visibility="collapsed"
-    )
+    st.selectbox("Segmento", SEGMENTI, key="f_segmento")
 
-    st.session_state.f_budget = st.text_input(
-        "Budget indicativo (€)", value=st.session_state.f_budget, placeholder="Opzionale"
-    )
+    st.multiselect("Prodotti", PRODOTTI_OPTIONS, key="sel_prodotti")
+
+    st.text_input("Budget indicativo (€)", key="f_budget", placeholder="Opzionale")
 
     st.markdown("<div style='margin-top: 15px;'></div>", unsafe_allow_html=True)
 
-    col_btn1, col_btn2 = st.columns(2)
-    with col_btn1:
-        run_analysis = st.button("⚡ Analizza", use_container_width=True, type="primary")
-    with col_btn2:
-        if st.button("🗑️ Reset", use_container_width=True):
-            for k, v in defaults.items():
-                st.session_state[k] = v
-            st.rerun()
+    if st.button("🗑️ Reset", use_container_width=True):
+        # Pulizia sicura dello stato per i widget con 'key'
+        for k in ["f_cliente", "f_segmento", "sel_prodotti", "f_budget"]:
+            if k in st.session_state:
+                del st.session_state[k]
+        st.session_state.chat_messages = []  # Svuota anche la chat
+        st.rerun()
 
-# Generazione report strutturato (Le specifiche non sono più obbligatorie per l'esecuzione)
-if run_analysis:
-    with st.spinner("Generazione quadro di sintesi..."):
-        deal = get_deal_from_session()
-        rag_query = prompt_builder.build_rag_query(deal)
-        rag_context, sources = retrieve_context(rag_query, retriever)
-        system_prompt = prompt_builder.get_system_prompt()
-
-        st.session_state.analysis_result = {
-            "configurazione": call_llm(llm, system_prompt, prompt_builder.section_prompt("configurazione", deal, rag_context)),
-            "normativa": call_llm(llm, system_prompt, prompt_builder.section_prompt("normativa", deal, rag_context)),
-            "rischi": call_llm(llm, system_prompt, prompt_builder.section_prompt("rischi", deal, rag_context)),
-            "sources": sources
-        }
-
-# ════════════════════════════════════════════════════════════════════════════
-# AREA CENTRALE — SPAZIO DI LAVORO COMMERCIALE
-# ════════════════════════════════════════════════════════════════════════════
-
-st.title("🤖 AI Sales Assistant")
+st.title("🚦 AI Sales Assistant")
 st.caption("Engine SpA · Supporto decisionale e assistente commerciale intelligente")
-
-# Quadro di Sintesi Strutturato (Se generato)
-if st.session_state.analysis_result:
-    with st.expander("📊 Quadro di Sintesi Strutturato Corrente", expanded=False):
-        res = st.session_state.analysis_result
-
-        st.markdown(f'<div class="output-container" style="border-left: 3px solid #1D9E75;"><div class="output-title">⚙️ Configurazione Tecnica</div><div class="output-body">{res["configurazione"]}</div></div>', unsafe_allow_html=True)
-        st.markdown(f'<div class="output-container" style="border-left: 3px solid #378ADD;"><div class="output-title">⚖️ Analisi Normativa</div><div class="output-body">{res["normativa"]}</div></div>', unsafe_allow_html=True)
-        st.markdown(f'<div class="output-container" style="border-left: 3px solid #E24B4A;"><div class="output-title">🔴 Matrice Rischi</div><div class="output-body">{res["rischi"]}</div></div>', unsafe_allow_html=True)
-
-        if res["sources"]:
-            st.caption(f"Fonti documentali integrate: {', '.join(res['sources'])}")
 
 st.markdown("---")
 
-# 📄 CONTENITORE CRONOLOGIA CHAT
+# CRONOLOGIA CHAT
 chat_container = st.container()
 
 with chat_container:
@@ -271,7 +236,7 @@ with chat_container:
             """
             <div style="text-align: center; color: #718096; padding: 4rem 1rem;">
                 <p style="font-size: 22px; margin-bottom: 5px;">💬 Workspace Conversazionale Attivo</p>
-                <p style="font-size: 13.5px;">Chiedi bozze di offerta, analisi obiezioni o specifiche tecniche liberamente o usando i filtri opzionali a sinistra.</p>
+                <p style="font-size: 13.5px;">Fai una domanda, chiedi una bozza di offerta o scrivi "Fammi un'analisi completa". <b>I parametri selezionati a sinistra verranno aggiunti automaticamente al contesto!</b></p>
             </div>
             """,
             unsafe_allow_html=True
@@ -281,47 +246,42 @@ with chat_container:
             with st.chat_message(msg["role"]):
                 st.markdown(msg["content"])
 
-# 📥 INPUT FISSO IN BASSO
-chat_input = st.chat_input("Fai una domanda o richiedi un'action commerciale...")
+chat_input = st.chat_input("Scrivi qui... (i parametri laterali verranno inclusi in automatico)")
 
 if chat_input:
     # 1. Inserisci immediatamente il messaggio dell'utente in coda alla lista
     st.session_state.chat_messages.append({"role": "user", "content": chat_input})
 
-    # Forza il rendering immediato del messaggio dell'utente nell'area chat
     with chat_container:
         with st.chat_message("user"):
             st.markdown(chat_input)
 
-    # 2. Mostra uno spinner di caricamento pulito sotto l'ultimo messaggio per la risposta pendente
     with chat_container:
         with st.chat_message("assistant"):
             with st.spinner("Elaborazione risposta commerciale in corso..."):
-
-                # Raccolta contesti RAG + Campi
+                # LA MAGIA AVVIENE QUI: Raccoglie i campi della sidebar e il RAG
                 deal = get_deal_from_session()
                 ctx_text = prompt_builder.deal_to_text(deal)
                 rag_ctx, _ = retrieve_context(chat_input, retriever)
 
                 conversational_prompt = f"""
-CONTESTO ATTUALE DEL DEAL:
-{ctx_text}
+    CONTESTO ATTUALE DEL DEAL (Parametri Sidebar):
+    {ctx_text}
 
-DOCUMENTAZIONE DI SUPPORTO INTERNA (RAG):
-{rag_ctx if rag_ctx else 'Nessun documento rilevante estratto.'}
+    DOCUMENTAZIONE DI SUPPORTO INTERNA (RAG):
+    {rag_ctx if rag_ctx else 'Nessun documento rilevante estratto.'}
 
-RICHIESTA COMMERCIALE UTENTE:
-{chat_input}
-"""
-                # Chiamata Groq con memoria conversazionale
+    RICHIESTA COMMERCIALE UTENTE:
+    {chat_input}
+    """
+                #chiamata a Groq
                 answer = call_llm(
                     llm,
                     prompt_builder.get_system_prompt(),
                     conversational_prompt,
-                    history=st.session_state.chat_messages[:-1]  # Escludiamo l'ultimo messaggio inserito in UI
+                    history=st.session_state.chat_messages[:-1]
                 )
                 st.markdown(answer)
 
-    # 3. Salva la risposta dell'assistente nello stato e rinfresca in modo sincrono
     st.session_state.chat_messages.append({"role": "assistant", "content": answer})
     st.rerun()

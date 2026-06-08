@@ -20,9 +20,6 @@ class Retriever:
         with open(os.path.join(persist_dir, "metadata.pkl"), "rb") as f:
             self.metadata = pickle.load(f)
 
-    # ─────────────────────────────
-    # SEARCH
-    # ─────────────────────────────
 
     def search(self, query, top_k=5):
 

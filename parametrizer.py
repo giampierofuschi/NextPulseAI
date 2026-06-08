@@ -3,14 +3,6 @@ import re
 
 
 class Parametrizer:
-    """
-    FASE 1:
-    Estrazione parametrica SOLO con keyword + regex.
-    """
-
-    # ─────────────────────────────────────────────
-    # MAPPATURE
-    # ─────────────────────────────────────────────
 
     CUSTOMER_SEGMENTS = {
         "comune": "municipality",
@@ -40,13 +32,6 @@ class Parametrizer:
         "mobile": "mobile_unit",
     }
 
-    COMPLIANCE = {
-        "gdpr": "gdpr",
-        "anac": "anac",
-        "omologazione": "ministerial_homologation",
-        "cybersecurity": "cybersecurity",
-    }
-
     PRIORITIES = {
         "incidenti": "safety",
         "sicurezza": "safety",
@@ -65,12 +50,6 @@ class Parametrizer:
         "negoziazione": "negotiation",
     }
 
-    DEPLOYMENTS = {
-        "cloud": "cloud",
-        "on premise": "on_prem",
-        "hybrid": "hybrid",
-    }
-
     STAKEHOLDERS = {
         "assessore": "mobility_councilor",
         "polizia locale": "local_police",
@@ -80,22 +59,9 @@ class Parametrizer:
         "mobility manager": "mobility_manager",
     }
 
-    URGENCY = {
-        "alta": "high",
-        "media": "medium",
-        "bassa": "low",
-    }
-
-    # ─────────────────────────────────────────────
-    # INIT
-    # ─────────────────────────────────────────────
-
     def __init__(self):
         pass
 
-    # ─────────────────────────────────────────────
-    # MATCH KEYWORDS
-    # ─────────────────────────────────────────────
 
     def match_keywords(self, text: str, mapping: dict):
 
@@ -108,9 +74,6 @@ class Parametrizer:
 
         return list(results)
 
-    # ─────────────────────────────────────────────
-    # REGEX EXTRACTORS
-    # ─────────────────────────────────────────────
 
     def extract_budget(self, text: str):
 
@@ -122,9 +85,6 @@ class Parametrizer:
         match = re.search(r"comune di ([a-zàèéìòù\s]+)", text.lower())
         return match.group(1).strip().title() if match else ""
 
-    # ─────────────────────────────────────────────
-    # MAIN EXTRACTION
-    # ─────────────────────────────────────────────
 
     def extract_parameters(self, text: str):
 
@@ -134,12 +94,8 @@ class Parametrizer:
             "customer_segment": self.match_keywords(text, self.CUSTOMER_SEGMENTS),
             "use_cases": self.match_keywords(text, self.USE_CASES),
             "products": self.match_keywords(text, self.PRODUCTS),
-            "compliance": self.match_keywords(text, self.COMPLIANCE),
-            "priority": self.match_keywords(text, self.PRIORITIES),
             "sales_stage": self.match_keywords(text, self.SALES_STAGE),
-            "deployment": self.match_keywords(text, self.DEPLOYMENTS),
             "stakeholders": self.match_keywords(text, self.STAKEHOLDERS),
-            "urgency": self.match_keywords(text, self.URGENCY),
 
             "budget": self.extract_budget(text),
 
@@ -149,10 +105,6 @@ class Parametrizer:
             "ambiguities": [],
             "confidence": {}
         }
-
-    # ─────────────────────────────────────────────
-    # QUERY BUILDER
-    # ─────────────────────────────────────────────
 
     def build_query(self, data: dict):
 
@@ -167,55 +119,38 @@ class Parametrizer:
         if data.get("sales_stage"):
             parts.append(f"stage:{data['sales_stage']}")
 
-        if data.get("priority"):
-            parts.append(f"priority:{data['priority']}")
-
-        if data.get("deployment"):
-            parts.append(f"deployment:{data['deployment']}")
-
         if data.get("use_cases"):
             parts.append(f"use_cases:[{','.join(data['use_cases'])}]")
 
         if data.get("products"):
             parts.append(f"products:[{','.join(data['products'])}]")
 
-        if data.get("compliance"):
-            parts.append(f"compliance:[{','.join(data['compliance'])}]")
-
         if data.get("stakeholders"):
             parts.append(f"stakeholders:[{','.join(data['stakeholders'])}]")
 
         return " AND ".join(parts)
-
-    # ─────────────────────────────────────────────
-    # VALIDATION
-    # ─────────────────────────────────────────────
 
     def validate(self, data: dict):
 
         errors = []
 
         if not data.get("customer_segment"):
-            errors.append("🔴 customer_segment mancante")
+            errors.append("customer_segment mancante")
 
         if not data.get("products"):
-            errors.append("🔴 products mancanti")
+            errors.append("products mancanti")
 
         if not data.get("use_cases"):
-            errors.append("🟡 use_cases non identificati")
+            errors.append("use_cases non identificati")
 
         if not data.get("sales_stage"):
-            errors.append("🟡 sales_stage non identificato")
+            errors.append("sales_stage non identificato")
 
         if "tender" in data.get("sales_stage", []):
             if "anac" not in data.get("compliance", []):
-                errors.append("🔴 tender senza compliance ANAC")
+                errors.append("tender senza compliance ANAC")
 
         return errors
-
-    # ─────────────────────────────────────────────
-    # PIPELINE
-    # ─────────────────────────────────────────────
 
     def process(self, text: str):
 
@@ -230,9 +165,6 @@ class Parametrizer:
         }
 
 
-# ─────────────────────────────────────────────
-# TEST
-# ─────────────────────────────────────────────
 
 if __name__ == "__main__":
 

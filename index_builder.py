@@ -2,10 +2,11 @@ import os
 import pickle
 import faiss
 import numpy as np
+import re
 
-from sentence_transformers import SentenceTransformer
 from llama_index.core import SimpleDirectoryReader
 from llama_index.core.node_parser import SentenceSplitter
+from sentence_transformers import SentenceTransformer
 
 
 class IndexBuilder:
@@ -19,6 +20,20 @@ class IndexBuilder:
 
         self.index_path = os.path.join(persist_dir, "faiss.index")
         self.meta_path = os.path.join(persist_dir, "metadata.pkl")
+
+
+    def _clean_text(self, text: str) -> str:
+        """Pulisce il testo grezzo dai difetti tipici dei PDF."""
+        if not text:
+            return ""
+
+        text = re.sub(r'(\w+)-\n(\w+)', r'\1\2', text)
+
+        text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', text)
+
+        text = re.sub(r'\s+', ' ', text)
+
+        return text.strip()
 
 
     def build(self):
@@ -42,8 +57,11 @@ class IndexBuilder:
 
         for i, n in enumerate(nodes):
 
-            text = n.text.strip()
-            if not text:
+            # --- APPLICHIAMO LA PULIZIA QUI ---
+            raw_text = n.text
+            text = self._clean_text(raw_text)
+
+            if len(text) < 50:  # Ignoriamo i chunk troppo corti che contengono solo rumore
                 continue
 
             texts.append(text)
@@ -68,4 +86,8 @@ class IndexBuilder:
         with open(self.meta_path, "wb") as f:
             pickle.dump(metadata, f)
 
-        print("✅ Index built successfully")
+        print("Index built successfully")
+
+if __name__ == "__main__":
+    builder = IndexBuilder(data_dir="knowledge")
+    builder.build()
