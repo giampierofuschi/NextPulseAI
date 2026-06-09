@@ -1,0 +1,780 @@
+Serie generale - n. 177
+31-7-2017
+L’ammontare della provvigione di collocamento, pre-
+vista dall’art. 2 del presente decreto, sarà scritturato dalle
+sezioni di Tesoreria fra i «pagamenti da regolare» e farà
+carico al capitolo 2247 (unità di voto parlamentare 21.1;
+codice gestionale 109) dello stato di previsione della spe-
+sa del Ministero dell’economia e delle finanze per l’anno
+finanziario 2017.
+Il presente decreto sarà pubblicato nella Gazzetta Uffi-
+ciale della Repubblica italiana.
+Roma, 24 luglio 2017
+p. Il direttore generale del Tesoro: CANNATA
+17A05354
+MINISTERO DELLE INFRASTRUTTURE
+E DEI TRASPORTI
+DECRETO 13 giugno 2017 .
+Verifiche iniziali e periodiche di funzionalità e di taratu-
+ra delle apparecchiature impiegate nell’accertamento delle
+violazioni dei limiti massimi di velocità, modalità di segnala-
+zione delle postazioni di controllo sulla rete stradale.
+IL MINISTRO DELLE INFRASTRUTTURE
+E DEI TRASPORTI
+Visto l’art. 45 del decreto legislativo 30 aprile 1992,
+n. 285, «Nuovo codice della strada», e successive modifi-
+cazioni, che prevede, tra l’altro, l’approvazione o l’omo-
+logazione da parte del Ministero delle infrastrutture e dei
+trasporti dei dispositivi, apparecchiature e mezzi tecnici
+atti all’accertamento ed al rilevamento automatico delle
+violazioni alle norme di circolazione;
+Visto l’art. 192 del decreto del Presidente della Repub-
+blica 16 dicembre 1992, n. 495, «regolamento di esecu-
+zione e di attuazione del nuovo codice della strada», e
+successive modificazioni, che disciplina la procedura per
+conseguire l’approvazione o l’omologazione anche dei
+dispositivi, apparecchiature e mezzi tecnici per l’accerta-
+mento e il rilevamento automatico delle violazioni;
+Visto l’art. 142 del decreto legislativo n. 285 del 1992,
+e successive modificazioni, che disciplina i limiti di
+velocità;
+Visto l’art. 345 del decreto del Presidente della Repub-
+blica n. 495 del 1992, e successive modificazioni, che
+fissa i requisiti generali delle apparecchiature e mezzi di
+accertamento della osservanza dei limiti di velocità;
+Visto il decreto del Ministro dei lavori pubblici 29 otto-
+bre 1997 recante «Approvazione di prototipi di apparec-
+chiature per l’accertamento dell’osservanza dei limiti di
+velocità e loro modalità di impiego»;
+Visto l’art. 201 del decreto legislativo n. 285 del 1992,
+che disciplina la notificazione delle violazioni, come mo-
+dificato dal decreto-legge 27 giugno 2003, n. 151, con-
+vertito con modificazioni in legge 1° agosto 2003, n. 214,
+e dall’art. 36 della legge 29 luglio 2010, n. 120;
+Visti in particolare il comma 1 -bis del richiamato
+art. 201, che elenca sotto le lettere da a) a g -bis ) i casi
+in cui non è necessaria la contestazione immediata della
+violazione; ed i commi 1 -ter ed 1 -quater , che prevedono
+che per i casi sotto le lettere b) , f) , g) e g -bis ) non è neces-
+saria la presenza degli organi di polizia stradale qualora
+l’accertamento avvenga mediante rilievo con appositi di-
+spositivi o apparecchiature debitamente omologate o ap-
+provate, e tra questi le violazioni all’art. 142 del decreto
+legislativo n. 285 del 1992, e successive modificazioni;
+Visto l’art. 4 del decreto-legge 20 giugno 2002, n. 121,
+convertito, con modificazioni, nella legge 1° agosto 2002,
+n. 168, che individua le tipologie di strade lungo le quali
+è possibile effettuare il rilevamento a distanza e in modo
+automatico, tra l’altro, delle violazioni alle norme di
+comportamento di cui all’art. 142 del decreto legislativo
+n. 285 del 1992, e successive modificazioni;
+Visto l’art. 3 del decreto-legge 3 agosto 2007, n. 117,
+convertito, con modificazioni, nella legge 2 ottobre 2007,
+n. 160, recante disposizioni urgenti modificative del codi-
+ce della strada per incrementare i livelli di sicurezza nella
+circolazione;
+Visto il decreto del Ministro dei trasporti, di concerto
+con il Ministro dell’interno, 15 agosto 2007, recante «At-
+tuazione dell’art. 3, comma 1, lettera b) del decreto-legge
+3 agosto 2007, n. 117, recante disposizioni urgenti modi-
+ficative del codice della strada per incrementare i livelli
+di sicurezza nella circolazione»;
+Visto l’art. 25 della legge 29 luglio 2010, n. 120, recan-
+te disposizioni in materia di sicurezza stradale;
+Vista la sentenza della Corte costituzionale n. 113, de-
+positata il 18 giugno 2015, che ha dichiarato incostituzio-
+nale, in riferimento all’art. 3 della Costituzione, l’art. 45,
+comma 6, del decreto legislativo n. 285 del 1992, nel-
+la parte in cui non prevede che tutte le apparecchiature
+impiegate per l’accertamento delle violazioni ai limiti di
+velocità siano sottoposte a verifiche periodiche di funzio-
+nalità e di taratura;
+Visto l’art. 117, comma 2, lettera r) , della Costituzione,
+che attribuisce allo Stato la competenza esclusiva in ma-
+teria di pesi e misure;
+Visto l’art. 4 del decreto legislativo 31 marzo 1998,
+n. 112, con il quale è conservato allo Stato il potere di
+indirizzo e coordinamento relativamente alle funzioni e
+ai compiti conferiti;
+Vista la legge 11 agosto 1991, n. 273, recante «Isti-
+tuzione del sistema nazionale di taratura, che definisce
+gli istituti metrologici primari, i campioni nazionali ed i
+centri di taratura»;
+Visto il decreto del Ministro dello sviluppo economi-
+co, di concerto con i Ministri dell’interno, delle politiche
+agricole e forestali, dell’ambiente e della tutela del terri-
+torio e del mare, delle infrastrutture e dei trasporti, del la-
+voro e delle politiche sociali, della salute, dell’istruzione,
+dell’università e della ricerca, della difesa, 22 dicembre
+2009, con il quale ACCREDIA è stata designata quale
+unico organismo nazionale autorizzato a svolgere attività
+di accreditamento, in applicazione dell’art. 4 della legge
+23 luglio 2009, n. 99;
+Serie generale - n. 177
+31-7-2017
+Visti gli atti di indirizzo n. 1/01106 e n. 1/01116, appro-
+vati dalla Camera dei deputati nella seduta del 28 gennaio
+2016 e accolti dal Governo;
+Considerato che in attesa della modifica dell’art. 45,
+comma 6, del decreto legislativo n. 285 del 1992 si ren-
+de opportuno dare comunque attuazione al disposto della
+sentenza n. 113/2015 della Corte costituzionale;
+Considerato che in sede di approvazione del prototipo
+delle apparecchiature per l’accertamento delle violazioni
+dei limiti massimi di velocità i competenti uffici del mi-
+nistero, pur in assenza di specifiche norme di riferimento,
+hanno comunque imposto, nei decreti di approvazione dei
+prototipi, la necessità di verifiche periodiche, in maniera
+esplicita ovvero con rinvio al rispetto delle prescrizioni
+contenute nei manuali d’uso e manutenzione;
+Considerato, in particolare, che per le apparecchiature
+destinate ad operare in modalità automatica, senza l’au-
+silio degli organi di polizia stradale, fin dall’anno 2003
+è stata prescritta la verifica periodica con cadenza alme-
+no annuale, mentre per un limitato numero di dispositi-
+vi, destinati a funzionare esclusivamente sotto il diretto
+controllo degli organi di polizia stradale, sono state ri-
+tenute sufficienti le verifiche di funzionalità e i controlli
+da eseguirsi ogni qual volta il dispositivo viene messo in
+opera, comprese le eventuali procedure di autodiagnosi
+che escludono il funzionamento in caso di errori di instal-
+lazione o di puntamento, e le operazioni di manutenzione
+e verifica prescritte nei manuali d’uso e manutenzione;
+Attesa la necessità di uniformare i comportamenti dei
+costruttori dei dispositivi ed apparecchiature di che trat-
+tasi, e degli organi di polizia stradale interessati all’uso
+dei medesimi;
+Sentito l’avviso del Ministero dell’interno che, ai sen-
+si dell’art. 11, comma 3, del decreto legislativo n. 285
+del 1992, ha il compito di coordinare i servizi di poli-
+zia stradale da chiunque svolti, espresso nella nota
+n. 300/A/1692/17/144/5/20/3, in data 2 marzo 2017, del
+Dipartimento della pubblica sicurezza - Direzione centra-
+le per la polizia stradale, ferroviaria, delle comunicazioni
+e per i reparti speciali della Polizia di Stato;
+Sentito il parere della Assemblea generale del Consi-
+glio superiore dei lavori pubblici espresso con voto n. 19,
+reso nell’adunanza del 21 aprile 2017;
+Decreta:
+Art. 1.
+Nelle more della emanazione di specifiche norme per
+la omologazione, ai sensi dell’art. 192, commi 1 e 2, del
+decreto del Presidente della Repubblica n. 495 del 1992,
+dei dispositivi, delle apparecchiature e dei mezzi tecnici
+per l’accertamento delle violazioni dei limiti massimi di
+velocità, si procede alla approvazione del prototipo ai sen-
+si dell’art. 192, comma 3, del decreto sopra richiamato.
+Art. 2.
+Tutti i decreti di approvazione del prototipo, ove non
+già previsto, devono intendersi modificati con l’aggiun-
+ta del seguente periodo: «Il presente dispositivo/sistema,
+per l’accertamento delle violazioni dei limiti massimi di
+velocità, deve essere sottoposto a verifiche periodiche di
+funzionalità e di taratura con cadenza almeno annuale».
+Art. 3.
+Le procedure per eseguire l’approvazione del prototi-
+po e le verifiche periodiche di funzionalità e di taratura
+dei dispositivi, delle apparecchiature e dei mezzi tecnici
+per l’accertamento delle violazioni dei limiti massimi di
+velocità, e le modalità di segnalazione delle postazioni
+di controllo sulla rete stradale, sono indicate nell’allegato
+che costituisce parte integrante del presente decreto.
+Art. 4.
+Le disposizioni del presente decreto, inerenti le pro-
+cedure per l’approvazione dei prototipi, si applicano per
+le nuove approvazioni le cui domande sono presentate a
+decorrere dalla data della sua pubblicazione.
+Art. 5.
+L’impiego dei dispositivi, delle apparecchiature e dei
+mezzi tecnici per l’accertamento delle violazioni dei limi-
+ti massimi di velocità, per i quali non sia stata imposta, in
+sede di approvazione del prototipo ai sensi dell’art. 192,
+comma 3, del decreto del Presidente della Repubblica
+16 dicembre 1992, n. 495, ovvero non sia stata eseguita
+volontariamente la procedura di taratura, è subordinato
+alla esecuzione con esito positivo della medesima, a de-
+correre dalla data di pubblicazione del presente decreto.
+I dispositivi, le apparecchiature ed i mezzi tecnici per
+l’accertamento delle violazioni dei limiti massimi di ve-
+locità che, alla data di pubblicazione del presente decreto,
+sono in regola con la verifica di taratura effettuata secon-
+do le previgenti procedure e disposizioni, sono soggetti
+alle disposizioni del presente decreto dalla prima taratura
+successiva e comunque entro un anno dalla sua pubbli-
+cazione. Considerato che verifiche di funzionalità sono
+comunque eseguite ogni volta che si dispone l’impiego di
+dispositivi, di apparecchiature e di mezzi tecnici per l’ac-
+certamento delle violazioni dei limiti massimi di velocità,
+le stesse devono essere eseguite secondo le disposizioni
+del presente decreto entro il medesimo termine del perio-
+do precedente.
+Il presente decreto sarà pubblicato nella Gazzetta Uffi-
+ciale della Repubblica italiana.
+Roma, 13 giugno 2017
+Il Ministro: DELRIO
+Registrato alla Corte dei conti il 10 luglio 2017
+Ufficio controllo atti Ministero delle infrastrutture e dei trasporti, e
+del Ministero dell’ambiente e della tutela del territorio e del mare,
+registro n. 1, foglio n. 2838
+Serie generale - n. 177
+31-7-2017
+ALLEGATO
+Capo 1
+GENERALITÀ
+1.1 Ai fini delle presenti disposizioni il termine «dispositivo» si in-
+tende come sinonimo dei termini «apparecchiatura» e «mezzo tecnico»; il
+termine «sistema» si intende come insieme operativo di più dispositivi. I
+dispositivi e i sistemi impiegati nell’accertamento delle violazioni dei limiti
+massimi di velocità, sono soggetti ad approvazione del prototipo ai sensi
+dell’art. 45, comma 6, del Nuovo codice della strada (nel seguito «Codi-
+ce»), e dell’art. 192, comma 3, del connesso regolamento di esecuzione e di
+attuazione (nel seguito «regolamento»). Oltre a quanto prescritto nel segui-
+to, i dispositivi e i sistemi devono rispondere alle normative di settore per la
+specifica categoria di strumenti o funzioni in quanto applicabili.
+1.2. Essi possono essere approvati per il funzionamento in moda-
+lità istantanea (misura della velocità istantanea, puntuale o su piccola
+base), oppure in modalità media (misura della velocità media su base
+estesa); possono inoltre essere approvati anche come idonei al rileva-
+mento in caso di passaggio contemporaneo di più veicoli. La procedura
+di approvazione del prototipo prevede anche verifiche di taratura e veri-
+fiche di funzionalità, da eseguirsi anche congiuntamente:
+a) nel caso di misura della velocità istantanea:
+- sul prototipo del dispositivo, sia per la taratura che per la
+funzionalità;
+b) nel caso di misura della velocità media:
+- sul prototipo per la funzionalità;
+- sul sistema installato su una tratta campione, per la funzio-
+nalità e per la taratura.
+1.3 Per «prototipo» deve intendersi, escludendo gli adattamenti
+verso l’esterno resi necessari dalle condizioni locali di impiego:
+a) nel caso di misura della velocità istantanea:
+- il singolo dispositivo nella sua configurazione invariante, che
+concentra in sé le funzioni essenziali tese al rilevamento dell’infrazione;
+b) nel caso di misura della velocità media:
+- il singolo modulo nella sua configurazione invariante, costi-
+tuito dai diversi elementi assolventi alle diverse funzioni cui è destinato,
+replicabile indefinitamente per comporre il sistema.
+1.4 L’individuazione del prototipo è effettuata anche attraverso
+la documentazione tecnica depositata contestualmente alla domanda
+di approvazione, ivi compresa la descrizione del software predisposto
+per l’accertamento della violazione, ed ogni altro elemento ritenuto ne-
+cessario dal competente ufficio del Ministero delle infrastrutture e dei
+trasporti ai sensi dell’art. 192, comma 2, del regolamento.
+1.5 Ogni esemplare dei dispositivi approvati, e ogni sistema in-
+stallato su tratte di strada da sottoporre a controllo nel caso di velocità
+media, deve essere sottoposto a verifica iniziale di funzionalità e tara-
+tura prima di essere posto in esercizio. Dopo un anno dalla esecuzione
+della verifica iniziale di taratura, e successivamente con cadenza almeno
+annuale, su ogni dispositivo o sistema in uso dovranno essere eseguite le
+verifiche periodiche di funzionalità e di taratura di cui al Capo 2.
+Capo 2
+VERIFICHE INIZIALI E PERIODICHE
+2.1 Le verifiche di funzionalità e di taratura sul prototipo devono es-
+sere eseguite al fine di determinare l’idoneità del dispositivo o del sistema
+a svolgere il servizio richiesto, prima della sua approvazione. Le verifiche
+iniziali e periodiche di funzionalità e di taratura devono essere eseguite
+per accertare che le prestazioni di ogni esemplare in uso corrispondano a
+quelle del prototipo approvato. Per i dispositivi o sistemi che sono appro-
+vati per più di una modalità di funzionamento (ad esempio per velocità
+istantanea in modalità stazionaria o in movimento, con rilevamento in av-
+vicinamento o in allontanamento, per rilevamento della velocità istantanea
+o media, etc.) le verifiche di funzionalità e taratura devono essere effettuate
+in relazione alle modalità di funzionamento del dispositivo o sistema adot-
+tate dall’organo di polizia stradale che impiega i medesimi.
+2.2 Le verifiche iniziali e periodiche di taratura devono essere ese-
+guite, con emissione di certificato di taratura, da soggetti che operano in
+conformità ai requisiti della norma UNI CEI EN ISOIEC 17025:2005 (e
+future revisioni) come laboratori di taratura, accreditati da ACCREDIA
+o da altri organismi di Accreditamento firmatari a livello internazionale
+degli accordi di mutuo riconoscimento.
+2.3 Le verifiche di taratura in fase di approvazione del prototipo
+devono essere eseguite da soggetti terzi accreditati secondo quanto pre-
+scritto al punto 2.2. Le verifiche iniziali e periodiche di taratura pos-
+sono essere eseguite anche dal produttore o dall’utilizzatore, purché
+accreditato secondo quanto prescritto al punto 2.2. Nel caso in cui non
+risultassero accreditati soggetti terzi le verifiche di taratura in fase di
+approvazione possono essere eseguite anche da produttori o utilizzatori,
+purché accreditati secondo quanto prescritto al punto 2.2, e le operazioni
+di taratura svolte in occasione di una visita ispettiva da parte dell’orga-
+nismo unico nazionale ACCREDIA.
+2.4 Le verifiche di funzionalità in fase di approvazione del pro-
+totipo sono eseguite secondo le indicazioni del competente ufficio del
+Ministero delle infrastrutture e dei trasporti che ne valuta l’esito. Le ve-
+rifiche iniziali e periodiche di funzionalità sono eseguite e verbalizzate
+dall’organo di polizia stradale utilizzatore, successivamente alla verifica
+iniziale e periodica di taratura, nel corso della prima utilizzazione del
+dispositivo o del sistema dopo la taratura dello stesso.
+2.5 Nel corso delle verifiche di taratura (iniziali e periodiche) deve
+essere valutata la precisione delle misure eseguite dal dispositivo o dal
+sistema, ovvero l’errore di indicazione della velocità (istantanea o me-
+dia) rilevata dal dispositivo o dal sistema rispetto ad un idoneo sistema
+di misura di riferimento, secondo quanto prescritto dai Capi 3 e 4. Per
+i dispositivi e i sistemi già in servizio, per i quali è già operante una
+procedura di verifica periodica, la verifica di funzionalità e la taratura
+secondo le presenti disposizioni deve essere eseguita all’atto della prima
+verifica periodica utile successiva alla pubblicazione del presente atto.
+2.6 Nel corso delle verifiche di funzionalità (iniziali e periodiche)
+deve essere valutata la capacità del dispositivo o del sistema a fornire
+indicazioni attendibili ed utilizzabili da parte degli organi di polizia stra-
+dale, nelle condizioni di normale impiego su strada aperta al pubblico
+passaggio, secondo quanto prescritto dal Capo 5.
+2.7 Qualora le verifiche di taratura o di funzionalità, rispettiva-
+mente in fase di approvazione del prototipo o nel corso delle verifiche
+iniziali o periodiche, abbiano dato esito negativo, i dispositivi o i siste-
+mi non possono essere approvati, ovvero devono essere posti imme-
+diatamente fuori servizio, per essere successivamente ripristinati a cura
+del produttore, ovvero da soggetto a ciò abilitato, e sottoposte a nuova
+verifica (iniziale o periodica a seconda del caso applicabile) secondo
+quanto indicato dai punti 2.2 e 2.3. Analogamente si procede in caso di
+manomissione di eventuali sigilli, di danneggiamento del dispositivo o
+del sistema, o di sostituzione o riparazione di elementi della configura-
+zione invariante del dispositivo o sistema essenziali ai fini della misura,
+e qualora sorga il ragionevole dubbio che gli stessi non siano più idonei
+al servizio.
+2.8 Gli utilizzatori dei dispositivi o dei sistemi impiegati nell’ac-
+certamento delle violazioni dei limiti massimi di velocità, e i soggetti
+intestatari dei relativi decreti di approvazione, devono mettere i labora-
+tori di taratura incaricati delle verifiche di taratura (iniziali e periodiche)
+nelle condizioni di poter eseguire le verifiche stesse.
+Capo 3
+TARATURA DEI DISPOSITIVI OPERANTI IN MODALITÀ ISTANTANEA
+(PUNTUALE O SU PICCOLA BASE)
+3.1 Per i dispositivi che rilevano la velocità istantanea le verifiche
+di taratura devono essere eseguite su un campione di rilevamenti di ve-
+locità uniformemente distribuiti da 30 km/ora a 230 km/ora (oppure nel
+campo di misura o di utilizzo del dispositivo in verifica), utilizzando
+sistemi di misura di riferimento in grado di tarare con incertezza estesa
+(con probabilità di copertura al 95%) non superiore allo 0,5% per velo-
+cità superiori a 100 km/h, e a 0,5 km/h per velocità fino a 100 km/h. I
+sistemi di misura di riferimento devono garantire la riferibilità metrolo-
+gica al Sistema SI delle unità di misura.
+3.2 Le verifiche di taratura in fase di approvazione del prototipo e
+quelle iniziali devono essere effettuate su pista o su strada non aperta al
+pubblico passaggio; le velocità del veicolo in transito (oggetto di misura
+da parte del prototipo) devono essere distribuite uniformemente fra i 30
+km/h e i 230 km/ora, con incrementi tra un valore e l’altro preferibil-
+mente non superiori a 20 km/h; il numero totale dei rilevamenti deve
+essere compreso fra un minimo di 100 ed un massimo di 200. Per le
+verifiche di taratura periodiche successive a quella iniziale, il numero
+totale dei rilevamenti può essere compreso tra un minimo di 50 ed un
+massimo di 100.
+Serie generale - n. 177
+31-7-2017
+3.3 Le verifiche di taratura periodiche successive a quella iniziale:
+- devono essere effettuate nel luogo di installazione nel caso di dispositivi inamovibili;
+- possono essere effettuate nel luogo di installazione nel caso di installazioni fisse.
+Le velocità dei veicoli in transito devono essere distribuite pressoché uniformemente tra quelle permesse nella tratta lungo la quale è installato
+il dispositivo; il numero totale dei rilevamenti deve essere compreso fra un minimo di 100 ed un massimo di 200.
+3.4 Il dispositivo sottoposto a verifica e il sistema di misura di riferimento devono essere posizionati in modo da eseguire le misure in un punto
+o in una zona coincidenti, o almeno in punti molto prossimi fra loro. I valori della velocità rilevati dal sistema di misura di riferimento devono essere
+espressi in km/ora, arrotondando la seconda cifra dopo la virgola.
+3.5 Le verifiche di taratura successive a quella iniziale, eseguite da un laboratorio accreditato come indicato al punto 2.2, possono essere ef-
+fettuate anche mediante simulazione di passaggi di veicoli a varie velocità; il sistema di riferimento deve essere in grado di generare velocità tra i
+30 km/h ed i 230 km/h con una incertezza non superiore allo 0,5% per velocità superiori a 100 km/h e a 0,5 km/h per velocità fino a 100 km/h. Le
+misure devono essere effettuate simulando le velocità tra 30 km/h e 230 km/h con incrementi di 20 km/h; per ogni velocità simulata devono essere
+eseguite tra un minimo di 50 ed un massimo di 100 misure.
+3.6 L’indicazione della velocità fornita dal dispositivo sottoposto a verifica di taratura, in fase di approvazione del prototipo e di taratura ini-
+ziale, deve avere un errore rispetto al sistema di misura di riferimento non superiore all’1% per la media delle misure, ed un errore non superiore al
+3% per ogni singola misura nel caso di velocità superiori a 100 km/h, ovvero a 1 km/h per la media delle misure, e a 3 km/h per ogni singola misura
+nel caso di velocità fino a 100 km/h (si veda Tabella 1 riassuntiva). Nel valutare la precisione del dispositivo si deve tener conto dell’incertezza di
+taratura del sistema di misura di riferimento, come ricavabile dal suo certificato di taratura.
+3.7 Nel caso di verifiche di taratura periodiche successive a quella iniziale, gli errori di cui al punto 3.6 non devono superare l‘1,5% o 1,5 km/h
+per la media delle misure, e il 4% o 4 km/h per ogni singola misura (si veda Tabella 1 riassuntiva).
+Tabella 1: Errori massimi sulla indicazione del dispositivo (modalità istantanea).
+Verifica iniziale
+Verifiche successive
+Fino a
+100 km/h
+Oltre i
+100 km/h
+Fino a
+100 km/h
+Oltre i
+100 km/h
+Singola misura
+3 km/h
+4 km/h
+Media delle misure
+1 km/h
+1,5 km/h
+3.8 Utilizzando tutte le cifre significative fornite o rilevabili dal dispositivo sottoposto a verifica, e quelle fornite dal sistema di misura di
+riferimento arrotondate come prescritto al punto 3.4, si procede al calcolo del rapporto tra la misura fornita dal dispositivo e quella del sistema di
+misura di riferimento, arrotondando la terza cifra dopo la virgola, ovvero dell’errore, inteso come differenza tra la misura del dispositivo e quella del
+sistema di misura di riferimento, arrotondando la prima cifra dopo la virgola. Le prescrizioni dei punti 3.6 e 3.7 si considerano soddisfatte quando:
+a) per la verifica iniziale:
+- i rapporti calcolati risultino compresi fra 1,030 e 0,970, ovvero gli errori tra
+-3,0 km/h e +3,0 km/h per ogni singola misura;
+- la media di tutti i rapporti calcolati sia compresa fra 1,010 e 0,990, ovvero di tutti gli errori tra -1,0 km/h e +1,0 km/h;
+b) per le verifiche successive alla prima:
+- i rapporti calcolati risultino compresi fra 1,040 e 0,960, ovvero gli errori tra
+-4,0 km/h e +4,0 km/h, per ogni singola misura;
+- la media di tutti i rapporti calcolati sia compresa fra 1,015 e 0,985, ovvero di tutti gli errori tra -1,5 km/h e +1,5 km/h.
+3.9 È ammesso che l’1,0% degli errori rilevati non rientri nei limiti dei valori prescritti al punto 3.8, purché i limiti della media non siano su-
+perati; in tal caso il numero delle misure potrà essere elevato dal minimo al valore più basso necessario per la verifica della percentuale consentita,
+comunque non superiore ai massimi di cui ai punti 3.2, 3.3, o 3.5. In nessun caso l’errore massimo calcolato deve risultare superiore al 5,0% per
+velocità superiori a 100 km/h, o a 5,0 km/h per velocità fino a 100 km/h.
+3.10 Se anche estendendo il numero delle prove fino ai massimi consentiti vengono superati i limiti di cui ai punti 3.6, 3.7 o 3.8, l’approvazione
+del prototipo è respinta, ovvero il dispositivo non è idoneo all’impiego.
+Capo 4
+TARATURA DEI SISTEMI OPERANTI IN MODALITÀ MEDIA
+(SU BASE ESTESA)
+4.1 Per i sistemi che rilevano la velocità media, le verifiche di taratura devono valutare l’errore di indicazione della velocità (come rilevata dal
+sistema già installato sulla tratta) utilizzando un sistema di misura di riferimento che garantisca la riferibilità metrologica al Sistema SI delle unità
+di misura, con incertezza estesa (con probabilità di copertura al 95%) non superiore allo 0,5% per velocità superiori a 100 km/h, e a 0,5 km/h per
+velocità fino a 100 km/h.
+4.2 Nella verifica di taratura in fase di approvazione del prototipo, e nelle verifiche di taratura iniziali, il sistema di misura di riferimento deve
+permettere di valutare l’errore di indicazione della velocità media in modo indiretto attraverso la taratura:
+a) della lunghezza della base intercorrente tra le due stazioni di rilevamento in ingresso e in uscita del sistema oggetto di verifica (come
+definita al punto 4.3), e
+b) dello sfasamento temporale tra i riferimenti locali di tempo delle due stazioni di rilevamento in ingresso e in uscita del sistema oggetto
+di verifica.
+4.3 La lunghezza della base di cui al punto 4.2a) è definita dal minimo sviluppo geometrico della tratta, computato lungo il bordo destro della
+corsia di marcia più a destra quando ci si trova sul lato destro, e sul bordo sinistro della corsia più a sinistra quando ci si trova sul lato sinistro, a
+prescindere dal numero di corsie e dal verso di percorrenza come schematicamente rappresentato in figura. Gli estremi della base devono essere
+individuati, anche mediante riferimenti fissi, e coincidere preferibilmente con l’asse del campo di ripresa delle eventuali telecamere.
+Serie generale - n. 177
+31-7-2017
+Nota: Per eseguire questa operazione è necessario quindi non misurare un’unica linea continua dall’inizio alla fine della tratta ma più porzioni
+di tratta in quanto tra due curve con direzioni diverse (ad esempio una a destra e l’altra a sinistra) sarà necessario spostarsi sul lato opposto. Questa
+operazione di spostamento può essere eseguita in un qualsiasi punto in cui la tratta è rettilinea tra due curve.
+4.4 La lunghezza della base di cui al punto 4.3 deve essere rilevata utilizzando un sistema di misura di riferimento che garantisca la riferibilità
+metrologica al Sistema SI delle unità di misura, con incertezza estesa (con probabilità di copertura al 95%), non superiore allo 0,3%.
+4.5 Lo sfasamento temporale di cui al punto 4.2b) è lo scarto di tempo tra i riferimenti (base tempi/orologio del sistema) locali delle due sta-
+zioni di rilevamento in ingresso e in uscita del sistema oggetto di verifica, valutato attraverso la misurazione dello scarto di tempo di ogni singolo
+riferimento locale rispetto alla scala di tempi nazionale UTC (IT).
+4.6 Le misurazioni di cui al punto 4.5 devono essere eseguite ad intervalli non superiori a 5 minuti su un periodo di almeno 2 giorni.
+4.7 Nella verifica periodica di taratura il sistema di misura di riferimento deve permettere di valutare l’errore di indicazione della velocità media:
+- in modo indiretto come al punto 4.2. L’eventuale taratura della lunghezza della base deve essere ripetuta solo nel caso di modifiche dello
+sviluppo geometrico della tratta;
+- in modo diretto, attraverso la taratura della velocità media rilevata dal sistema oggetto di verifica. In tal caso, le velocità rilevate dal si-
+stema di misura di riferimento devono essere distribuite pressoché uniformemente tra quelle permesse nella tratta interessata: il numero totale dei
+rilevamenti non deve essere inferiore a 25, impegnando in modo casuale tutte le corsie disponibili.
+4.8 L’indicazione della velocità media fornita dal sistema sottoposto a verifica di taratura, in fase di approvazione del prototipo, e nelle ve-
+rifiche di taratura iniziali, deve avere un errore rispetto al sistema di misura di riferimento non superiore al 3% per velocità superiori a 100 km/h,
+ovvero non superiore a 3 km/h per velocità fino a 100 km/h.
+4.9 L’indicazione della velocità media fornita dal sistema nelle verifiche di taratura periodiche deve avere un errore rispetto al sistema di mi-
+sura di riferimento non superiore al 4% per velocità superiori a 100 km/h, ovvero non superiore a 4 km/h per velocità fino a 100 km/h.
+4.10 Nel valutare la precisione del sistema come riportato ai punti 4.8 e 4.9 si deve tener conto dell’incertezza di taratura del sistema di misura di riferimento.
+4.11 Se vengono superati i limiti dei punti 4.8, e 4.9, l’approvazione del prototipo è respinta, ovvero il sistema non è idoneo all’impiego.
+Capo 5
+FUNZIONALITÀ DEI DISPOSITIVI E DEI SISTEMI
+5.1 Ferme restando le normali attività di manutenzione e/o revisione di ogni dispositivo o sistema come previste nei relativi manuali d’uso e
+manutenzione, le verifiche di funzionalità dovranno comprendere:
+- una verifica dell’integrità del dispositivo o sistema, degli eventuali sigilli e delle iscrizioni regolamentari;
+- le ulteriori verifiche previste dal produttore e prescritte nel manuale d’uso e manutenzione, oltre a quanto di seguito indicato.
+5.2 In sede di approvazione del prototipo, deve essere verificata la capacità del dispositivo, o del sistema e dei suoi componenti, di:
+- attribuire correttamente le misure effettuate ai veicoli rilevati;
+e, in quanto applicabili:
+- acquisire correttamente le immagini,
+- classificare i veicoli almeno in macro classi (ad esempio veicoli corti e veicoli lunghi),
+- riconoscere le targhe dei veicoli rilevati.
+5.3 Le verifiche di funzionalità, sia in sede di approvazione del prototipo, che per le verifiche iniziali e periodiche, potranno essere eseguite
+nelle condizioni di normale impiego, su strada aperta al pubblico passaggio; dovrà essere garantito il transito casuale di veicoli sufficientemente
+differenziati sia per la categoria che per la velocità; è ammesso che le condizioni sopra descritte si realizzino in tempi successivi o in strade diverse
+secondo i casi; le prove potranno essere eseguite anche senza l’ausilio di uno strumento campione. È in ogni caso esclusa la possibilità di utilizzare
+le risultanze delle verifiche di funzionalità per l’applicazione delle sanzioni per violazione di norme di comportamento
+5.4 È ammesso, per una più esatta valutazione dei rilevamenti, ricorrere al contemporaneo impiego di un qualsiasi sistema ausiliario di rile-
+vazione della velocità, installato o messo in funzione anche dopo l’esecuzione di una prima serie di rilevamenti; agli effetti della determinazione
+della percentuale di mancati rilevamenti, si considerano valide le misure eseguite dopo la sua messa in funzione senza considerare le precedenti.
+5.5 Nel caso di funzionamento in modalità istantanea, il numero di rilevamenti deve essere almeno uguale al 20% di quelli indicati al punto
+3.3, sia per le verifiche iniziali che per quelle periodiche. Nel caso di funzionamento in modalità media, ai fini dell’approvazione deve essere svolta
+una accurata sperimentazione, autorizzata dai competenti uffici del Ministero delle infrastrutture e dei trasporti sul sistema installato su una tratta
+campione, per un periodo di almeno 6 mesi, mentre per le verifiche iniziali e periodiche il numero di rilevamenti deve essere almeno pari a quello
+indicato al punto 3.3.
+Serie generale - n. 177
+31-7-2017
+5.6 In sede di verifiche iniziali e periodiche, si considera inadatto il di-
+spositivo operante in modalità istantanea che fornisca indicazioni palesemen-
+te errate o indicazioni di velocità sensibilmente differenti dal valore misurato
+dall’eventuale strumento campione, o nessuna indicazione, ovvero non sia
+in grado di attribuire le misure di velocità ai veicoli rilevati per un numero
+di rilevamenti superiore al 5% del totale effettuato; e, in quanto applicabile:
+a) che non sia in grado di acquisire correttamente le immagini dei
+veicoli per un numero di rilevamenti superiore al 5% del totale effettuato,
+b) che non sia in grado di riconoscere le targhe dei veicoli per un
+numero di rilevamenti superiore al 5% del totale effettuato,
+c) che non sia in grado di classificare i veicoli almeno in macro
+classi per un numero di rilevamenti superiore al 10% del totale effettuato.
+5.7 In sede di verifiche iniziali e periodiche, si considera inadatto il
+sistema operante in modalità media lungo un tratto di strada compreso
+tra due stazioni di rilevamento, in ingresso ed in uscita, se:
+a) per ognuna delle stazioni di rilevamento non sia in grado di
+acquisire correttamente le immagini e riconoscere le targhe dei veicoli
+rilevati, se il sistema è dotato di questa funzione, per un numero di rile-
+vamenti superiore al 5% del totale dei rilevamenti effettuati;
+b) per ognuna delle stazioni di rilevamento non sia in grado di
+classificare i veicoli rilevati almeno in macro classi, se il sistema è do-
+tato di questa funzione, per un numero di rilevamenti superiore al 10%
+del totale dei rilevamenti effettuati;
+c) per l’intero tratto il sistema non sia in grado di operare corret-
+tamente gli accoppiamenti delle immagini dei veicoli in transito sotto le
+due stazioni per un numero di rilevamenti superiore al 5% del totale dei
+rilevamenti effettuati.
+Per corretto accoppiamento si intende che nella coppia di immagini
+sia rappresentato lo stesso veicolo.
+5.8 Le verifiche di funzionalità sia iniziali che periodiche sono docu-
+mentate attraverso un verbale, redatto ai sensi e per gli effetti dell’art. 2700
+del Codice Civile, dall’organo di polizia stradale utilizzatore. Sono alle-
+gati al presente atto due modelli tipo di verbale di verifica di funzionalità
+(modello 1 e modello 2), che possono essere anche integrati ed adattati
+alle specificità del dispositivo o sistema in verifica purché coerenti con
+le finalità del documento. Verbali di verifica particolari possono essere
+proposti ed autorizzati in sede di approvazione del prototipo.
+Capo 6
+DISPOSITIVI O SISTEMI CON CARATTERISTICHE PARTICOLARI
+6.1 Per dispositivi o sistemi per i quali non sono applicabili le presenti
+disposizioni saranno stabilite specifiche procedure per le verifiche di tara-
+tura e funzionalità da parte del competente ufficio del Ministero delle infra-
+strutture e dei trasporti, sentito l’organismo unico nazionale - ACCREDIA.
+Capo 7
+SEGNALAZIONE E VISIBILITÀ DELLE POSTAZIONI DI CONTROLLO
+7.1 Le postazioni di controllo sulla rete stradale per il rilevamento della
+velocità devono essere presegnalate secondo le disposizioni del decreto del
+Ministro dei trasporti, di concerto con il Ministro dell’interno, 15 agosto 2007,
+«Attuazione dell’art. 3, comma 1, lettera b) del decreto-legge 3 agosto 2007,
+n. 117, recante disposizioni urgenti modificative del codice della strada per
+incrementare i livelli di sicurezza nella circolazione». I segnali stradali e i
+dispositivi di segnalazione luminosi ivi previsti devono essere installati con
+adeguato anticipo rispetto alla postazione di rilevamento della velocità, e in
+modo da garantirne il tempestivo avvistamento, in relazione alla velocità loca-
+le predominante. A tal fine si ritiene adeguata una distanza minima, secondo il
+tipo di strada, pari a quella indicata dall’art. 79, comma 3, del regolamento, per
+la collocazione dei segnali di prescrizione. Distanze diverse superiori possono
+essere adottate in relazione al particolare andamento plano-altimetrico della
+strada ed allo stato dei luoghi, verificando comunque che non vi siano tra il
+segnale o i dispositivi, e il luogo di effettivo rilevamento, intersezioni stradali
+che comporterebbero la ripetizione del messaggio dopo le stesse, e comunque
+non superiori a quattro km. La ripetizione non è altresì necessaria in presenza
+di accessi come definiti dall’art. 44 del regolamento e di diramazioni.
+7.2 I segnali stradali o i dispositivi richiamati al punto 7.1 sono relativi
+ad una informazione puntuale, pertanto non necessitano di ripetizione né di
+indicazione di «fine». Trattandosi di segnali stradali verticali di indicazio-
+ne, secondo quanto previsto dal richiamato decreto 15 agosto 2007, e non
+ricorrendo le condizioni di cui all’art. 81, comma 1, del regolamento, non è
+necessaria neppure la loro ripetizione sul lato sinistro della strada sia nel caso
+di strade a doppio senso che in quelle a senso unico anche a più corsie.
+7.3 Nessuna preventiva segnalazione è prevista per i dispositivi di
+rilevamento della velocità installati a bordo di veicoli per la misura della
+velocità in movimento, anche ad inseguimento.
+7.4 La visibilità delle postazioni può essere assicurata con la pre-
+senza, in prossimità delle stesse, anche congiuntamente: da un segnale
+con il simbolo delle figure II.109, 110/a, 110/b e 111 del regolamento,
+secondo i casi; dalla presenza di personale in uniforme o dell’autovei-
+colo di servizio contraddistinto dalle insegne di istituto; dal dispositivo
+supplementare di segnalazione visiva a luce lampeggiante blu di cui
+all’art. 177 del Codice, anche su veicoli di serie.
+7.5 La distanza minima di un chilometro dal segnale indicante il li-
+mite massimo di velocità, prescritta dall’art. 25, comma 2, della legge
+n. 120/2010, si applica unicamente fuori dei centri abitati, e solo nei casi
+(in cui è ammesso) di controllo a distanza delle violazioni, quando il limite
+imposto è diverso da quello fissato in linea generale per la categoria di strada
+dall’art. 142, comma 1, del Codice, o da quello fissato in particolare per la
+categoria di veicolo dal medesimo art. 142, comma 3. Se lungo il tratto di
+strada su cui si eseguono i controlli sono presenti intersezioni che, ai sensi
+dell’art. 104 del regolamento, impongono la ripetizione del segnale di limite
+massimo di velocità, la distanza minima di un chilometro deve essere misu-
+rata dal segnale ripetuto dopo l’intersezione. Poiché la distanza di almeno
+un chilometro dal segnale vale sia per l’utilizzo che per la installazione della
+postazione, nel caso di dispositivi di rilevamento che eseguono l’accerta-
+mento con veicolo in avvicinamento alla stessa, il chilometro deve essere
+misurato rispetto al punto in cui viene effettivamente rilevata la violazione
+e non rispetto al punto di installazione del dispositivo. Nel caso di impiego
+di sistemi di controllo della velocità media tenuta dai veicoli tra due stazioni
+di rilevamento lungo un tratto di strada, la distanza minima di un chilome-
+tro rispetto al segnale di limite massimo di velocità imposto lungo il tratto,
+quando questo è diverso da quello generale, deve essere assicurata rispetto
+alla seconda stazione del sistema, poiché è in corrispondenza di quest’ulti-
+ma che si concretizza l’accertamento della eventuale infrazione. In questo
+caso non vi è obbligo di rispettare la predetta distanza rispetto ad eventuali
+intersezioni o svincoli consentiti, aree di servizio, di parcheggio, etc., ubicate
+dopo la prima stazione di rilevamento, poiché i veicoli che si immettono sul
+tratto controllato non sono soggetti al controllo della velocità media.
+7.6 La distanza minima di cui al punto 7.5 non si applica nei centri
+abitati e quando la postazione è presidiata dagli organi di polizia stradale.
+Non si applica altresì: rispetto al segnale di limite massimo di velocità che
+costituisce mera ripetizione di un segnale precedente lungo un tratto di
+strada in cui sia imposto un limite massimo di velocità uniforme diverso
+da quello generale di cui all’art. 142, comma 1, del Codice, in cui non
+vi sono intersezioni; e rispetto al segnale di limite massimo di velocità
+ripetuto dopo una intersezione quando la velocità massima consentita è la
+stessa su tutti i rami della intersezione e la segnaletica di limite massimo di
+velocità su tali rami è comunque ad una distanza di almeno un chilometro
+dalla postazione di rilevamento, in modo da garantire tale distanza a tutti
+gli utenti della strada in approssimazione alla postazione, quale che sia il
+ramo di strada percorso. Nel caso di diverso limite massimo di velocità
+anche lungo un solo ramo della intersezione, sia maggiore che minore
+rispetto a quello ripetuto dopo l’intersezione, la distanza minima di un
+chilometro si computa dopo quest’ultimo, in modo da garantire a tutti gli
+utenti della strada in approccio alla postazione lo stesso trattamento.
+7.7 Quando il rilevamento della velocità è effettuato dal lato oppo-
+sto al senso di marcia la presenza della postazione deve essere segnalata,
+nelle immediate vicinanze della stessa, con il segnale riportante il simbolo
+dell’organo di polizia stradale operante, richiamato al punto 7.4, orientato
+in modo da essere visibile dal senso di marcia sottoposto al controllo. Se
+l’attività di controllo è effettuata su entrambi i sensi di marcia, con dispo-
+sitivi approvati per tale utilizzo collocati su un solo lato della strada, la po-
+stazione deve essere segnalata con un segnale di indicazione come sopra, a
+doppia faccia, visibile dalle due direzioni. Se la postazione è presidiata da
+organi di polizia stradale, con o senza impiego di veicoli, gli stessi scelgo-
+no il senso di marcia lungo il quale posizionarsi. Il presegnalamento della
+postazione deve essere sempre assicurato lungo i sensi di marcia sui quali
+si effettuano i rilevamenti secondo quanto indicato al punto 7.1.
+7.8 Le postazioni di rilevamento temporanee sono presegnalate
+con segnali temporanei in tutto simili a quelli permanenti e con le stesse
+modalità e distanze di installazione. Possono essere utilizzati segnali
+collocati in modo permanente sulla strada solo se la posizione dei di-
+spositivi di rilevamento è stata oggetto di una preventiva e concordata
+pianificazione ed il loro impiego in quel tratto di strada non è occasiona-
+le ma, per la frequenza dei controlli, assuma il carattere di sistematicità.
+Per la visibilità della postazione valgono le stesse prescrizioni dei punti
+7.4 e 7.7.
+Serie generale - n. 177
+31-7-2017
+Modello 1
+VERBALE DI VERIFICA DI FUNZIONALITA’ PER DISPOSITIVI OPERANTI IN
+MODALITA’ ISTANTANEA
+L’anno ….. il giorno … del mese di ………. in località………… al Km …….della strada …….
+nel Comune di………… della Provincia di…….. il/i sottoscritto/i ……. in forza al/in servizio
+presso……..ha/hanno effettuato le prove per la verifica INIZIALE / PERIODICA di funzionalità
+del dispositivo……… approvato con decreto ……… del………………... matricola n………….
+A tal fine, ai sensi e per gli effetti previsti dal capo 5 del decreto del Ministro delle
+infrastrutture e dei trasporti n.…….. recante disposizioni per le “verifiche iniziali e periodiche
+di funzionalità e di taratura delle apparecchiature impiegate nell'accertamento delle violazioni
+dei limiti massimi di velocità”,
+DICHIARA/NO
+x
+di aver preso visione del certificato di taratura n……… del …………… relativo al
+dispositivo in epigrafe;
+x
+di aver installato il dispositivo secondo le indicazioni fornite dal costruttore e prescritte nel
+manuale d’uso e manutenzione, ovvero di aver verificato la corretta installazione del
+dispositivo secondo le indicazioni fornite dal costruttore e prescritte nel manuale d’uso e
+manutenzione;
+x
+di aver verificato che il dispositivo e le iscrizioni regolamentari risultano presenti ed
+integri;
+x
+(eventuale, ove presenti,…) di aver verificato che i sigilli sono integri e correttamente
+collocati;
+x
+di aver effettuato le operazioni di diagnosi prescritte nel manuale d’uso e manutenzione
+prima di iniziare i rilevamenti di velocità;
+x
+(solo per i dispositivi con funzionamento automatico) di aver impostato ai fini del
+rilevamento della velocità, il limite di velocità misurata in modo che il rilevamento fosse
+compiuto su tutti i veicoli in transito sulla strada;
+x
+di aver iniziato le misure della velocità alle ore……….. e di averle terminate alle
+x
+che, nell’intervallo di tempo in cui è stato utilizzato il dispositivo, sono stati svolti n
+….……….(1) rilevamenti di velocità dei veicoli in transito.
+Serie generale - n. 177
+31-7-2017
+A seguito delle prove effettuate e dei rilevamenti della velocità svolti
+SI DA ATTO CHE
+il dispositivo sopraindicato:
+x
+ha attribuito la misura effettuata a n……….. veicoli pari al …… % di quelli oggetto di
+rilevamento;
+x
+(se il dispositivo è dotato di fotocamera/videocamera) ha acquisito correttamente n…….
+immagini pari al…….. % dei veicoli oggetto di rilevamento;
+x
+(se il dispositivo è dotato della relativa funzione) ha riconosciuto correttamente le targhe
+di n……….. veicoli rilevati, pari al …… % di quelli oggetto di rilevamento;
+x
+(solo se il dispositivo è dotato della relativa funzione) ha classificato correttamente
+n……….. veicoli in classi/macro-classi, pari al …… % di quelli oggetto di rilevamento;
+Ai sensi del Capo 5 del decreto del Ministro delle infrastrutture e dei trasporti n.……..
+SI ATTESTA
+che il dispositivo sopraindicato funziona correttamente e che lo stesso, durante
+l’effettuazione delle prove indicate, non ha fornito indicazioni palesemente errate
+ovvero indicazioni difformi da quanto prescritto dal punto 5.6 dell’allegato al decreto del
+Ministro delle infrastrutture e dei trasporti n.……..
+Fatto, letto, confermato e sottoscritto in data………..
+Il/I verbalizzante/i
+Ai sensi del punto 5.5 dell’allegato al decreto del Ministro delle infrastrutture e dei trasporti n.…….. il numero totale dei
+rilevamenti deve essere almeno di 20.
+Serie generale - n. 177
+31-7-2017
+Modello 2
+VERBALE DI VERIFICA DI FUNZIONALITA’ PER DISPOSITIVI/SISTEMI OPERANTI
+IN MODALITA’ MEDIA
+L’anno ….. il giorno … del mese di ………. presso gli uffici del………… il/i sottoscritto/i …….
+in forza al/in servizio presso……..ha/hanno effettuato le prove per la verifica INIZIALE /
+PERIODICA di funzionalità del dispositivo/sistema ………….. approvato con decreto ………
+del………………... impiegato per il rilevamento della velocità media dei veicoli in transito
+lungo il tratto della strada ………… che inizia al Km…… nel Comune di………… della
+Provincia di…….. e termina al Km…… nel Comune di………… della Provincia di………… per
+un’estesa complessiva di km……
+A tal fine, ai sensi e per gli effetti previsti dal capo 5 del decreto del Ministro delle
+infrastrutture e dei trasporti n.…….. recante disposizioni per le “verifiche iniziali e periodiche
+di funzionalità e di taratura delle apparecchiature impiegate nell'accertamento delle violazioni
+dei limiti massimi di velocità”,
+DICHIARA/NO
+x
+di avere preso visione del certificato di taratura n…….. del …….. relativo al sistema
+installato lungo il tratto di strada in epigrafe;
+x
+di aver verificato la corretta installazione del dispositivo/sistema secondo le indicazioni
+fornite dal costruttore e prescritte nel manuale d’uso e manutenzione;
+x
+di aver verificato che il dispositivo/sistema e le iscrizioni regolamentari risultano
+presenti ed integri;
+x
+(eventuale, ove presenti) di aver verificato che i sigilli sono integri e correttamente
+collocati;
+x
+di aver effettuato le eventuali operazioni preliminari prescritte nel manuale d’uso e
+manutenzione prima di iniziare i rilevamenti;
+x
+di aver svolto le operazioni di verifica della funzionalità:
+o dalle ore……….. alle ore……… del giorno ……… per la stazione di rilevamento
+in ingresso;
+o dalle ore……….. alle ore……… del giorno ……… per la stazione di rilevamento
+in uscita;
+o dalle ore……….. alle ore……… del giorno ……… per l’intero tratto;
+x
+che, negli intervalli di tempo in cui è stato utilizzato il dispositivo/sistema, sono stati
+rilevati:
+Serie generale - n. 177
+31-7-2017
+o n ….……….(1) veicoli presso la stazione di rilevamento in ingresso;
+o n ….……….(1) veicoli presso la stazione di rilevamento in uscita;
+o n ….……….(1) accoppiamenti di veicoli sul tratto.
+A seguito delle prove effettuate
+SI DA ATTO CHE
+¾ la stazione di rilevamento in ingresso del dispositivo/sistema sopraindicato:
+x
+ha acquisito correttamente n…….. immagini pari al…….. % dei veicoli oggetto di
+rilevamento;
+x
+(se il dispositivo è dotato della relativa funzione) ha riconosciuto correttamente le
+targhe di n……….. veicoli rilevati, pari al …… % di quelli oggetto di rilevamento;
+x
+(se il dispositivo è dotato della relativa funzione) ha classificato correttamente
+n……….. veicoli in classi/macro-classi, pari al …… % di quelli oggetto di
+rilevamento;
+¾ la stazione di rilevamento in uscita del dispositivo/sistema sopraindicato:
+x
+ha acquisito correttamente n…….. immagini pari al…….. % dei veicoli oggetto di
+rilevamento;
+x
+(se il dispositivo è dotato della relativa funzione) ha riconosciuto correttamente le
+targhe di n……….. veicoli rilevati, pari al …… % di quelli oggetto di rilevamento;
+x
+(se il dispositivo è dotato della relativa funzione) ha classificato correttamente
+n……….. veicoli in macro-classi, pari al …… % di quelli oggetto di rilevamento;
+¾ Lungo il tratto sono stati correttamente eseguiti n……… accoppiamenti delle immagini
+dei veicoli in transito, pari al ………. % del totale effettuato.
+Ai sensi del Capo 5 del decreto del Ministro delle infrastrutture e dei trasporti n.……..
+SI ATTESTA
+che il dispositivo/sistema sopraindicato funziona correttamente e che lo stesso,
+durante l’effettuazione delle prove indicate, non ha fornito indicazioni palesemente
+errate ovvero indicazioni difformi da quanto prescritto dal punto 5.7 dell’allegato al
+decreto del Ministro delle infrastrutture e dei trasporti n.……..
+Fatto, letto, confermato e sottoscritto in data………..
+Il/I verbalizzante/i
+Ai sensi del punto 5.5 dell’allegato al decreto del Ministro delle infrastrutture e dei trasporti n.…….. il numero totale dei
+rilevamenti deve essere almeno di 100.
+17A05179

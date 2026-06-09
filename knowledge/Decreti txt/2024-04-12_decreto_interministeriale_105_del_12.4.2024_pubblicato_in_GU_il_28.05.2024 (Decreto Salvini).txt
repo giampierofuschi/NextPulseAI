@@ -1,0 +1,648 @@
+Il Ministro delle infrastrutture e dei trasporti
+di concerto con
+il Ministro dell’interno
+VISTO il Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016,
+relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché
+alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla
+protezione dei dati);
+VISTO il decreto legislativo 30 aprile 1992, n. 285, recante “Nuovo codice della Strada”;
+VISTO l’articolo 4, comma 1, del decreto-legge 20 giugno 2002, n. 121, convertito, con
+modificazioni, dalla legge 1° agosto 2002, n. 168, che prevede la possibilità per gli organi di polizia
+stradale di cui all'articolo 12, comma 1, del decreto legislativo 30 aprile 1992, n. 285, di utilizzare o
+installare, sulle autostrade e sulle strade extraurbane principali, dispositivi o mezzi tecnici di controllo
+del traffico finalizzati al rilevamento a distanza delle violazioni alle norme di comportamento di cui
+agli articoli 142, 148 e 176 del medesimo decreto legislativo 30 aprile 1992, n. 285, nel rispetto delle
+direttive fornite dal Ministero dell'interno, sentito il Ministero delle infrastrutture e dei trasporti, e
+previa informazione agli automobilisti, ferma restando la possibilità di utilizzare i predetti dispositivi
+sulle restanti tipologie di strade, ovvero su singoli tratti di esse, individuati con apposito decreto del
+prefetto;
+VISTO il decreto legislativo 30 giugno 2003, n. 196, recante “Codice in materia di protezione dei
+dati personali”;
+VISTA la legge 29 luglio 2010, n. 120, recante “Disposizioni in materia di sicurezza stradale”, e, in
+particolare, l’articolo 25, comma 2, che stabilisce che “Con decreto del Ministro delle infrastrutture
+e dei trasporti, di concerto con il Ministro dell'interno, sentita la Conferenza Stato-città ed autonomie
+locali, è approvato il modello di relazione di cui all'articolo 142, comma 12-quater, del decreto
+legislativo n. 285 del 1992, introdotto dal presente articolo, e sono definite le modalità di
+trasmissione in via informatica della stessa, nonché le modalità di versamento dei proventi di cui al
+comma 12-bis agli enti ai quali sono attribuiti ai sensi dello stesso comma. Con il medesimo decreto
+sono definite, altresì, le modalità di collocazione e uso dei dispositivi o mezzi tecnici di controllo,
+finalizzati al rilevamento a distanza delle violazioni delle norme di comportamento di cui all'articolo
+142 del decreto legislativo n. 285 del 1992, che fuori dei centri abitati non possono comunque essere
+utilizzati o installati ad una distanza inferiore ad un chilometro dal segnale che impone il limite di
+velocità”;
+VISTO, altresì, l’articolo 61 della citata legge n. 120 del 2010, che prevede che “Agli enti locali è
+consentita l'attività di accertamento strumentale delle violazioni al decreto legislativo n. 285 del 1992
+m_inf.UFFGAB.REG_DECRETI.R.0000105.12-04-2024
+soltanto mediante strumenti di loro proprietà o da essi acquisiti con contratto di locazione finanziaria
+o di noleggio a canone fisso, da utilizzare ai fini dell'accertamento delle violazioni esclusivamente
+con l'impiego del personale dei corpi e dei servizi di polizia locale, fatto salvo quanto previsto
+dall'articolo 5 del regolamento di cui al decreto del Presidente della Repubblica 22 giugno 1999, n.
+VISTO il decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, recante il “Regolamento
+di esecuzione e di attuazione del nuovo Codice della strada”;
+VISTO il decreto del Ministro dei lavori pubblici 29 ottobre 1997, pubblicato nella Gazzetta Ufficiale
+della Repubblica italiana n. 292 del 16 dicembre 1997, recante “Approvazione di prototipi di
+apparecchiature per l’accertamento dell’osservanza dei limiti di velocità e loro modalità di
+impiego”;
+VISTO il decreto del Ministro dei trasporti 15 agosto 2007, adottato di concerto con il Ministro
+dell’interno, pubblicato nella  23 agosto 2007, n. 195,
+recante “Attuazione dell'articolo 3, comma 1, lettera b) del decreto-legge 3 agosto 2007, n. 117,
+recante disposizioni urgenti modificative del codice della strada per incrementare i livelli di sicurezza
+nella circolazione”;
+VISTO il decreto del Ministro dell’interno 15 agosto 2017, recante la direttiva sui comparti di
+specialità delle Forze di polizia e sulla razionalizzazione dei presidi di polizia, in attuazione di quanto
+previsto dagli articoli 2 e 3 del decreto legislativo 19 agosto 2016, n. 177;
+VISTO il decreto del Ministro delle infrastrutture e dei trasporti 13 giugno 2017, n. 282, pubblicato
+nella  n. 177 del 31 luglio 2017, recante “Verifiche iniziali
+e periodiche di funzionalità e di taratura delle apparecchiature impiegate nell'accertamento delle
+violazioni dei limiti massimi di velocità, modalità di segnalazione delle postazioni di controllo sulla
+rete stradale”;
+VISTO il decreto del Ministro delle infrastrutture e dei trasporti 30 dicembre 2019, pubblicato nella
+n. 42 del 20 febbraio 2020, recante “Disposizioni in
+materia di destinazione dei proventi delle sanzioni a seguito dell’accertamento delle violazioni dei
+limiti di velocità”, adottato in attuazione di quanto previsto dall’articolo 25, comma 2, primo periodo,
+della citata legge n. 120 del 2010;
+VISTA la deliberazione in materia di videosorveglianza dell’8 aprile 2010 adottata dal Garante per
+la protezione dei dati personali, pubblicata nella  del 29
+aprile 2010, n. 99;
+VISTA la direttiva del Ministro dell’interno 21 luglio 2017, finalizzata a garantire un’azione
+coordinata delle Forze di polizia per la prevenzione e il contrasto ai comportamenti che sono le
+principali cause di incidenti stradali;
+CONSIDERATO che è stato già adottato il citato decreto del Ministro delle infrastrutture e dei
+trasporti 30 dicembre 2019, attuativo di quanto previsto dal predetto articolo 25, comma 2, primo
+periodo e che si rende necessario dare completa attuazione alla citata disposizione, adottando anche
+il decreto previsto dal medesimo articolo 25, comma 2, ultimo periodo;
+RITENUTO necessario dare attuazione alle disposizioni contenute nell’articolo 25, comma 2,
+secondo periodo, della citata legge 29 luglio 2010, n. 120, relativamente alla necessità di definire le
+modalità di collocazione e uso dei dispositivi o mezzi tecnici di controllo, finalizzati al rilevamento
+a distanza delle violazioni delle norme di comportamento di cui all'articolo 142 del decreto legislativo
+n. 285 del 1992;
+CONSIDERATO che la finalità che il suddetto articolo 25, comma 2, ultimo periodo, persegue in
+via esclusiva è quella della tutela della sicurezza della circolazione e che l’uso degli strumenti da
+utilizzare ai sensi della medesima disposizione deve tenere conto di tale obiettivo e di reali esigenze
+di deterrenza e di stimolo di comportamenti virtuosi, posto che, ai sensi dello stesso articolo 25,
+comma 2, ultimo inciso, si precisa che, fuori dei centri abitati, non possono comunque essere utilizzati
+o installati i dispositivi previsti dal medesimo articolo ad una distanza inferiore ad un chilometro dal
+segnale che impone il limite di velocità;
+ACQUISITO il parere della Conferenza Stato-città ed autonomie locali reso nella seduta del 21
+marzo 2024;
+ACQUISITO il parere favorevole del Garante per la protezione dei dati personali espresso
+nell'adunanza del 11 gennaio 2024;
+DECRETA
+ART. 1
+(Oggetto e ambito di applicazione)
+1. Il presente decreto definisce le modalità di collocazione delle postazioni di controllo ove sono
+installati i dispositivi e i sistemi di misurazione delle violazioni delle norme di comportamento
+di cui all’articolo 142 del decreto legislativo 30 aprile 1992, n. 285, nonché le modalità d’uso di
+tali dispositivi e sistemi.
+2. Fermo restando quanto previsto dall’articolo 6, comma 1, le disposizioni di cui al presente
+decreto, al fine di garantire omogeneità e uniformità nelle attività di controllo della velocità dei
+veicoli da parte degli organi di polizia stradale di cui all’articolo 12, comma 1, del citato decreto
+legislativo n. 285 del 1992, si applicano ai dispositivi, alle postazioni di controllo e ai sistemi di
+misurazione della velocità sia di nuova installazione che già esistenti alla data dell’entrata in
+vigore del presente decreto.
+3. Restano ferme, per gli aspetti relativi alle verifiche di funzionalità e di taratura dei dispositivi e
+dei sistemi impiegati nell’accertamento delle violazioni dei limiti massimi di velocità, le
+pertinenti previsioni del decreto del Ministro delle infrastrutture e dei trasporti 13 giugno 2017,
+n. 282. Restano ferme, altresì, le eventuali prescrizioni e modalità di rilevamento contenute nei
+provvedimenti di approvazione o di omologazione dei dispositivi o sistemi impiegati. Resta
+fermo quanto previsto dall’articolo 6, comma 1.
+4. Le disposizioni di cui al presente decreto non si applicano alle postazioni fisse, mobili o a bordo
+di veicoli in movimento, definite ai sensi dell’articolo 2, presidiate e per le quali è effettuata la
+contestazione immediata delle violazioni.
+5. L’utilizzo dei dispositivi, delle postazioni e dei sistemi di misurazione della velocità in ogni caso
+tiene conto dell’esigenza di evitare duplicazioni, sovrapposizioni o interferenze tra i diversi
+servizi sul medesimo tratto stradale.
+ART. 2
+(Definizioni)
+1. Ai fini del presente decreto si intende per:
+a) Codice: il decreto legislativo 30 aprile 1992, n. 285, recante “Nuovo codice della strada”;
+b) Regolamento: il decreto del Presidente della Repubblica 16 dicembre 1992, n. 495,
+recante il regolamento di esecuzione e di attuazione del nuovo codice della strada;
+c) organi di polizia stradale: gli organi, e i dipendenti operatori, di cui all’articolo 12,
+comma 1, del Codice;
+d) dispositivo: qualsiasi strumento, apparecchiatura o mezzo tecnico di controllo utilizzato
+per il rilevamento della velocità dei veicoli;
+e) dispositivo a funzionamento manuale: dispositivo che, in base alle condizioni di
+approvazione od omologazione, richiede necessariamente la presenza dell’operatore per
+l’installazione, il rilevamento e l’accertamento della violazione;
+f) dispositivo a funzionamento automatico: dispositivo che, in base alle condizioni di
+approvazione od omologazione, funziona in modo automatico;
+g) sistema: l’insieme di dispositivi utilizzati in due o più postazioni di controllo, finalizzato
+al rilevamento della velocità media su un tratto stradale;
+h) postazione di controllo (o postazione): l’insieme composto dal dispositivo, o da più
+dispositivi relativi alla medesima sezione di rilevamento, e dalle altre componenti
+complementari, quali, in via esemplificativa, protezioni, box, supporti, sostegni, veicoli e
+operatori degli organi di polizia stradale, necessari per il funzionamento dei dispositivi
+stessi. La postazione può essere:
+1) mobile: quando i dispositivi sono installati in modalità di attivazione temporanea in
+una postazione, variabile o predeterminata, dell’infrastruttura stradale; i dispositivi
+installati in tali postazioni possono essere tenuti in mano dagli operatori di polizia
+stradale o alloggiati all’interno di veicoli in sosta fuori dalla carreggiata, ovvero
+collocati su cavalletti o in strutture rimovibili o non poste fuori dalla carreggiata; per
+tali dispositivi è necessario il presidio, anche solo a distanza dal dispositivo, da parte
+degli organi di polizia stradale in fase di accertamento dell’infrazione;
+2) fissa: quando i dispositivi sono installati in modalità di attivazione permanente in una
+postazione determinata, collocata in un preciso punto dell’infrastruttura stradale; per
+tali dispositivi è possibile il funzionamento automatico senza la necessità del presidio
+degli organi di polizia in fase di accertamento dell’infrazione; rientrano tra le
+postazioni fisse quelle attrezzate in modo stabile per l’installazione anche solo
+temporanea dei dispositivi;
+3) presidiata: postazione fissa o mobile presso la quale l’operatore di polizia stradale è
+presente, anche a distanza dal dispositivo, al fine di controllarne in continuo il
+funzionamento;
+4) non presidiata: postazione fissa presso la quale non è presente, neanche a distanza,
+l’operatore di polizia stradale e sono installati dispositivi o sistemi a funzionamento
+automatico;
+i) sezione di rilevamento: la sezione stradale in cui avviene l’effettiva rilevazione della
+velocità individuata in funzione della tipologia del dispositivo e della modalità di
+rilevamento adottate, non necessariamente coincidente con quella di installazione del
+dispositivo nella postazione di controllo;
+l) rilevamento a distanza: rilevamento della velocità effettuato con dispositivi o sistemi che
+consentono l’accertamento della violazione a distanza di spazio o di tempo rispetto al
+luogo e al momento del compimento della violazione, sulla base dei dati e delle immagini
+registrate, con contestazione differita;
+m) modalità di attivazione temporanea: quando i dispositivi sono utilizzati in modo non
+continuativo in postazioni mobili (variabili o predeterminate) ivi comprese le postazioni
+a bordo veicolo in movimento; per tale modalità è necessario il presidio, anche solo a
+distanza dal dispositivo, degli organi di polizia stradale;
+n) modalità di attivazione permanente: quando i dispositivi sono utilizzati in modo
+continuativo, sulla base delle esigenze di gestione e manutenzione degli organi di polizia
+stradale che possono disporne l’impiego anche solo in determinati giorni e in orari
+limitati, in postazioni fisse; per tale modalità è possibile il funzionamento automatico,
+senza la necessità del presidio degli organi di polizia in fase di accertamento
+dell’infrazione;
+o) dispositivi a bordo veicolo in movimento: quando i dispositivi sono installati in modalità
+di attivazione temporanea a bordo di veicoli per la misura della velocità in maniera
+dinamica, ovvero “a rilevamento dinamico”; per tali dispositivi è sempre necessario il
+presidio da parte degli organi di polizia in fase di accertamento dell’infrazione;
+p) contestazione differita: quando la violazione non è immediatamente contestata al
+trasgressore;
+q) attività di ‘data entry’: processo, o parte di esso, di inserimento di dati in un dispositivo
+o sistema elettronico, nonché di inserimento di dati da un file digitale a un altro o da un
+documento fisico a uno digitale, ovvero di digitalizzazione di dati;
+r) titolare del trattamento dei dati: l’amministrazione da cui dipende l’organo di polizia
+stradale di cui alla lettera c) che procede all’accertamento e che determina i mezzi del
+trattamento dei dati personali, per il perseguimento delle finalità previste dalla legge ai
+sensi dell’articolo 4, paragrafo 1, punto 7), del regolamento (UE) 2016/679.
+ART. 3
+(Condizioni per la collocazione delle postazioni di controllo)
+1. Le condizioni tecniche per la collocazione delle postazioni di cui all’articolo 2, comma 1,
+lettera h), sono disciplinate nell’allegato A, che costituisce parte integrante del presente
+decreto.
+2. Le postazioni fisse sono collocate esclusivamente a seguito di valutazione dell’ente
+proprietario della strada, anche su richiesta dell’organo di polizia stradale che le utilizza.
+3. Per la contestazione differita delle violazioni sono collocate, in via ordinaria, postazioni fisse.
+Laddove non sia possibile, per motivi connessi all’infrastruttura stradale o per altre ragioni
+obiettive, l’installazione di una postazione fissa in un preciso punto della predetta
+infrastruttura, è consentita la collocazione di postazioni mobili.
+4. Le postazioni fisse o mobili possono essere collocate sulle autostrade e sulle strade extraurbane
+principali di cui all’articolo 2, comma 2, lettere A e B, del Codice, nel rispetto di quanto
+previsto dall’articolo 4 del decreto-legge 20 giugno 2002, n. 121, convertito, con
+modificazioni, dalla legge 1° agosto 2002, n. 168. Per le restanti tipologie di strade le
+medesime postazioni possono essere collocate esclusivamente sui tratti di strada individuati
+dal prefetto ai sensi dell’articolo 4 del citato decreto-legge n. 121 del 2002, sia in ambito
+extraurbano che in ambito urbano, nel rispetto dell’articolo 11, comma 3, del Codice nonché
+delle condizioni indicate nell’allegato A di cui al comma 1 del presente articolo ed
+esclusivamente per l’ambito extraurbano, nel rispetto delle caratteristiche geometriche delle
+infrastrutture stradali. In ogni caso, la gestione delle postazioni fisse o mobili è riservata
+esclusivamente agli organi di polizia stradale, in conformità alle disposizioni di cui all’articolo
+4 del presente decreto.
+5. L’uso di dispositivi a bordo di un veicolo in movimento, quando sono utilizzati senza
+contestazione immediata della violazione, è consentito sulle strade o sui tratti di strada indicati
+dal comma 4, nei casi in cui non sia possibile collocare postazioni fisse o mobili.
+6. La segnalazione e la visibilità delle postazioni di controllo sono disciplinate dal Capo 7
+dell’allegato al decreto del Ministro delle infrastrutture e dei trasporti 13 giugno 2017, n. 282.
+La visibilità della postazione di controllo attuata attraverso dispositivi a bordo veicolo in
+movimento è garantita dall’installazione sopra il veicolo di un segnale luminoso o a messaggio
+variabile riportante la dicitura “rilevamento dinamico velocità”, abbinato al dispositivo
+supplementare di segnalazione visiva a luce lampeggiante blu di cui all’articolo 177 del
+Codice, che deve essere in funzione durante il rilevamento.
+ART. 4
+(Utilizzazione delle postazioni fisse o mobili)
+1. In conformità a quanto previsto dal decreto del Ministro dell’interno 15 agosto 2017, le
+postazioni fisse o mobili e i dispositivi a bordo di un veicolo in movimento, di cui all’articolo
+3, possono essere utilizzati per il rilevamento a distanza delle violazioni esclusivamente:
+a) sulle strade di tipo A, di cui all’articolo 2, comma 2, del Codice, dagli organi di polizia
+stradale di cui all’articolo 12, comma 1, lettere a) ed f), del Codice;
+b) per tutti gli altri tipi di strada di cui all’articolo 2, comma 2, del Codice, dagli organi di
+polizia stradale di cui all’articolo 12, comma 1, nel rispetto dei criteri della pianificazione
+operativa concordata in sede di Conferenza Provinciale Permanente istituita ai sensi
+dell’articolo 11 del decreto legislativo 30 luglio 1999, n. 300.
+2. Al fine di tener conto dell’esigenza di evitare duplicazioni, sovrapposizioni nonché di
+assicurare che il controllo del rispetto dei limiti di velocità risulti efficace, evitando, nel
+contempo, la contestuale effettuazione di più rilevamenti sul medesimo tratto di strada o nello
+stesso arco temporale, nella pianificazione operativa di cui al comma 1, il prefetto, ferma
+restando la possibilità di considerare ogni elemento utile per le finalità di cui al presente
+comma, tiene conto in particolare dei seguenti elementi e obiettivi:
+a) eventuale presenza anche di postazioni fisse lungo lo stesso tratto di strada;
+b) possibilità di collocare la postazione mobile in condizione di elevata sicurezza, per gli
+operatori di polizia stradale e per gli utenti della strada, nel tratto stradale oggetto del
+potenziale controllo;
+c) programmazione, con riferimento alle strade o ai tratti di strade in cui operano diversi
+organi di polizia stradale, di pianificazioni operative coerenti con le esigenze di
+coordinamento, funzionalità e razionalizzazione dell’espletamento dei servizi di controllo
+della velocità, nonché di adeguata ed efficiente ripartizione e rotazione degli stessi.
+3. Le modalità d’uso delle postazioni di cui all’articolo 2, comma 1, lettera h), e le attività
+complementari al controllo sono disciplinate nell’allegato B, che costituisce parte integrante
+del presente decreto.
+ART. 5
+(Tutela della riservatezza)
+1. I dispositivi di controllo utilizzati per l’accertamento dell’eccesso di velocità che consentono di
+documentare la violazione e, a richiesta dell’interessato, la visione successiva, sono impiegati
+nel rispetto della vigente normativa sul trattamento dei dati personali di cui al regolamento (UE)
+2016/679 relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati
+personali, nonché alla libera circolazione di tali dati, e al decreto legislativo 30 giugno 2003, n.
+196, recante il Codice in materia di protezione dei dati personali.
+2. Il titolare del trattamento dei dati di cui all’articolo 2, comma 1, lettera r), assicura che il
+trattamento dei dati personali sia effettuato nel rispetto della normativa vigente in materia di
+protezione dei dati, assicurando, in particolare, che siano rispettati i principi di protezione dei
+dati di cui agli articoli 5, 24 e 25 del regolamento (UE) 2016/679 e che sia effettuato ai soli fini
+dell’esecuzione delle attività previste dal presente decreto.
+3. Il titolare del trattamento dei dati di cui al comma 2, cui competono le decisioni in merito ai
+mezzi del trattamento per il perseguimento delle finalità previste dalla legge, può, nei limiti
+previsti dal presente decreto, affidare specifiche operazioni di trattamento a soggetti terzi, che
+agiscono in qualità di responsabili del trattamento, previo accordo con gli stessi sulla protezione
+dei dati, da stipularsi in forma scritta, ai sensi dell’articolo 28 del regolamento (UE) 2016/679.
+ART. 6
+(Disposizioni transitorie e finanziarie)
+1. I dispositivi già installati alla data di entrata in vigore del presente decreto, non conformi ai
+presupposti e alle prescrizioni contenute nell’Allegato A sono posizionati secondo le modalità
+di cui al medesimo Allegato A entro dodici mesi dalla data di entrata in vigore del presente
+decreto. Decorso il termine di cui al primo periodo, gli stessi sono disinstallati sino
+all’adeguamento alle disposizioni del presente decreto.
+2. All’attuazione del presente decreto si provvede con le risorse umane, finanziarie e strumentali
+disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della finanza pubblica.
+Il presente decreto è pubblicato nella .
+IL MINISTRO DELLE INFRASTRUTTURE
+E DEI TRASPORTI
+IL MINISTRO DELL’INTERNO
+Matteo Salvini
+Ministero delle
+Infrastrutture e dei
+Trasporti
+10.04.2024 09:27:13
+GMT+01:00
+Firmato Digitalmente da/Signed by:
+MATTEO PIANTEDOSI
+Ministro dell'Interno
+In Data/On Date:
+giovedì 11 aprile 2024 19:57
+ALLEGATO A
+COLLOCAZIONE DELLE POSTAZIONI DI CONTROLLO
+1. INDIVIDUAZIONE DEI TRATTI DI STRADA DOVE COLLOCARE LE
+POSTAZIONI DI CONTROLLO
+Per le strade di tipo C, D, E, E-bis, F e F-bis (extraurbane secondarie, urbane di scorrimento, urbane
+di quartiere, urbane ciclabili, locali urbane ed extraurbane, itinerari ciclopedonali urbani ed
+extraurbani), oltre alle condizioni tecniche di cui al punto 2, ai fini dell’individuazione dei tratti di
+strada su cui collocare postazioni di controllo ai sensi dell’articolo 4 del decreto-legge n. 121 del
+2002, convertito con modificazioni dalla legge 1° agosto 2002, n. 168, deve ricorrere una o più delle
+seguenti, ulteriori specifiche condizioni:
+a) elevato livello di incidentalità, documentato da un’accurata analisi del numero, della tipologia e,
+soprattutto, delle cause degli incidenti stradali avvenuti nel quinquennio precedente con
+particolare riferimento alla velocità come causa principale o concausa attraverso la produzione
+di dati statistici;
+b) documentata impossibilità o difficoltà di procedere alla contestazione immediata sulla base delle
+condizioni strutturali, plano-altimetriche e di traffico, tenendo conto, tra l’altro, delle seguenti
+condizioni:
+1) presenza di più corsie per senso di marcia, ovvero suddivisione della strada in carreggiate
+separate, in cui mancano spazi idonei (assenza di banchine o piazzole di dimensioni
+adeguate), gallerie e viadotti privi di aree per fermare i veicoli fuori della carreggiata o,
+comunque, in condizioni di sicurezza. Sulle strade ad unica corsia per senso di marcia,
+l’assenza di banchine o piazzole di dimensioni adeguate;
+2) situazioni in cui l’andamento plano-altimetrico della strada limita la visibilità e condiziona
+in modo negativo la possibilità di fermare e di fare sostare i veicoli dei trasgressori fuori
+della carreggiata o, comunque, in condizioni di sicurezza, in corrispondenza del tratto di
+strada interessato e in quello immediatamente successivo;
+3) condizioni particolari di scarsa visibilità legate, ad esempio, a fenomeni atmosferici
+ciclicamente ricorrenti (nebbia) che, in concomitanza con altri fattori ambientali o con le
+caratteristiche della strada (assenza di spazi idonei per effettuare il fermo del veicolo in
+condizioni di sicurezza), rendono difficile e pericolosa l’ordinaria attività di controllo da
+parte degli organi di polizia stradale;
+4) composizione e volume del traffico (determinati, a titolo esemplificativo, dalla presenza di
+traffico intenso o da percentuale elevata di mezzi pesanti), che rende manifesta la difficoltà
+di procedere al fermo dei veicoli anche su strade ad una sola corsia per senso di marcia,
+soprattutto se il tratto interessato non presenta spazi idonei per lo stazionamento dei veicoli
+pesanti fuori della carreggiata, o comunque in condizioni di sicurezza tali da evitare pericolo
+o intralcio per la circolazione stradale;
+5) particolari condizioni della strada o del tratto stradale determinate dalla elevata densità di
+flussi veicolari e/o pedonali e dalla presenza di strutture scolastiche o aree attrezzate per
+bambini e dall’assenza o limitatezza di idonei spazi laterali esterni alla carreggiata, che
+pregiudicano, rendono pericolosa o impediscono la possibilità di fermare i veicoli in
+condizioni di sicurezza della circolazione. In tali casi l’utilizzo delle postazioni di controllo
+è limitato ad intervalli temporali, determinati dagli enti proprietari, in cui vi è maggiore
+afflusso o maggior presenza di utenza vulnerabile;
+c) presenza di velocità operative dei veicoli, individuate da parte degli enti proprietari o dei gestori
+dei tratti stradali in condizioni di normale deflusso, che sono mediamente superiori rispetto ai
+limiti di velocità consentiti e indicati in modo adeguato con la segnaletica stradale.
+2. CONDIZIONI TECNICHE PER LA COLLOCAZIONE DELLE POSTAZIONI DI
+CONTROLLO
+2.1. COLLOCAZIONE DELLE POSTAZIONI MOBILI SULLE STRADE EXTRAURBANE
+2.1.1. La postazione mobile può essere collocata esclusivamente su strade o singoli tratti di strada in
+cui il limite di velocità imposto dall’ente proprietario ai sensi dell’articolo 142 del codice della strada
+di cui al decreto legislativo 30 aprile 1992, n. 285, non sia inferiore di oltre 20 km/h rispetto a quello
+massimo generalizzato previsto per le strade extraurbane dal medesimo articolo 142, comma 1.
+2.1.2. In deroga a quanto previsto dal punto 2.1.1, è consentita la collocazione su strade o singoli tratti
+di strada con limiti di velocità inferiori a quelli previsti dal medesimo punto, solo quando sussistono
+criticità di tracciato plano-altimetrico o di dimensioni della piattaforma stradale che ne giustificano
+l’imposizione, a condizione che i limiti di velocità siano segnalati con i rispettivi segnali di inizio
+“limite di velocità” (Figura II 50) e “fine limitazione di velocità” (Figura II 71) di cui al regolamento
+di esecuzione e di attuazione del nuovo codice della strada, relativamente ad un tratto stradale di
+estesa minima pari a:
+- di tipo A:
+2.000 metri;
+- di tipo B:
+1500 metri;
+- di tipo C e F:
+500 metri;
+- di tipo F-bis:
+250 metri.
+2.1.3. Deve intercorrere una distanza di almeno 1 km tra il segnale che impone il limite di velocità e
+la collocazione del dispositivo, in conformità a quanto previsto dall’articolo 25, comma 2, ultimo
+inciso della legge 29 luglio 2010, n. 120.
+2.1.4. La distanza minima tra due diversi dispositivi di rilevamento della velocità puntuale deve essere
+almeno pari a:
+strade di tipo A:
+4.000 metri;
+strade di tipo B:
+3.000 metri;
+strade di tipo C, F e F-bis: 1.000 metri.
+2.2. COLLOCAZIONE DELLE POSTAZIONI MOBILI SULLE STRADE URBANE
+2.2.1. Strade di tipo D (strade urbane di scorrimento): la postazione mobile può essere collocata
+esclusivamente se il limite massimo di velocità consentito è pari a quello generalizzato proprio del
+corrispondente tipo di strada, comunque non inferiore a 50 km/h; è consentita l’installazione in tratti
+con limite di velocità inferiore a quello massimo generalizzato, indicato attraverso la specifica
+segnaletica verticale, solo quando sussistono criticità di tracciato plano-altimetrico o di dimensioni
+della piattaforma stradale ovvero condizioni di significativa incidentalità stradale che giustificano
+l’imposizione di limiti di velocità inferiori, ed esclusivamente quando tale limite di velocità sia esteso
+ad un tratto di almeno 400 metri.
+2.2.2. Strade di tipo E ed F (strade urbane di quartiere e urbane locali): è possibile collocare la
+postazione mobile solo se il limite massimo di velocità consentita è pari a 50 km/h.
+2.2.3. Strade urbane di tipo E-bis (strade urbane ciclabili): è possibile collocare la postazione mobile
+solo se il limite massimo di velocità è pari a quello proprio del corrispondente tipo di strada (30 km/h).
+2.2.4. Strade urbane di tipo F-bis (itinerari ciclopedonali): è possibile collocare la postazione mobile
+solo se il limite di velocità consentito che non può essere comunque inferiore a 30 km/h, è indicato
+attraverso la specifica segnaletica verticale e riferito ad un tratto stradale di estesa minima di almeno
+250 metri.
+2.2.5. La distanza minima tra due diversi dispositivi, sul medesimo tratto stradale, deve essere pari
+almeno a 1000 metri sulle strade di tipo D e a 500 metri per le strade di tipo E e F, anche nei confronti
+di eventuali postazioni fisse.
+2.2.6. La distanza tra il segnale del limite di velocità e la postazione di controllo deve essere valutata
+in relazione alle caratteristiche della strada, e deve essere comunque non inferiore a 200 metri per le
+strade di tipo D (strade urbane di scorrimento) e a 75 metri per tutte le altre strade.
+2.3. COLLOCAZIONE DELLE POSTAZIONI FISSE SULLE STRADE EXTRAURBANE
+2.3.1. Nei tratti di strada di tipo A, B, C ed F (autostrade, extraurbane principali, extraurbane
+secondarie, extraurbane locali): il limite massimo di velocità consentito, di norma, deve essere pari o
+comunque non inferiore di oltre 20 km/h rispetto a quello generalizzato del corrispondente tipo di
+strada. In deroga a quanto previsto dal primo periodo, la collocazione delle postazioni fisse sui
+medesimi tratti di strada è consentita qualora la riduzione della velocità di oltre 20 km/h sia dovuta a
+criticità di tracciato plano-altimetrico o di dimensioni della piattaforma stradale ovvero a condizioni
+di significativa incidentalità stradale che ne giustificano l’imposizione.
+2.3.2. Nei tratti di strada di tipo F-bis (itinerari ciclopedonali su strade extraurbane) su cui si intende
+installare i dispositivi, il limite massimo di velocità consentito deve essere comunque non inferiore a
+30 km/h, salvo che non sussistano criticità di tracciato plano-altimetrico o di dimensioni della
+piattaforma stradale che giustificano l’imposizione di limiti di velocità inferiori.
+2.3.3. I limiti di velocità inferiori rispetto a quelli generalizzati previsti per il corrispondente tipo di
+strada devono essere debitamente segnalati con i rispettivi segnali “limite massimo di velocità”
+(Figura II 50) e “fine limitazione di velocità” (Figura II 71) di cui al regolamento di esecuzione e di
+attuazione del nuovo codice della strada relativamente ad una estesa stradale pari a:
+- strade di tipo A:
+2.000 metri;
+- strade di tipo B:
+1.500 metri;
+- strade di tipo C ed F:
+500 metri;
+- strade di tipo F-bis:
+250 metri.
+2.3.4. Il controllo della velocità media è consentito sulle strade di tipo A e B (autostrade ed
+extraurbane principali) e C (extraurbane secondarie).
+La collocazione di sistemi di misurazione della velocità media è possibile a condizione che i tratti
+oggetto di rilevazione siano:
+a) caratterizzati da una velocità consentita uniforme;
+b) privi di diramazioni e svincoli (ingressi o uscite); è ammessa la sola presenza di ingressi e/o
+uscite esclusivamente nell’ipotesi in cui i flussi, rispettivamente entranti e uscenti,
+rappresentino statisticamente un valore non significativo.
+L’estesa dei tratti sottoposti al controllo della velocità media deve essere pari almeno a 1.000
+metri.
+La distanza minima tra due diversi sistemi di rilevamento della velocità media deve tenere
+conto dell’esigenza di evitare un frazionamento della medesima infrastruttura stradale in un
+numero eccessivo di tratti sottoposti a controllo, fermo restando che l’attivazione dei sistemi
+di controllo deve escludere il contemporaneo funzionamento dei sistemi su due tratti
+successivi qualora tra la fine di un tratto e l’inizio del successivo non sia rispettata la distanza
+minima pari ad almeno 1.000 metri.
+2.3.5. Per i cantieri stradali, di durata prevista superiore alla settimana, in deroga alle condizioni di
+cui ai punti precedenti, possono essere installate postazioni fisse, non presidiate, anche eventualmente
+per il controllo della velocità media, in tratti con specifici e puntuali limiti di velocità adeguati alla
+disciplina della circolazione, in relazione sia alla difficoltà di effettuare il presidio da parte degli
+organi di polizia sia alle particolari condizioni critiche per la sicurezza della circolazione stradale e
+dei lavoratori.
+2.3.6. Deve intercorrere una distanza di almeno 1 km tra il segnale che impone il limite di velocità
+e la collocazione del dispositivo, in conformità a quanto previsto dall’articolo 25, comma 2, secondo
+periodo, ultimo inciso, della legge 29 luglio 2010, n. 120.
+2.4. COLLOCAZIONE DELLE POSTAZIONI FISSE SULLE STRADE URBANE
+2.4.1. Per la collocazione delle postazioni fisse sulle strade urbane, l’ente proprietario deve effettuare
+una preventiva valutazione in ordine alla predisposizione, in via preferenziale e in alternativa, di dossi
+artificiali di cui all’articolo 179, comma 4, del regolamento di esecuzione e di attuazione del nuovo
+codice della strada.
+2.4.2. Strade di tipo D (strade urbane di scorrimento): la postazione fissa può essere collocata
+esclusivamente se il limite massimo di velocità consentito è pari a quello generalizzato tipo di strada,
+comunque non inferiore a 50 km/h; è consentita l’installazione in tratti con limite di velocità inferiore
+a quello massimo generalizzato, indicato attraverso la specifica segnaletica verticale, solo quando
+sussistono criticità di tracciato plano-altimetrico o di dimensioni della piattaforma stradale ovvero
+condizioni di significativa incidentalità stradale che giustificano l’imposizione di limiti di velocità
+inferiori, ed esclusivamente quando tale limite di velocità sia esteso ad un tratto di almeno 400 metri.
+2.4.3. Strade di tipo E ed F (strade urbane di quartiere e urbane locali): la postazione fissa può essere
+collocata esclusivamente se il limite massimo di velocità consentito è pari a quello generalizzato del
+corrispondente tipo di strada (50 km/h);
+2.4.4. Strade di tipo E-bis (strade urbane ciclabili): la postazione fissa può essere collocata
+esclusivamente se il limite massimo di velocità consentito è pari a quello proprio del corrispondente
+tipo di strada (30 km/h).
+2.4.5. Strade urbane di tipo F-bis (itinerari ciclopedonali): la postazione fissa può essere collocata
+esclusivamente se il limite massimo di velocità consentito è comunque non inferiore a 30 km/h,
+indicato attraverso la specifica segnaletica verticale e riferito ad un tratto stradale di estesa minima di
+almeno 250 metri.
+2.4.6. Non è consentito installare postazioni fisse nei punti o tratti in cui la velocità massima
+consentita, per motivi contingenti o temporanei, sia inferiore di più di 20 km/h alla velocità prevista
+per la tipologia di strada.
+2.4.7. La distanza minima tra due diversi dispositivi di rilevamento della velocità puntuale deve
+essere pari almeno a 500 metri in ambito urbano e nelle zone di confine con l’ambito extraurbano.
+2.4.8. La collocazione di sistemi di misurazione della velocità media è possibile esclusivamente sulle
+strade di tipo D (strada urbana di scorrimento), a condizione che i tratti oggetto di rilevazione siano:
+a) caratterizzati da una velocità consentita uniforme, salvo il caso in cui vi siano brevi tratti
+intermedi con velocità inferiore rispetto a quella massima consentita nel tratto stradale
+complessivamente sottoposto al controllo;
+b) privi di diramazioni e svincoli (ingressi e/o uscite).
+2.4.9. L’estesa dei tratti sottoposti al controllo della velocità media e la distanza minima tra due
+diversi sistemi di rilevamento della velocità media devono essere pari almeno a 500 metri. La distanza
+minima tra due diversi sistemi di rilevamento della velocità media deve tenere conto dell’esigenza di
+evitare un frazionamento della medesima infrastruttura stradale in un numero eccessivo di tratti
+sottoposti a controllo, fermo restando che l’attivazione dei sistemi di controllo deve escludere il
+contemporaneo funzionamento dei sistemi su due tratti successivi qualora tra la fine di un tratto e
+l’inizio del successivo non sia rispettata la distanza minima pari ad almeno 1.000 metri.
+2.4.10. La distanza tra il segnale del limite di velocità e la postazione di controllo della velocità deve
+essere valutata in relazione alle caratteristiche della strada e deve essere comunque non inferiore a
+200 metri per le strade di tipo D (strada urbana di scorrimento), e a 75 metri per tutte le altre strade.
+ALLEGATO B
+MODALITA’ DI USO DEI DISPOSITIVI E ATTIVITÀ COMPLEMENTARI AL CONTROLLO
+Attività di gestione dei dispositivi e dei sistemi di controllo degli organi di polizia stradale.
+1.1.1. Le attività di controllo della velocità mediante dispostivi che consentono l’accertamento da
+remoto delle violazioni devono essere effettuate unicamente da personale degli organi di polizia
+stradale avente adeguata competenza e conoscenza del funzionamento dei dispositivi stessi.
+1.1.2. Durante tutte le fasi di installazione e funzionamento devono essere rispettate integralmente le
+condizioni contenute nel manuale d’uso dei dispositivi utilizzati e le prescrizioni contenute nei
+decreti di approvazione o di omologazione dei medesimi.
+1.1.3. Le disposizioni di cui ai punti 1.1.1 e 1.1.2 si applicano in ogni operazione di gestione dei
+dispositivi in fase di funzionamento, di elaborazione dei dati acquisiti dai dispositivi, di
+convalida delle immagini prodotte dai dispositivi e di sottoscrizione di verbali di accertamento.
+Le operazioni di gestione dei dispositivi nelle fasi di conservazione, trasporto e installazione,
+nonché in quelle eventuali di disinstallazione, possono essere delegate a terzi, purché gli organi
+di polizia stradale ne abbiano la responsabilità e il controllo mediante procedure definite
+preventivamente.
+1.1.4. Salvo quanto previsto al punto 1.1.3 e al paragrafo 1.3, ogni altra operazione strumentale che
+concorra alla formazione degli atti di accertamento delle violazioni deve sempre essere
+effettuata dagli organi di polizia stradale.
+1.1.5. Le disposizioni di cui ai punti precedenti si applicano anche ai sistemi costituiti di due o più
+dispositivi, utilizzati in due o più postazioni, finalizzati al rilevamento della velocità media su
+un tratto stradale.
+Manutenzione dei dispositivi e dei sistemi di controllo
+1.2.1 Ai fini di un corretto uso dei dispositivi di misurazione della velocità, gli organi di polizia
+stradale che ne hanno la responsabilità e la gestione devono provvedere alla loro corretta
+manutenzione, in base alle condizioni contenute nei decreti di approvazione o di omologazione
+e nei manuali d’uso e manutenzione che ne costituiscono parte integrante.
+1.2.2 Le attività di manutenzione ordinaria e straordinaria sono svolte dal titolare del decreto di
+approvazione o di omologazione oppure da soggetti terzi delegati dal titolare stesso,
+opportunatamente formati e qualificati, al fine di garantire un controllo capillare e un rapido
+intervento sul territorio nazionale. In tali casi, il titolare del trattamento dei dati può designare
+un soggetto responsabile, in conformità a quanto previsto dall’articolo 28 del regolamento (UE)
+2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016.
+1.2.3 Le disposizioni di cui ai punti 1.2.1 e 1.2.2 si applicano anche ai sistemi costituiti da due o più
+dispositivi, utilizzati in due o più postazioni, finalizzati al rilevamento della velocità media su
+un tratto stradale.
+Attività sussidiarie affidabili a terzi
+1.3.1 L’accertamento delle violazioni in materia di superamento dei limiti massimi di velocità ricade
+tra le attività di cui all’articolo 11, comma 1, lett. a), del Nuovo codice della strada di cui al
+decreto legislativo 20 aprile 1992, n. 285, e non può essere delegato a terzi.
+1.3.2 Nell’ambito delle attività di controllo della velocità effettuate con dispositivi o sistemi, tutte le
+attività di installazione e gestione devono essere svolte sotto il diretto controllo degli organi di
+polizia stradale.
+1.3.3 In deroga a quanto previsto dai punti 1.3.1 e 1.3.2, è consentito affidare a soggetti terzi, nel
+rispetto delle disposizioni sulla protezione dei dati personali, attività meramente manuali e
+complementari di servizi sussidiari alla gestione amministrativa dei procedimenti sanzionatori,
+come, a titolo esemplificativo e non esaustivo, le seguenti:
+a) operazioni di sviluppo e stampa della documentazione fotografica;
+b) elaborazione informatica dei dati delle violazioni, senza alcun potere decisionale in ordine
+alla validazione e all’accertamento che rimane di esclusiva competenza dei soggetti di cui
+all’articolo 12 del Nuovo codice della strada;
+c) stampa dei verbali relativi alle violazioni accertate dai soggetti di cui al punto precedente
+e relativo imbustamento;
+d) attività di ‘data entry’ relativamente ai dati attinenti alle singole fasi che concorrono alla
+corretta gestione amministrativa del procedimento sanzionatorio, quali, a titolo
+esemplificativo, esiti di notifiche, pagamenti, ricorsi, comunicazioni varie.
+In tali casi deve essere sempre garantito il rigoroso rispetto delle disposizioni poste a tutela
+della riservatezza personale, assicurando, comunque, che:
+a) sia stipulato un accordo sulla protezione dei dati, ai sensi dell’articolo 28 del regolamento
+(UE) 2016/679, con il soggetto incaricato di effettuare trattamenti di dati personali
+nell’ambito delle predette operazioni;
+b) i dipendenti operino in qualità di “persone autorizzate al trattamento dei dati personali sotto
+l’autorità diretta del titolare o del responsabile del trattamento”, ai sensi dell’articolo 29
+del regolamento (UE) 2016/679;
+c) gli stessi agiscano sotto la diretta sorveglianza e secondo le istruzioni del “titolare del
+trattamento” e del “responsabile del trattamento”.
+1.3.4 Durante le operazioni di rilevamento, è possibile avvalersi di tecnici specializzati purché a
+questi ultimi non siano affidati compiti di accertamento e controllo di specifica competenza
+degli operatori di polizia stradale.
+1.3.5 Se la fase dello sviluppo dei fotogrammi impressionati ovvero di gestione di immagini digitali,
+quando esse siano modificabili, è demandata a un laboratorio privato esterno o a soggetti terzi,
+è sempre necessario che l’organo di polizia stradale si assuma la responsabilità e il controllo
+delle operazioni al fine di garantirne la legittimità e il rispetto dell’obbligo di gestione diretta
+previsto dall’articolo 345 del regolamento di esecuzione e di attuazione del nuovo codice della
+strada di cui al decreto del Presidente della Repubblica 16 dicembre 1992, n. 495.
+Forme di acquisizione dei dispositivi e dei sistemi di controllo
+1.4.1 I dispositivi o i sistemi di rilevazione della velocità devono essere nella completa disponibilità
+degli Uffici o Comandi da cui dipendono gli organi accertatori.
+1.4.2 Ai fini dell'accertamento delle violazioni è consentito l’uso di apparecchi di proprietà degli
+Uffici o Comandi, o che sono nella loro completa disponibilità per effetto di:
+a) acquisizione in locazione finanziaria o leasing;
+b) noleggio a canone fisso;
+c) acquisizione in comodato da altre pubbliche amministrazioni ovvero da enti pubblici o enti
+proprietari o concessionari delle strade, secondo convenzioni o accordi che possono
+comprendere anche le operazioni di manutenzione.
+1.4.3 I contratti di acquisizione da società o enti, che ne hanno la proprietà, possono prevedere, altresì,
+anche gli interventi di manutenzione dei dispositivi. In ogni caso, tuttavia, è sempre necessario
+che gli stessi dispositivi siano costantemente mantenuti nella completa ed esclusiva
+disponibilità degli organi di polizia stradale. Per soddisfare la predetta esigenza, l’intervento
+degli organi di polizia stradale deve concretizzarsi:
+a) per le postazioni mobili: nell’installazione, nella verifica di funzionalità e nel costante
+controllo del corretto funzionamento del dispositivo;
+b) per le postazioni fisse: nella verifica della funzionalità del sistema di controllo e nella sua
+attivazione o disattivazione, anche a distanza.
+1.4.4 In caso di locazione o noleggio, ove previsto dalle disposizioni contrattuali, gli organi di polizia
+stradale possono utilizzare un dispositivo con analoghe caratteristiche in sostituzione di quello
+locato o noleggiato, per periodi di tempo limitati alle operazioni di manutenzione, al solo fine
+di non interrompere il servizio di controllo della velocità.
+1.4.5 Il corrispettivo da corrispondere all’aggiudicatario del servizio di locazione o noleggio, e dei
+relativi servizi correlati alla manutenzione, deve essere conforme alle disposizioni degli articoli
+142, comma 12-ter, e 208, del Nuovo codice della strada, ed esprimersi attraverso un canone
+fisso rapportabile al costo delle apparecchiature o al tempo di utilizzo delle stesse, sia esso
+giornaliero o mensile. In nessun caso il canone di locazione o noleggio può essere rapportato
+alla quantità o qualità delle sanzioni eventualmente accertate o riscosse.
+1.4.6 Le spese di accertamento, gravanti sul trasgressore o sull’obbligato in solido per la violazione,
+ai sensi dell’articolo 201, comma 4, del Nuovo codice della strada, devono avere un costo
+documentabile ed analitico. Tra esse possono essere ricomprese solo le spese sostenute per
+l’individuazione del trasgressore ovvero quelle di notifica del verbale di contestazione al
+medesimo. Non possono rientrarvi quelle sostenute per l’impiego delle apparecchiature
+utilizzate per l’accertamento della violazione nonché i costi connessi alla gestione
+amministrativa del procedimento sanzionatorio successivi alla notificazione dei verbali di
+contestazione, quali, a titolo esemplificativo, l’assistenza legale o il recupero del credito.
+Aspetti connessi alla protezione dei dati personali
+1.5.1 I dispositivi o i sistemi di controllo utilizzati per l’accertamento dell’eccesso di velocità che
+consentono di documentare la violazione e, a richiesta dell’interessato, la visione successiva
+delle immagini relative alla violazione medesima, devono essere impiegati nel rispetto della
+vigente normativa sul trattamento dei dati personali di cui al regolamento (UE) 2016/679, al
+decreto legislativo 30 giugno 2003, n. 196, recante “Codice in materia di protezione dei dati
+personali”.
+1.5.2 Allo scopo di tutelare adeguatamente il diritto alla protezione dei dati delle persone fisiche, il
+titolare del trattamento e il responsabile del trattamento, eventualmente individuato ai sensi
+dell’articolo 28 del regolamento (UE) 2016/679, adottano misure tecniche e organizzative
+adeguate a garantire un livello di sicurezza adeguato al rischio, conformemente agli articoli 5,
+paragrafo 1, lettera f), 24, 25 e 32 del regolamento (UE) 2016/679. Nel rispetto del principio di
+protezione dei dati di cui agli articoli 5 e 25 del regolamento (UE) 2016/679, i soggetti di cui al
+primo periodo trattano i dati personali con le seguenti modalità:
+a) nel rispetto del principio di “minimizzazione dei dati” di cui all’articolo 5, paragrafo 1,
+lettera c), del regolamento (UE) 2016/679, i dispositivi e sistemi, pur potendo effettuare un
+continuo monitoraggio del traffico, devono memorizzare le immagini solo in caso di
+infrazione;
+b) nel rispetto del principio di “limitazione della finalità” di cui all’articolo 5, paragrafo 1,
+lettera b), del regolamento (UE) 2016/679, salva la possibilità di utilizzo dei dati per fini
+giudiziari, le immagini rilevate devono essere fruibili solo per l’accertamento e la
+contestazione degli illeciti stradali;
+c) nel rispetto del principio di “limitazione della conservazione” di cui all’articolo 5,
+paragrafo 1, lettera e), del regolamento (UE) 2016/679, le immagini devono essere
+conservate solo per il periodo di tempo strettamente necessario all’applicazione delle
+sanzioni e alla definizione dell’eventuale contenzioso, in conformità a quanto previsto dal
+Titolo VI del Nuovo codice della strada;
+d) nel rispetto del principio di “integrità e riservatezza” di cui all’articolo 5, paragrafo 1,
+lettera f), del regolamento (UE) 2016/679, nella conservazione delle risultanze fotografiche
+o video devono essere adottati gli accorgimenti di sicurezza utili ad evitare l’accesso non
+autorizzato ai dati e alle immagini trattate.
+1.5.3 Ai fini della notifica del verbale di contestazione, per garantire le esigenze di riservatezza, le
+fotografie o le immagini che costituiscono fonte di prova per gli illeciti accertati non devono
+mai essere inviate al domicilio dell’intestatario del veicolo unitamente al medesimo verbale.
+1.5.4 Allo scopo di consentire all’intestatario del veicolo che, ai sensi dell’articolo 25 della legge 7
+agosto 1990, n. 241, abbia legittimo interesse di conoscere l’effettivo autore della violazione e
+di ottenere dalla competente autorità ogni elemento utile al riguardo, la visione della
+documentazione fotografica o del video deve essere resa disponibile a richiesta del destinatario
+del verbale, nel rispetto delle norme sull’accesso ai dati personali trattati. Al momento
+dell’accesso, dovranno essere, in ogni caso, opportunamente oscurati o resi comunque non
+riconoscibili tutti i soggetti e le targhe di eventuali altri veicoli ripresi nei fotogrammi. È
+garantito, altresì, adottando i medesimi accorgimenti, il diritto di accesso ai dati personali ai
+sensi degli articoli 12 e 15 del regolamento (UE) 2016/679, al ricorrere dei presupposti previsti
+dalla normativa in materia di protezione dei dati personali.
+1.5.5 Allo scopo di tutelare le esigenze di riservatezza indicate nei punti precedenti, e in conformità
+al principio di “minimizzazione dei dati” di cui all’articolo 5, paragrafo 1, lettera c), del
+regolamento (UE) 2016/679, non è possibile effettuare il rilevamento della velocità con
+dispostivi o sistemi attraverso la ripresa fotografica frontale del veicolo quando
+l’apparecchiatura permette la memorizzazione di immagini relative alle persone che vi si
+trovano a bordo. É consentito l’impiego di dispositivi o sistemi di rilevamento della velocità
+che effettuano la ripresa frontale del veicolo e sono provvisti di una funzione che oscura
+automaticamente le parti di immagini che permettono di identificare le persone che vi si trovano
+a bordo.

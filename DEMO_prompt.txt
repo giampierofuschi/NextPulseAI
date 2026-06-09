@@ -1,0 +1,29 @@
+Ecco un prompt completo da usare come test, che copre più intenti in una conversazione realistica:
+
+---
+
+**Messaggio 1 — deal context** (il pannello laterale dovrebbe aggiornarsi)
+
+> Ho un appuntamento domani con il Comune di Ferrara. Vogliono installare un sistema ZTL con 6 varchi nel centro storico, budget indicativo 180.000 euro. L'assessore alla mobilità ha già incontrato Swarco la settimana scorsa.
+
+---
+
+**Messaggio 2 — configurazione** (risposta strutturata con componenti)
+
+> Che soluzione gli configuro? Hanno già una centrale operativa della polizia locale ma non so se è integrabile.
+
+---
+
+**Messaggio 3 — normativa** (deve citare i PDF)
+
+> Quali sono i requisiti normativi per le telecamere OCR nelle ZTL? Serve omologazione MIT?
+
+---
+
+**Messaggio 4 — sales coaching** (deve dare script pronti)
+
+> Il cliente dice che Swarco costa il 20% in meno e ha già referenze con altri comuni veneti. Come rispondo?
+
+---
+
+Questa sequenza è ottima per la demo perché mostra quattro cose distinte in fila: il deal context che si costruisce, la risposta strutturata per configurazione, la tracciabilità delle fonti normative, e il sales coaching. Il pannello laterale cambierà visivamente ad ogni messaggio — cliente, budget e competitor appariranno progressivamente. È quello che dovete mostrare durante il pitch.

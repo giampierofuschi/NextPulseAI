@@ -1,0 +1,947 @@
+ALLEGATO B
+MODALITA’ DI COLLOCAZIONE E USO DEI DISPOSITIVI O MEZZI TECNICI
+DI CONTROLLO FINALIZZATI AL RILEVAMENTO A DISTANZA DELLE
+VIOLAZIONI DELLE NORME DI COMPORTAMENTO DI CUI ALL’ART 142
+DEL DECRETO LEGISLATIVO 30 APRILE 1992, N. 285 (NUOVO CODICE
+DELLA STRADA).
+INDICE
+PARTE I
+DISPOSITIVI DI MISURA DELLA VELOCITA’
+1. MODALITA’ DI ACCERTAMENTO DELL’ECCESSO DI VELOCITA’
+1.1. Tipologia degli strumenti utilizzabili
+1.2. Dispositivi di accertamento della velocità media
+2. APPROVAZIONE DEI DISPOSITIVI
+3. CONTROLLO DEGLI STRUMENTI
+4. PERCENTUALE DI RIDUZIONE DELLA VELOCITA’ A FAVORE DEL TRASGRESSORE
+5. GESTIONE DELLE APPARECCHIATURE
+5.1. Proprietà, contratto di locazione finanziaria o di noleggio a canone fisso delle
+apparecchiature
+5.2. Attività che possono essere affidate a privati: servizi sussidiari all’accertamento
+5.3. Quantificazione del corrispettivo in caso di locazione
+5.4. Spese di accertamento
+6. PRECAUZIONI A TUTELA DELLA RISERVATEZZA PERSONALE
+6.1. Limiti all’applicazione della normativa di tutela della riservatezza
+6.2. Tutela della riservatezza nel caso di esternalizzazione di servizi sussidiari all’accertamento
+6.3. Visione delle fotografie o della documentazione video da parte degli interessati
+6.4. Riprese frontali
+7. SEGNALAZIONE DELLE POSTAZIONI DI CONTROLLO
+7.1. Presegnalazione delle postazioni di controllo della velocità
+7.2. Disposizioni per rendere visibili le postazioni di controllo della velocità
+7.3. Utilizzo di postazioni di controllo e distanza della segnaletica che impone il limite massimo
+di velocità
+7.4. Postazioni mobili di rilevamento della velocità
+8. SOGGETTI CHE POSSONO UTILIZZARE I DISPOSITIVI E I MEZZI TECNICI DI
+CONTROLLO
+8.1 Impiego di operatori nell’attività di controllo
+PARTE II
+INDIVIDUAZIONE DEI TRATTI DI STRADA IN CUI È CONSENTITO IL CONTROLLO A
+DISTANZA DELLE VIOLAZIONI SENZA LA PRESENZA DI OPERATORI DI POLIZIA
+1. IMPIEGO E CARATTERISTICHE DEI DISPOSITIVI E DEI MEZZI TECNICI DI
+CONTROLLO
+2. INDIVIDUAZIONE CON DECRETO DEL PREFETTO DELLE STRADE SULLE QUALI È
+AMMESSO L’USO DEI DISPOSITIVI E DEI MEZZI TECNICI DI CONTROLLO
+3. CRITERI PER LA DETERMINAZIONE DEI TRATTI DI STRADA IN CUI È POSSIBILE
+L’UTILIZZO DI DISPOSITIVI E MEZZI DI CONTROLLO DEL TRAFFICO
+2
+3.1 Elevato livello di incidentalità sul tratto di strada
+3.2 Documentata impossibilità o difficoltà di procedere alla contestazione immediata
+4. PROCEDIMENTO DI INDIVIDUAZIONE ED EMISSIONE DEL DECRETO DA PARTE DEL
+PREFETTO
+4.1 Richiesta degli organi di polizia stradale
+4.2 Parere dell’ente proprietario o concessionario della strada
+4.3 Emissione del decreto da parte del Prefetto
+PARTE III:
+MODALITA’ DI CONTROLLO E DI CONTESTAZIONE
+1. POSTAZIONI FISSE DI RILEVAMENTO SENZA LA PRESENZA DELL’OPERATORE DI
+POLIZIA
+1.1 Strumenti utilizzabili, approvazione, taratura e modalità d’impiego. Rinvio
+1.2. Presegnalazione della presenza dei dispositivi. Rinvio
+2. POSTAZIONI
+TEMPORANEE
+DI
+RILEVAMENTO
+SENZA
+LA
+PRESENZA
+DELL’OPERATORE DI POLIZIA
+1.3 Presegnalazione della presenza dei dispositivi. Rinvio
+3. POSTAZIONI TEMPORANEE DI RILEVAMENTO CON LA PRESENZA DELL’OPERATORE
+DI POLIZIA
+4. ACCERTAMENTO DIRETTO CON FERMO DEL VEICOLO E CONTESTAZIONE IMMEDIATA
+DELLA VIOLAZIONE
+3
+PARTE I:
+DISPOSITIVI DI MISURA DELLA VELOCITA’
+MODALITÁ DI ACCERTAMENTO DELL’ ECCESSO DI VELOCITÁ
+L’eccesso di velocità può essere oggetto di accertamento attraverso sistemi
+di rilevamento fissi, temporanei o mobili.
+I dispositivi ed i mezzi tecnici di controllo delle violazioni, infatti, possono
+essere sia di tipo temporaneo, per consentire un’utilizzazione più flessibile sul territorio, sia
+di tipo fisso, installati permanentemente in postazioni appositamente allestite per garantire
+un controllo sistematico e continuativo di tratti di strada caratterizzati da criticità particolari
+ovvero da elevata sinistrosità, ovvero mobili installati a bordo di veicoli, che permettono il
+rilevamento anche in movimento.
+Le modalità di accertamento sono ugualmente valide ed efficaci. Tuttavia, in
+base alla vigente normativa, l’impiego di postazioni fisse di rilevamento, senza la presenza
+degli operatori di polizia, non può ritenersi una modalità ordinaria di controllo, ma
+rappresenta uno strumento utilizzabile solo su alcune strade ed in presenza di determinate
+condizioni.
+In tutti gli altri casi, perciò, dovranno utilizzarsi sistemi di rilevamento della
+velocità sotto il diretto controllo e con la presenza di un operatore di polizia.
+Ciò, naturalmente, non impedisce la contestazione differita della violazione,
+che è sempre possibile quando ricorrono i presupposti dell’art. 201, comma 1-bis, lettere e)
+ed f), del D.Lvo 30 aprile 1992, n. 285 (nuovo codice della strada, nel seguito C.d.S.).
+Tipologia degli strumenti utilizzabili
+Gli strumenti utilizzabili si possono distinguere, quanto a modalità di
+accertamento in:
+dispositivi per l’accertamento della velocità istantanea o puntuale;
+dispositivi per l’accertamento della velocità media.
+1.2. Dispositivi di accertamento della velocità media
+Sono sistemi integrati che permettono il monitoraggio, il controllo delle
+velocità sulla rete stradale, nonché l’accertamento della violazione per i veicoli che
+superano i limiti massimi di velocità.
+Il sistema calcola con estrema precisione il tempo impiegato dai veicoli nel
+percorrere un tratto di strada di lunghezza nota, precedentemente misurata, compreso tra
+due successivi sistemi di rilevamento periferici.
+Nei sistemi di rilevazione di velocità media, l’accertamento della velocità è
+compiuto nel luogo in cui è situato il portale di rilevamento del tempo impiegato a
+percorrere il tratto, tale luogo è da considerarsi a tutti gli effetti di legge (soprattutto per la
+determinazione della competenza territoriale per i ricorsi al Prefetto di cui all’articolo 203
+del C.d.S. e al Giudice di Pace di cui all’articolo 204 bis del C.d.S.), come luogo della
+commessa violazione.
+4
+Dispositivi di questo tipo impongono di norma che il limite di velocità sull’intero
+tratto oggetto del controllo sia omogeneo, tuttavia condizioni eccezionali, quali ad esempio
+la presenza di un cantiere, in un tratto inferiore al segmento di strada oggetto del controllo
+della velocità media, non eliminano la possibilità per l’organo di polizia stradale di effettuare
+l’accertamento considerando le eccedenze di velocità rispetto al limite ordinario. (1)
+Beninteso nell’ipotesi che gli eventuali diversi limiti vigenti lungo parte della tratta
+sottoposta a controllo siano occasionali e temporanei, e che il riferimento per la
+determinazione delle entità della violazione sia rispetto al limite massimo di velocità
+costante valido per l’intera tratta.
+Restano ovviamente immutate tutte le altre condizioni e prescrizioni che sono
+alla base della scelta della ubicazione delle unità di rilevamento e di impiego del sistema,
+ed in particolare quella che lungo la tratta controllata vige, o sia imposto, un limite massimo
+di velocità costante in condizioni ordinarie (2).
+APPROVAZIONE DEI DISPOSITIVI
+Tutti gli strumenti utilizzati per misurare la velocità dei veicoli devono essere
+approvati dal Ministero delle Infrastrutture e dei Trasporti, secondo le disposizioni degli artt.
+45, comma 6, e 142, comma 6, del C.d.S, degli artt. 192 e 345 del DPR 16 dicembre 1992,
+n. 495 (regolamento di esecuzione e di attuazione del nuovo codice della strada, nel
+seguito Reg.), e del decreto ministeriale 29 ottobre 1997, relativo alla “Approvazione di
+prototipi di apparecchiature per l’accertamento dell’osservanza dei limiti di velocità e loro
+modalità di impiego”.
+Ai sensi dell’art. 3 del decreto ministeriale 29 ottobre 1997, le approvazioni
+delle apparecchiature per l’osservanza dei limiti di velocità, concesse a decorrere dal 1°
+gennaio 1981, decadono venti anni dopo il loro rilascio. Da tale data gli apparecchi non
+possono essere né commercializzati, né utilizzati (3), se la loro approvazione non è stata
+rinnovata.
+CONTROLLO DEGLI STRUMENTI
+La materia dell’impiego e della manutenzione dei misuratori di velocità ha una
+propria disciplina specifica, rispetto alle norme che regolamentano gli altri apparecchi di
+1 La presenza di un cantiere stradale, con limiti di velocità ridotti, rende ancora più pericoloso il comportamento dell’utente che ha
+mantenuto nell’intero tratto una velocità media superiore al limite massimo previsto, pertanto, o non ha tenuto conto del limite di velocità
+in presenza del cantiere, oppure, pur osservandolo, ha mantenuto nella restante parte del tratto autostradale una velocità ben superiore
+al massimo ammissibile.
+2 I pareri espressi dal Consiglio Superiore dei lavori pubblici nella fase di esame della richiesta di approvazione dei sistemi per il controllo
+della velocità media, riportati in sintesi nei decreti di approvazione, non escludono la possibilità di un impiego in presenza di un cantiere
+stradale se il sistema viene impiegato non per controllare il rispetto della velocità imposta in corrispondenza del cantiere, bensì il rispetto
+della velocità imposta nel tratto precedente e/o successivo, da calcolare sempre come velocità media, all’interno dell’estesa oggetto della
+rilevazione.
+3 Per i dispositivi approvati in via provvisoria o con scadenze più ridotte, non è vietato l’impiego dopo la scadenza. È il caso, ad esempio,
+dei dispositivi laser denominati Telelaser LT1 20-20 per i quali era stata rilasciata un’approvazione provvisoria con decreto n. 4199, in
+data 8 settembre 1997, dal Ministero dei Lavori Pubblici – Ispettorato Generale per la Circolazione e la Sicurezza Stradale, per mesi
+quindici dalla data del medesimo. Con nota n. 1352 del 30 marzo 1998, l’Ispettorato precisava che il sopracitato dispositivo
+commercializzato nel periodo di validità indicato nel Decreto n. 4199, era comunque idoneo all’impiego per venti anni a decorrere dalla
+data dello stesso, nel rispetto delle prescrizioni relative all’uso del misuratore. Con successivo Decreto n. 6025 del 30 novembre 1998, il
+termine di validità dell’approvazione del dispositivo misuratore di velocità Telelaser veniva prorogato sino al 1° marzo 2000. L’art. 3 del
+medesimo decreto specificava, tuttavia, che le apparecchiature commercializzate entro il 1° marzo 2000 sono da intendersi idonee
+all’impiego anche oltre detta data, entro i limiti temporali di validità dell’approvazione previsti nel D.M. 29 ottobre 1997, ovvero venti anni.
+5
+misura (4), contenuta nel decreto ministeriale 29 ottobre 1997 che all’art 4 testualmente
+stabilisce: “gli organi di polizia stradale interessati all’uso delle apparecchiature per
+l’accertamento dell’osservanza dei limiti di velocità sono tenuti a……. rispettare le modalità
+di installazione e di impiego previste nei manuali d’uso”.
+È esclusa, perciò, la necessità di un controllo periodico dello strumento di
+misura se non è espressamente richiesto dal costruttore nel manuale d’uso depositato
+presso il Ministero delle Infrastrutture e dei Trasporti al momento della richiesta di
+approvazione, ovvero nel decreto di approvazione.
+Per tutte le apparecchiature approvate dal Ministero delle Infrastrutture e dei
+Trasporti che sono destinate ad essere impiegate esclusivamente con la presenza e
+sotto il costante controllo di un operatore di polizia stradale, ove prevista, la verifica
+metrologica periodica dovrà essere effettuata con le cadenze indicate nel libretto-manuale
+d’uso e manutenzione o di servizio.
+Gli apparecchi utilizzati in modalità automatica, cioè senza la presenza ed il
+diretto controllo dell’operatore di polizia stradale, secondo quanto previsto dai
+provvedimenti di approvazione del Ministero delle Infrastrutture e dei Trasporti, sono
+sottoposti ad una verifica metrologica periodica, almeno annuale (5).
+La verifica, in entrambi i casi, può essere effettuata a cura del costruttore
+dell’apparecchio che risulti a ciò abilitato dalla certificazione di qualità secondo le norme
+ISO-9001 e seguenti, ovvero dai Centri di Taratura opportunamente accreditati presso il
+S.N.T. – Servizio Nazionale di Taratura – ACCREDIA.
+Qualora la verifica metrologica abbia esito negativo, la funzionalità del
+dispositivo dovrà essere ripristinata a cura del costruttore.
+PERCENTUALE
+DI
+RIDUZIONE
+DELLA
+VELOCITA’
+A
+FAVORE
+DEL
+TRASGRESSORE
+Alla velocità accertata dall’apparecchio di misura deve essere applicata una
+riduzione a favore del trasgressore pari al 5% del valore rilevato, con un minimo di 5 km/h.
+Eventuali decimali risultanti da questa operazione non possono essere oggetto di ulteriore
+arrotondamento, né è possibile tener conto di eventuali ulteriori percentuali di riduzione
+collegate all’incertezza della misura dello strumento che sono già comprese nella
+percentuale sopra citata (6).
+4 Infatti, la legge 273/1991, che si occupa di operazioni metrologiche di verifica, non ha alcuna attinenza con gli apparecchi di misura
+della velocità. Tale normativa riguarda i controlli metrologici effettuati su apparecchi di misura di tempo, distanza e massa. Dello stesso
+avviso, peraltro, è il Ministero delle Attività Produttive, il quale ha escluso che le apparecchiature destinate a controllare la velocità
+debbano essere oggetto di verifica metrologica periodica presso i SIT previsti dalla citata legge 273/1991. Un obbligo generalizzato di
+verifica metrologica degli strumenti non può evincersi neanche da altre norme tecniche internazionali che, non solo non disciplinano la
+materia in modo specifico, ma non sono comunque vincolanti per l’ordinamento italiano per l’assenza di specifico recepimento o richiamo
+da parte di norme nazionali.
+5 La verifica metrologica periodica dei dispositivi per la misura della velocità consiste nell’accertare il mantenimento nel tempo della loro
+affidabilità finalizzata alla tutela della fede pubblica, nonché l’integrità di eventuali sigilli ed etichette o altri elementi di protezione previsti,
+attuata attraverso un insieme di operazioni necessarie per assicurare che le funzioni del dispositivo siano in uno stato di conformità ai
+requisiti per l’utilizzazione prevista. Salvo diverse specifiche previste in fase di approvazione dei vari dispositivi, per i misuratori di velocità
+i requisiti per l’utilizzazione si intendono soddisfatti se il dispositivo è in grado di fornire le indicazioni della velocità dei veicoli in transito
+con un errore non superiore a 1 +/- 1% per la media di un discreto numero di misure ( non meno di 50 a varie velocità ) ed un errore non
+superiore al 3% per ogni singola misura
+6 Sia l’art. 142 C.d.S che l’art. 345, Reg. non fanno menzione di arrotondamenti ulteriori nella determinazione della velocità. Pertanto il
+superamento dei predetti limiti, una volta effettuata la riduzione pari al 5% della velocità rilevata, con un minimo di 5 km/h, comporta
+l’applicazione della sanzione amministrativa pecuniaria, che corrisponde al valore finale della velocità rilevata, compresi i valori decimali
+6
+La riduzione si applica alle risultanze ottenute da tutti gli strumenti di misura
+approvati per l’accertamento della velocità sia istantanea o puntuale che media (7)
+GESTIONE DELLE APPARECCHIATURE
+Gli apparecchi di misura utilizzati per contestare l’ eccesso di velocità devono
+essere nella completa disponibilità degli Uffici o Comandi da cui dipendono gli organi
+accertatori.
+L’accertamento delle violazioni in materia di circolazione stradale, tra cui
+quella relativa al superamento dei limiti massimi di velocità, ricade tra le attività di cui
+all’art. 11, comma 1, lett. a), C.d.S., e pertanto, costituendo servizio di polizia stradale, non
+può essere delegato a terzi, pena la nullità degli accertamenti (8).
+Proprietà, contratto di locazione finanziaria o di noleggio a canone fisso delle
+apparecchiature
+Nel richiamare la disposizione di cui all’art. 345, comma 4, Reg., nella quale è stabilito che
+le apparecchiature per il rilevamento della velocità devono essere gestite direttamente dagli
+organi preposti all’espletamento dei servizi di polizia stradale elencati dall’art. 12 C.d.s., si
+rammenta altresì che l’art. 61 della Legge 120/2010, prevede che ai fini dell'accertamento
+delle violazioni esclusivamente con l'impiego del personale dei corpi e dei servizi di polizia
+locale, è consentito l’uso di apparecchi acquisiti da loro in proprieta', con contratto di
+locazione finanziaria o di noleggio a canone fisso.
+Le citate disposizioni, non imponendo una specifica natura del titolo di
+possesso dello strumento, lasciano intendere che le singole apparecchiature possono
+essere di proprietà ovvero:
+prese in locazione o in leasing da imprese che ne hanno la proprietà con contratti
+che possono prevedere, altresì, anche gli interventi di manutenzione;
+acquisite in comodato da altre Pubbliche Amministrazioni ovvero da Enti pubblici o
+Enti Proprietari o Concessionari delle Strade, secondo convenzioni o accordi che
+possono comprendere anche le operazioni di manutenzione.
+In entrambi i casi, tuttavia, è sempre necessario che le stesse
+apparecchiature siano costantemente mantenute nella completa ed esclusiva
+(es. limite massimo di velocità 130 km/h, velocità rilevata di 148 km/h – riduzione del 5%= velocità 140,6 km/h con sanzione di cui
+all’art.142, comma 8, C.d.S. per aver superato di oltre 10 km/h).
+7 La vigente normativa ( art. 345 Reg. e D.M. 29.10.1997), impone che la percentuale di riduzione a favore dell’utente, pari al 5% con un
+minimo di 5 Km/h, si applichi a tutte le apparecchiature utilizzate per l’accertamento della velocità dei veicoli, senza fare distinzione tra
+apparecchiature destinate a misurare la velocità istantanea e strumenti tecnici per il calcolo della velocità media. Invero, la concessione
+della predetta riduzione a favore dell’utente non è correlata alla incertezza di misura strumentale degli apparecchi, ma alla necessità di
+tener conto della reale condotta dell’utente che non può tenere costantemente sotto controllo il tachimetro, ovvero può anche superare
+leggermente la velocità massima consentita per eseguire una manovra più rapidamente a favore della sicurezza e può essere
+condizionata dalla possibile imprecisione degli strumenti di misura dei veicoli (tachimetri). La riduzione progressiva del valore della
+velocità media (5, 10 o 15% in base alla velocità calcolata), prevista dal comma 2 dell’art. 345 Reg., deve essere applicata al valore della
+velocità media ricavata empiricamente dal confronto dei dati orari e delle percorrenze autostradali ricavati dai biglietti autostradali. Ai
+sistemi tecnici di misurazione della velocità media, perciò, non può essere applicata la riduzione prevista dall’art.345, comma 2, Reg.
+relativa alla velocità media calcolata con le risultanze dei biglietti autostradali.
+8A tale comportamento consegue, altresì, la censurabilità delle amministrazioni inadempienti, in quanto in contrasto con la previsione
+dell’articolo 345, comma 4, Reg., secondo il quale l’accertamento delle violazioni ai limiti massimi di velocità deve essere eseguito
+attraverso la “gestione diretta” delle apparecchiature da parte degli organi di polizia stradale (Cass.Civ., Sez. I, 7 novembre 2003 n.
+16713 ), e con l’art. 61 della legge 29 luglio 2010, n. 120, inerente “ Disposizioni in materia di sicurezza stradale”che disciplina le
+modalità di accertamento delle violazioni alle norme del Codice della strada da parte degli enti locali.
+7
+disponibilità degli organi di polizia stradale di cui all’art. 12 C.d.S.. Per soddisfare la
+predetta esigenza, l’intervento degli organi di polizia stradale deve concretizzarsi:
+per le postazioni temporanee o mobili, nell’installazione, nella verifica di funzionalità
+e nel costante controllo del corretto funzionamento dell’apparecchio;
+per le postazioni fisse, nella verifica della funzionalità del sistema di controllo e nella
+sua attivazione o disattivazione, anche a distanza.
+Attività che possono essere affidate a privati: servizi sussidiari all’accertamento
+La convalida delle immagini prodotte dall’apparecchiatura e la sottoscrizione
+di verbali di accertamento, essendo fasi essenziali dell’accertamento stesso, a cui viene
+conferita fede privilegiata, devono essere sempre effettuate dagli organi di polizia stradale
+di cui all’art. 12 del C.d.s.
+Possono essere affidate a terzi o/e svolte sotto il diretto controllo degli organi
+di polizia stradale attività di manutenzione ordinaria e straordinaria dei dispositivi forniti, ed
+attività puramente manuali e complementari, quali a titolo esemplificativo:
+• sostituzione e rimozione dei supporti contenenti immagini;
+• realizzazione di un repertorio e/o archivio delle immagini digitali;
+• assistenza tecnica specializzata da parte di un tecnico operatore
+durante le attività di rilevamento, senza che quest’ultimo concorra
+nell’attività di accertamento e/o controllo di specifica competenza degli
+organi di polizia stradale.
+Inoltre è consentito affidare a soggetti privati mere attività di servizi sussidiari alla gestione
+amministrativa dei procedimenti sanzionatori, nel rispetto delle disposizioni sulla
+riservatezza quali, a titolo esemplificativo e non esaustivo, le seguenti:
+elaborazione informatica dei dati delle violazioni senza alcun potere decisionale in
+ordine alla validazione ed all’accertamento che rimane di esclusiva competenza dei
+soggetti di cui all’art. 12 del C.d.S.;
+stampa ed imbustamento dei processi verbali di contestazione;
+attività di data entry relativamente ai dati attinenti le singole fasi che concorrono alla
+corretta gestione amministrativa del procedimento sanzionatorio (es. esiti notifiche,
+pagamenti, ricorsi, comunicazioni varie, ecc…);
+Per quanto riguarda invece la fase di sviluppo dei fotogrammi impressionati, si ribadisce
+l’opportunità che le operazioni eventualmente demandate ad un laboratorio privato siano
+eseguite sotto il diretto controllo e supervisione dell’organo di polizia stradale, al fine di
+garantire la legittimità dell’operazione e l’obbligo di gestione diretta prevista dal citato art.
+345 Reg.. Tale disposizione è comunque soddisfatta anche mediante la sola diretta
+consegna e ritiro, da parte dell’operatore di polizia stradale, delle pellicole impressionate
+presso il laboratorio fotografico avente già la qualifica di “incaricato del trattamento dati”,
+senza che sia necessario il presidio durante le fasi di sviluppo delle pellicole stesse. La
+validazione ed il repertorio delle immagini digitali può avvenire su piattaforme informatiche
+purché sotto la supervisione del personale di polizia ed in ottemperanza alla norme sulla
+riservatezza.
+Quantificazione del corrispettivo in caso di locazione
+8
+Il corrispettivo da elargire all’aggiudicatario del servizio di locazione
+dell’apparecchio, e dei relativi servizi correlati alla manutenzione, deve esprimersi
+attraverso un canone fisso rapportabile al solo costo delle apparecchiature e quindi al
+tempo di utilizzo delle stesse, sia esso giornaliero o mensile, e non alla quantità e/o qualità
+delle sanzioni eventualmente accertate e/o riscosse.
+Le spettanze da elargire all’aggiudicatario dell’appalto di locazione devono
+essere rapportate alle disposizioni degli artt.142, comma 12 ter, e 208 C.d.S., relative alla
+destinazione dei proventi degli illeciti amministrativi, ove è prevista tra l’altro, la possibilità
+della fornitura dei mezzi tecnici necessari per i servizi di polizia stradale. Il corrispettivo,
+perciò, deve essere sempre commisurato al costo delle apparecchiature o in funzione del
+tempo di utilizzo delle stesse e non legato alle sanzioni eventualmente riscosse (9)
+5.4. Spese di accertamento
+Le spese di accertamento devono avere un costo documentabile ed analitico
+poiché gravanti sul trasgressore ai sensi dell’art. 201, comma 4, del C.d.s, in aggiunta al
+dovuto quale sanzione amministrativa pecuniaria corrispondente alla violazione
+commessa. Non possono rientrare tra le spese di accertamento il costo delle attività
+che non concorrono direttamente alla definizione della procedura inerente
+l’individuazione del trasgressore ovvero alla notifica del verbale di contestazione al
+medesimo, diverse da quelle definite dal paragrafo 5.2. Analogamente non possono
+rientrare i costi connessi alla gestione amministrativa del procedimento sanzionatorio
+successivi alla notificazione dei verbali di contestazione ( assistenza legale, recupero
+credito, ecc. ).
+PRECAUZIONI A TUTELA DELLA RISERVATEZZA PERSONALE
+I dispositivi di controllo utilizzati per l’accertamento dell’ eccesso di velocità
+che consentono di documentare la violazione, ed a richiesta dell’interessato la visione
+successiva, devono essere impiegati nel rispetto delle norme sulla riservatezza personale
+(D.Lvo n. 196/2003).
+La doverosa considerazione dei diritti della persona impone l’adozione di
+alcune cautele. In particolare è necessario che:
+gli apparecchi di rilevazione, pur potendo effettuare un continuo monitoraggio del
+traffico, memorizzino le immagini solo in caso di infrazione;
+salva la possibilità di utilizzo dei dati per fini giudiziari, le immagini rilevate siano fruibili
+solo per l’accertamento e la contestazione degli illeciti stradali;
+9 Se da una parte, infatti, appare illogico in un rapporto contrattuale con natura “do ut facias “ vincolare il corrispettivo per la prestazione
+ad un’ “alea” corrispondente ad una percentuale delle sanzioni amministrative pecuniarie riscosse, dall’altra appare paradossale che
+concorra all’attività di accertamento un soggetto privato che, pur accettando il rischio contrattuale, determini con la propria opera l’entità
+del corrispettivo da ricevere, riducendo così lo stesso rischio contrattuale. Una procedura cosi come ipotizzata appare in parte in
+contrasto anche con le disposizioni dettate dall’art. 208 del Codice della strada, che stabilisce la destinazione dei proventi delle sanzioni
+amministrative pecuniarie. Difatti, una determinazione “a priori” del costo del servizio, basata su una percentuale predefinita e senza una
+motivazione plausibile che giustifichi tale corrispettivo, limiterebbe in modo sostanziale le percentuali che spettano ai soggetti beneficiari
+richiamati nel medesimo art. 208 C.d.S., con il rischio di pregiudicare le attività e gli obbiettivi da perseguire che sono finanziati con i
+fondi in questione.
+9
+la registrazione continua del monitoraggio del traffico sia conservata in forma di dati
+anonimi, senza possibilità di identificazione dei veicoli o delle persone e possa essere
+disponibile, sempre attraverso dati anonimi, soltanto per studi o ricerche sul traffico;
+le risultanze fotografiche o le riprese video siano nella disponibilità e vengano trattate
+solo dal personale responsabile degli organi di polizia e dagli incaricati del trattamento e
+della gestione dei dati;
+le immagini siano conservate solo per il periodo di tempo strettamente necessario
+all’applicazione delle sanzioni e alla definizione dell’eventuale contenzioso;
+nella conservazione delle risultanze fotografiche o video siano adottati gli accorgimenti
+di sicurezza utili ad evitare l’accesso non autorizzato ai dati e alle immagini trattate.
+Limiti all’applicazione della normativa di tutela della riservatezza
+Occorre precisare che l’applicazione della vigente normativa in materia di
+riservatezza personale, riferita al trattamento delle immagini, comprese anche quelle
+registrate nei controlli con documentazione video, è obbligatoria solo qualora permetta di
+identificare un soggetto anche in via indiretta, cioè attraverso il collegamento con altre
+informazioni, quali quelle degli archivi del Pubblico Registro Automobilistico o del
+Dipartimento per i Trasporti, la Navigazione ed i Sistemi Informativi e Statistici del Ministero
+delle Infrastrutture e dei Trasporti.
+Pertanto, le prescrizioni sopra richiamate non operano quando i sistemi
+utilizzati e le registrazioni effettuate, per la distanza, per l’ampiezza dell’angolo di visuale,
+per la tipologia degli strumenti ovvero per altre cause contingenti non contengano dati
+identificativi dei veicoli.
+Tutela della riservatezza nel caso di esternalizzazione di servizi sussidiari
+all’accertamento
+Qualora le operazioni di sviluppo e stampa della documentazione fotografica,
+di gestione della documentazione video o digitale prodotta dalle apparecchiature di
+rilevamento della velocità, ovvero le attività di gestione sussidiaria ed amministrativa del
+procedimento sanzionatorio siano affidate a soggetti privati, deve essere sempre garantito
+il rigoroso rispetto delle disposizioni poste a tutela della riservatezza personale.
+In particolare, deve comunque essere assicurato che:
+- i dipendenti della struttura privata operino in qualità di “incaricati del trattamento”;
+- gli stessi agiscano sotto la diretta sorveglianza e secondo le istruzioni del “titolare del
+trattamento” e del “responsabile del trattamento”;
+- il ruolo di “incaricato del trattamento” possa essere svolto soltanto da una persona
+fisica;
+- sia nominato “responsabile del trattamento” la società incaricata, ovvero una o più
+persone operanti nell’Amministrazione Pubblica, ovvero una o più persone operanti
+nella medesima struttura privata.
+Ricorrendo tali presupposti, il privato è legittimato a trattare i precedenti dati
+della struttura pubblica, di cui abbia la disponibilità, ma è comunque vincolato ad utilizzarli
+nell’ambito dei compiti che devono risultare da un atto scritto (provvedimento
+amministrativo o convenzione).
+Visione delle fotografie o della documentazione video da parte degli interessati
+10
+Per garantire le esigenze di riservatezza, le fotografie o le immagini che
+costituiscono fonte di prova per gli illeciti accertati non devono mai essere inviate al
+domicilio dell’intestatario del veicolo unitamente al verbale di contestazione.
+Tuttavia, poiché l’intestatario del veicolo ha un legittimo interesse a
+conoscere l’effettivo autore della violazione e, pertanto, ad ottenere dalla competente
+autorità ogni elemento utile al riguardo, la visione della documentazione fotografica o del
+video deve essere resa disponibile a richiesta del destinatario del verbale, nel rispetto delle
+norme sull’accesso ai dati personali trattati.
+Al momento dell’accesso, pertanto, dovranno essere opportunamente
+oscurati o resi comunque non riconoscibili i passeggeri presenti a bordo del veicolo
+controllato.
+Riprese frontali
+Le esigenze di riservatezza personale escludono la possibilità di effettuare il
+rilevamento della velocità con sistemi automatici, senza contestazione immediata della
+violazione, attraverso la ripresa fotografica frontale del veicolo quando l’apparecchiatura
+permette la memorizzazione di immagini che consentono di identificare le persone che vi si
+trovano a bordo. Un siffatto tipo di accertamento, infatti, in quanto non indispensabile, si
+pone in violazione alle norme in materia di riservatezza.
+Sono, viceversa, compatibili le riprese frontali realizzate con l’ausilio di
+dispositivi impiegati per la contestazione immediata delle violazioni.
+Infatti, in tali casi, la documentazione video realizzata costituisce solo il
+supporto che attesta una violazione accertata direttamente dall’operatore di polizia.
+SEGNALAZIONE DELLE POSTAZIONI DI CONTROLLO
+L’art. 142, comma 6-bis, C.d.S. impone che le postazioni di controllo per il
+rilevamento della velocità siano:
+a) preventivamente segnalate;
+b) ben visibili.
+Il rispetto delle esigenze di informazione dell’utenza, allo scopo di fornire la
+massima trasparenza all’attività di prevenzione realizzata con l’impiego di apparecchiature
+di controllo della velocità, deve essere garantito mediante l’uso di segnali stradali o di
+dispositivi di segnalazione luminosa.
+7.1. Presegnalazione delle postazioni di controllo della velocità.
+Le caratteristiche e le modalità di impiego dei segnali e dei dispositivi di
+segnalazione luminosa sono state stabilite con decreto adottato dal Ministro dei trasporti, di
+concerto con il Ministro dell’interno, in data 15 agosto 2007.
+In proposito, nel rinviare a tale provvedimento per quanto concerne le
+indicazioni relative al contenuto del messaggio, si richiama l’attenzione sugli articoli 2 e 3
+precisando che:
+11
+a) il decreto non fissa una distanza minima tra il segnale stradale o il dispositivo luminoso
+di preavviso e la postazione di controllo a cui si riferisce ma, più genericamente,
+stabilisce che tale distanza deve essere “adeguata”, in relazione alla velocità locale
+predominante. Salvo casi particolari, in cui l’andamento plano-altimetrico della strada o
+altre circostanze contingenti rendono consigliabile collocarlo ad una distanza diversa, si
+può ritenere che tra il segnale o il dispositivo luminoso e la postazione di controllo
+possa essere “adeguata” la distanza minima indicata, per ciascun tipo di strada, dall’art.
+79, comma 3, Reg. per la collocazione dei segnali di prescrizione.
+b) la distanza massima tra il segnale stradale o il dispositivo luminoso che indica la
+presenza della postazione di controllo e la postazione stessa non può essere superiore
+a km 4 e tra il segnale o dispositivo e la postazione non devono essere presenti
+intersezioni o immissioni laterali di strade ad uso pubblico;
+c) le caratteristiche costruttive dei segnali stradali utilizzabili (forma, colore di fondo,
+altezza dei caratteri in funzione della velocità locale predominante, ecc.) sono quelle
+previste dal Reg. per i segnali di indicazione; per i dispostivi luminosi a messaggio
+variabile, invece, occorre far riferimento alle disposizioni dell’art. 170 del medesimo
+regolamento.
+L’informazione sulla presenza della postazione di controllo, sia fissa che
+temporanea, deve essere fornita attraverso la collocazione di idonei segnali stradali di
+indicazione, anche a messaggio variabile, che possono essere installati, in via provvisoria
+o definitiva, ad adeguata distanza dal luogo in cui viene utilizzato il dispositivo di
+rilevamento (10) secondo le indicazioni del decreto ministeriale 15 agosto 2007 (11).
+Per le postazioni temporanee possono essere utilizzati segnali collocati in
+modo permanente sulla strada solo quando la posizione dei dispositivi di rilevamento sia
+stata oggetto di preventiva pianificazione coordinata ed il loro impiego in quel tratto di
+strada non sia occasionale, ma, per la frequenza dei controlli, assuma il carattere di
+sistematicità (12).
+Limitatamente alle postazioni temporanee di controllo, l’esigenza di
+informazione preventiva può essere soddisfatta anche attraverso l’impiego di dispositivi
+luminosi a messaggio variabile, installati su veicoli e collocati ad adeguata distanza dalla
+postazione stessa, conformemente alle indicazioni fornite dal citato decreto ministeriale 15
+agosto 2007.
+Tutte le segnalazioni in argomento dovranno essere comunque collocate in
+condizioni di sicurezza e in modo da consentirne il tempestivo avvistamento da parte degli
+utenti in transito e la tutela dell’incolumità degli operatori di polizia.
+Disposizioni per rendere visibili le postazioni di controllo della velocità.
+Le postazioni con dispositivi automatici di rilevamento a distanza della
+velocità, senza la presenza dell’agente accertatore, devono essere rese ben visibili
+10 La norma non impone la presegnalazione dell’effettivo funzionamento delle apparecchiature ma solo dell’installazione della postazione
+fissa o della sua abituale collocazione, quando trattasi di postazioni temporanee.
+11 Nelle more della completa attuazione delle disposizioni ministeriali, peraltro, resta ferma la cartellonistica di segnalazione delle
+postazioni fisse e temporanee di controllo della velocità, già collocata sulle strade ed autostrade, purché avente colori, caratteristiche
+dimensionali e di installazione conformi alle disposizioni regolamentari in materia.
+12 Salvo i casi sopracitati, infatti, l’utilizzazione di segnaletica permanente per segnalare postazioni temporanee, se pur non vietata dalle
+disposizioni vigenti, risulta non coerente con la tipologia utilizzata e con l’esigenza di credibilità che il messaggio segnaletico deve fornire.
+Pertanto, salvo i casi sopraindicati, le postazioni temporanee dovrebbero essere segnalate con segnali stradali temporanei..
+12
+attraverso la collocazione su di esse, o nelle immediate vicinanze, di un segnale di
+indicazione riportante il simbolo dell’organo di polizia operante conforme a quelli previsti
+dall’art. 125 Reg., ovvero breve iscrizione della denominazione del corpo o servizio di
+polizia operante se non riconoscibile attraverso uno specifico simbolo.
+Le postazioni di controllo temporanee presidiate dall’agente accertatore sono
+rese ben visibili grazie alla presenza di personale in uniforme o ricorrendo, ove possibile,
+all’impiego di autoveicoli di servizio con colori istituzionali ovvero con l’utilizzo di un segnale
+di indicazione dell’organo operante conforme a quello previsto per le postazioni di
+rilevamento a distanza, da apporre nelle immediate vicinanze della postazione.
+In alternativa, quando sia utilizzato un veicolo di serie nella disponibilità della Pubblica
+Amministrazione, la visibilità della postazione è garantita con la collocazione sul veicolo o
+in corrispondenza di esso di un segnale conforme a quello previsto per le postazioni di
+rilevamento a distanza, ovvero tenendo in funzione il dispositivo luminoso supplementare
+a luce lampeggiante blu.
+Ove il rilevamento della velocità venga effettuato dal lato opposto al senso
+di marcia con dispositivi omologati per tale utilizzo, la visibilità della postazione è garantita
+dall’installazione sul lato di marcia, ovvero in entrambi i lati se l’attività di controllo viene
+effettuata su entrambi i sensi di marcia, di un segnale di indicazione dell’organo operante
+conforme a quello previsto per le postazioni di rilevamento a distanza, da apporre nelle
+immediate vicinanze della postazione. In quest’ultimo caso, deve essere sempre e
+comunque garantita, per entrambi i sensi di marcia, la presenza della segnaletica di
+presegnalazione delle postazioni di cui al paragrafo 7.1.
+7.3. Utilizzo di postazioni di controllo e distanza dalla segnaletica che impone il limite
+massimo di velocità.
+L’art. 25, comma 2, 2° periodo, della Legge n. 120/ 2010, prevede che fuori dei centri abitati
+non possono comunque essere utilizzate o installate postazioni di rilevamento a distanza,
+senza la presenza dell’operatore, ad una distanza inferiore ad un chilometro dal segnale
+che impone il limite di velocità.
+Il fatto che la distanza è in relazione alla presenza del segnale di limite massimo di velocità
+esclude che tale condizione si applichi qualora il limite imposto sia quello generalizzato
+previsto dall’art.142, comma 1, del C.d.s, per i vari tipi di strada, vigente lungo il tratto
+stradale in cui avviene il controllo, o sia riferito al particolare veicolo in circolazione.
+Ciò stante è ovvio che è l’ultimo segnale incontrato dall’utente della strada quello al quale
+riferire la distanza di un chilometro, a meno che non si tratti di una mera ripetizione di un
+segnale precedente lungo un tratto di strada in cui non vi sono intersezioni.
+Infatti è il segnale posto dopo l’intersezione quello che è noto agli utenti che si immettono
+con manovra di svolta, e quindi anche per questi ultimi deve essere garantita la prescritta
+distanza.
+L’obbligo della distanza di almeno un chilometro dal segnale posto dopo l’intersezione non
+si applica qualora la velocità massima consentita sia la stessa su tutti i rami dell’
+intersezione, a condizione che la segnaletica presente su tali rami sia comunque ad una
+distanza di almeno un chilometro dalla postazione di controllo. In sintesi, la distanza di
+almeno un chilometro deve essere assicurata a tutti gli utenti in approssimazione alle
+postazioni di rilevamento, quale che sia il tratto di strada percorso.
+13
+Poiché la norma recita che la distanza di almeno un chilometro dal segnale
+vale sia per l’utilizzo che per la installazione della postazione, si chiarisce che nel caso di
+dispositivi di rilevamento che operano l’accertamento con veicolo in avvicinamento alla
+postazione, il chilometro deve essere computato rispetto al punto in cui viene
+effettivamente rilevata la violazione e non rispetto al punto di installazione del dispositivo.
+Per quanto riguarda gli accertamenti con i dispositivi di determinazione della
+velocità media, si ritiene che la prescrizione indicata dal legislatore nel citato articolo 25
+comma 2 della legge 120/2010, intenda sollecitare nell’utente della strada un
+comportamento virtuoso, consentendo allo stesso di adeguare la velocità al limite indicato
+dalla segnaletica stradale e non solo a partire dal segnale stesso, ma pure nel successivo
+chilometro, spazio all’interno del quale, di conseguenza, viene inibita l’azione di controllo
+dell’organo di polizia stradale.
+Tale divieto non concerne l’impiego di tali sistemi quando oggetto del controllo
+è la velocità media mantenuta dal veicolo tra due portali del sistema, anche se il segnale di
+limite di velocità sia installato a meno di 1 chilometro dal primo dei due portali.
+Infatti, il momento dell’accertamento dell’eventuale infrazione, generata
+dall’aver mantenuto nel tratto oggetto di controllo una velocità media superiore a quella
+prescritta dal segnale verticale apposto a meno di un chilometro, coincide con il luogo ove
+è collocato il secondo dei due portali del sistema, punto che quindi si trova sempre a ben
+più di un chilometro dal segnale verticale collocato dall’ente proprietario della strada.
+7.4. Postazioni mobili di rilevamento della velocità
+Tutto quanto precede in ordine alla segnalazione delle postazioni di controllo non si applica
+per l’utilizzo dei dispositivi di rilevamento della velocità mobili ( installati a bordo di veicoli )
+per la misura della velocità in modalità dinamica, ovvero in movimento, in coerenza anche
+con quanto previsto dall’art. 3 del più volte richiamato DM 15 agosto 2007.
+SOGGETTI CHE POSSONO UTILIZZARE I DISPOSITIVI E I MEZZI TECNICI DI
+CONTROLLO
+L’articolo 4, comma 1, della legge 168/2002 limita l’utilizzazione o la
+installazione dei dispositivi e dei mezzi tecnici di controllo a distanza ai soli organi di polizia
+stradale indicati nel comma 1, dell’art.12 C.d.S. .
+Resta impregiudicata, per i restanti organi di polizia stradale richiamati ai
+commi 2 e 3 dell’art.12 C.d.S., la facoltà di utilizzare dispositivi di controllo finalizzati
+all’accertamento diretto delle violazioni, procedendo, quando possibile, alla prescritta
+contestazione immediata delle stesse. I medesimi soggetti, peraltro, possono utilizzare i
+dispositivi di controllo senza effettuare la contestazione immediata nei casi previsti dall’art.
+201, comma 1-bis, lett. e), C.d.S., a condizione che il loro impiego avvenga con la
+presenza e sotto il diretto controllo di loro dipendenti abilitati allo svolgimento di compiti di
+polizia stradale.
+Impiego di operatori nell’attività di controllo
+14
+Nei casi indicati all’art. 201, comma 1 bis, lett. e), del C.d.S., la condizione
+della costante presenza di un operatore di polizia stradale può ritenersi soddisfatta quando
+l’apparecchio di misura è gestito anche da un solo dipendente.
+Quando il servizio di controllo prevede la contestazione immediata della
+violazione, non è richiesto l’impiego coordinato di più unità operative, essendo sufficiente
+l’utilizzazione di una sola unità operativa composta da almeno due operatori di polizia
+stradale. Infatti, nel rispetto delle regole fissate dalle presenti istruzioni, il numero degli
+operatori e le modalità del loro impiego restano in ogni caso rimessi alla valutazione
+discrezionale del responsabile del Comando o dell’Ufficio da cui dipendono.
+PARTE II
+INDIVIDUAZIONE DEI TRATTI DI STRADA IN CUI È CONSENTITO IL
+CONTROLLO A DISTANZA DELLE VIOLAZIONI SENZA LA PRESENZA DI
+OPERATORI DI POLIZIA
+1. Impiego e caratteristiche dei dispositivi e dei mezzi tecnici di controllo
+L’articolo 4 del d.l. 20.6.2002, n.121, come convertito e modificato con
+legge 01.8.2002, n.168, e successivamente modificato con d.l. 27.06.2003, n. 151,
+convertito con legge 01.08.2003, n. 214, consente sia l’impiego di dispositivi che di mezzi
+tecnici di controllo del traffico, per l’accertamento a distanza di alcune violazioni, tra cui
+l’eccesso di velocità (art.142 C.d.S.).
+In particolare è possibile l’installazione e l’impiego di dispositivi in grado di
+rilevare, anche in modo automatico (13), le violazioni, senza la presenza o l’intervento
+contestuale dell’operatore di polizia stradale ovvero di mezzi tecnici che mettono in
+condizione l’organo preposto all’attività di monitoraggio del traffico a distanza di accertare
+l’illecito in un luogo diverso da quello in cui esso si sviluppa e dal momento in cui si compie.
+La norma legittima l’accertamento e la contestazione differita delle violazioni
+rilevate con i predetti dispositivi tecnici senza richiedere che l’impossibilità della
+contestazione immediata sia adeguatamente motivata caso per caso, ma considerandola
+oggettivamente ed in via presuntiva presente in tutte le fattispecie indicate (14-15).
+I dispositivi di controllo si identificano con gli strumenti tecnici costruiti
+specificamente per accertare violazioni (quali, a titolo esemplificativo, i misuratori di
+13 Secondo l’art.4 del d.l. 20.6.2002, n. 121, convertito, con modificazioni, dalla l. 01.8.2002, n. 168 e successive modifiche, gli
+accertamenti in automatico delle violazioni previste dall’art. 142 sono correttamente effettuati senza la presenza dell’organo di controllo,
+solo qualora vengano eseguiti mediante apparecchiature che abbiano ottenuto una specifica approvazione o omologazione per tale
+impiego. Ne consegue che se i dispositivi di rilevamento non hanno ottenuto la suddetta omologazione o approvazione, possono essere
+utilizzati solo se gestiti direttamente dagli organi di polizia stradale e nella loro disponibilità.
+14 La norma intende riferirsi sia all’impiego di dispositivi o mezzi tecnici di controllo che rilevano l’infrazione quando il veicolo è già
+transitato e che sono presidiati durante il funzionamento da un organo di polizia stradale, sia all’impiego di strumenti che
+automaticamente, senza neppure la presenza dell’operatore di polizia, registrano l’infrazione e trasmettono i dati a distanza (controlli da
+remoto), ovvero che consentono l’accertamento in tempi successivi sulla base delle immagini raccolte.
+15 Occorre precisare, tuttavia, che la disposizione dell’art. 4 della l. n. 168/2002, e successive modificazioni, non sostituisce le norme
+generali del codice della strada in materia di accertamento degli illeciti; piuttosto, le integra prevedendo una procedura speciale per
+l’attività di controllo e di accertamento delle violazioni realizzato anche senza il diretto intervento di un operatore di polizia stradale, ed
+introducendo un’espressa eccezione al principio della contestazione immediata di cui all’art. 200 C.d.S., quando l’accertamento avviene
+su strade ed in situazioni in cui la contestazione immediata, per motivi oggettivi, è comunque impossibile, molto difficoltosa ovvero
+pericolosa per il personale operante o per gli utenti della strada. Per questa ragione, fuori dei casi descritti dalla norma, è possibile
+continuare ad utilizzare sistemi di misurazione della velocità ovvero di rilevamento o di documentazione degli illeciti avendo riguardo alla
+disciplina generale del codice della strada, perciò, ove possibile, si potrà procedere all’immediata contestazione della violazione.
+15
+velocità), mentre i mezzi tecnici di controllo (16) sono costituiti, più genericamente, da tutti
+gli apparecchi che consentono di controllare il traffico a distanza (videocamere, sistemi
+digitali di rilevamento del passaggio, ecc.).
+L’art. 4, in linea con le disposizioni dell’art. 45, comma 6, C.d.S., prescrive che
+i dispositivi di controllo utilizzati per l’accertamento automatico delle violazioni, e cioè senza
+richiedere la presenza o l’intervento diretto degli operatori di polizia stradale, devono
+essere approvati od omologati dal Ministero delle Infrastrutture e dei Trasporti.
+La disposizione è in armonia con l’art. 345 Reg., secondo cui tutti i dispositivi
+destinati a controllare la velocità dei veicoli devono essere approvati od omologati dal
+Ministero delle Infrastrutture e dei Trasporti.
+INDIVIDUAZIONE CON DECRETO DEL PREFETTO DELLE STRADE SULLE
+QUALI È AMMESSO L’USO DEI DISPOSITIVI E DEI MEZZI TECNICI DI
+CONTROLLO
+Relativamente alle strade classificate dall’art. 2, comma 2, C.d.S. di tipo A
+(autostrade) e B (strade extraurbane principali) i dispositivi di controllo possono essere
+sempre utilizzati, per cui non è necessaria una preventiva ricognizione da parte del Prefetto
+(17). Per le strade di tipo C (strade extraurbane secondarie) e D (strade urbane di
+scorrimento), spetta al Prefetto, con proprio decreto, la determinazione dei tratti in cui è
+possibile l’attività di controllo remoto del traffico finalizzata all’accertamento delle violazioni
+per eccesso di velocità, sentiti gli organi di polizia stradale di cui all’art. 12, comma 1,
+C.d.S. e su conforme parere degli enti proprietari delle strade.
+A tal proposito si soggiunge che le strade classificate ai sensi dell’art. 2,
+comma 2, lett. B e C del Codice della Strada come “extraurbane”, quando attraversano i
+centri abitati assumono automaticamente e funzionalmente la classificazione di cui all’art.
+2, comma 2, lett. D, E, o F, a seconda delle caratteristiche e a prescindere dall’ente che
+abbia la proprietà o la gestione amministrativa delle strade stesse.
+Nell’ipotesi, pertanto, che tali arterie assumano la classificazione di strade
+urbane di quartiere o strade locali, non è consentita l’installazione di sistemi di rilevamento
+a distanza (18); viceversa, è ammessa quando assumono la classificazione di strade
+urbane di scorrimento, previa individuazione puntuale da parte del Prefetto del tratto di
+strada ai sensi dell’art. 4, comma 2, L.168/2002.
+16 Riguardo ai mezzi tecnici di controllo del traffico, che richiedono l’intervento a distanza di un operatore al fine di rilevare un’infrazione
+(ad esempio, videocamere a circuito chiuso), si evince che i medesimi possono essere utilizzati per l’accertamento delle violazioni di cui
+agli artt.. 148 e 176 C.d.S. senza necessità di preventiva approvazione del Ministero delle Infrastrutture e dei Trasporti, purché siano
+sotto il diretto controllo degli organi di polizia stradale che, a distanza, effettuano il monitoraggio del traffico in tempo reale.
+17Il testo del comma 1 dell’art. 4 della legge 168/2002, e successive modificazioni, indica chiaramente, richiamando il testo del codice
+della strada a riguardo, che l’ambito territoriale di utilizzo dei citati dispositivi è circoscritto solo alle autostrade, alle strade extraurbane
+principali, alle strade extraurbane secondarie e alle strade urbane di scorrimento. La procedura di individuazione dei tratti di strade di cui
+al successivo comma 2, concernente le arterie diverse dalle autostrade e dalle extraurbane principali, quindi, non può riguardare le
+strade urbane di quartiere e le strade locali, ne è possibile la mancata esplicita esclusione come possibilità di estendere tale disciplina
+anche alle strade urbane di quartiere e alle strade locali.
+18 In tali casi, assicurando la costante presenza di un operatore di polizia, potrà essere omessa la contestazione immediata della violazione quando
+ricorrono le condizioni indicate dall’art. 201, comma 1-bis, lett. e) C.d.S.
+16
+Sulle strade di tipo A e B nonché sui tratti di altre strade individuati dal
+Prefetto è sempre consentita la contestazione differita della violazione (19).
+CRITERI PER LA DETERMINAZIONE DEI TRATTI DI STRADA IN CUI È
+POSSIBILE L’UTILIZZO DI DISPOSITIVI E MEZZI DI CONTROLLO DEL TRAFFICO
+Sulle strade diverse dalle autostrade e dalle strade extraurbane principali, il
+citato art. 4 della legge n. 168/2002 disciplina l’attività di controllo, anche remoto, del
+traffico, finalizzata all’accertamento degli illeciti tra cui quelli dell’art. 142 C.d.S.. La
+contestazione differita delle violazioni rilevate con i dispositivi in argomento è legittima
+quando, sulla base di una valutazione preventiva compiuta dal Prefetto, i tratti di strada sui
+quali possono essere collocati dispositivi di controllo rispondono ai seguenti criteri:
+un elevato livello di incidentalità;
+la documentata impossibilità o difficoltà di procedere alla contestazione immediata
+sulla base delle condizioni strutturali, plano-altimetriche e di traffico.
+La norma intende favorire un impiego diffuso della tecnologia non
+esclusivamente a fini sanzionatori, ma in modo funzionale e coerente con l’obiettivo di
+ridurre drasticamente gli incidenti stradali.
+Elevato livello di incidentalità sul tratto di strada
+Quanto alle ragioni che sostengono il primo criterio, si sottolinea l’esigenza,
+per ciascun tratto di strada da sottoporre a controllo, di un’accurata analisi del numero,
+della tipologia e, soprattutto, delle cause degli incidenti stradali ivi avvenuti nel quinquennio
+precedente.
+Infatti, secondo la previsione normativa, l’impiego delle tecnologie di controllo
+del traffico è giustificato solo dalla gravità del fenomeno infortunistico registrato sul tratto di
+strada, riconducibile nelle sue cause a quei comportamenti rilevabili dai citati dispositivi e
+mezzi tecnici di controllo.
+Documentata impossibilità o difficoltà di procedere alla contestazione immediata
+Quanto al secondo criterio, è necessario preliminarmente evidenziare che i
+fattori elencati nel richiamato art. 4, comma 2, della legge 168/2002 (condizioni strutturali,
+plano-altimetriche e di traffico) hanno carattere tassativo per cui non possono essere prese
+in considerazione situazioni ambientali diverse o altre esigenze, pur astrattamente rilevanti
+ai fini di dimostrare l’impossibilità di fermare i veicoli.
+Nella valutazione delle condizioni strutturali e plano-altimetriche del tratto
+interessato, a titolo meramente esemplificativo e non esaustivo, occorre avere riguardo ai
+seguenti elementi che condizionano l’operatività della normale attività di vigilanza stradale:
+presenza di più corsie per ciascun senso di marcia, ovvero suddivisione della strada in
+carreggiate separate, anche in ambito urbano, in cui mancano spazi idonei (assenza di
+19 Il provvedimento del Prefetto che individua tali tratti di strada, non limita la possibilità, per tutti i soggetti indicati dall’art.12, c. 1, C.d.S., di
+procedere in qualsiasi luogo al controllo della velocità secondo gli ordinari moduli operativi, che prevedono il fermo del veicolo e la relativa
+contestazione immediata, ovvero, se questa è impossibile, la notificazione successiva del verbale di contestazione della violazione,rilevata in presenza
+dei citati soggetti, nel quale saranno adeguatamente indicati i motivi che non hanno consentito il fermo del veicolo e la contestazione al trasgressore
+ai sensi dell’art. 201, comma 1 bis, lettera e) C.d.S.
+17
+banchine o piazzole di dimensioni adeguate), gallerie e viadotti privi di aree per fermare
+i veicoli fuori della carreggiata o, comunque, in condizioni di sicurezza;
+situazioni in cui l’andamento della strada (curve) o il suo profilo altimetrico (dossi o
+cunette) limitano la visibilità e condizionano in modo negativo la possibilità di fermare e
+di fare sostare i veicoli dei trasgressori fuori della carreggiata o, comunque, in
+condizioni di sicurezza, in corrispondenza del tratto di strada interessato e in quello
+immediatamente successivo;
+condizioni particolari di scarsa visibilità, legate, ad esempio, a fenomeni atmosferici
+ciclicamente ricorrenti (nebbia) che, in concomitanza con altri fattori ambientali o con le
+caratteristiche della strada (assenza di spazi idonei per effettuare il fermo del veicolo in
+condizioni di sicurezza), rendono difficile e pericolosa l’ordinaria attività di controllo.
+Nella valutazione complessiva dei fattori relativi al criterio in argomento
+dovranno essere considerati, inoltre, la composizione ed il volume di traffico sulla strada.
+Infatti, sempre a titolo esemplificativo, la presenza di traffico intenso e prevalentemente
+formato da mezzi pesanti rende manifesta la difficoltà di procedere al fermo dei veicoli
+anche su strade ad una sola corsia per senso di marcia, soprattutto se il tratto interessato
+non presenta spazi idonei per lo stazionamento dei veicoli pesanti fuori della carreggiata, o
+comunque in condizioni di sicurezza tali da evitare pericolo o intralcio per la circolazione.
+PROCEDIMENTO DI INDIVIDUAZIONE ED EMISSIONE DEL DECRETO DA PARTE
+DEL PREFETTO
+Il procedimento di individuazione dei tratti di strada in cui è possibile il
+controllo, finalizzato all’accertamento a distanza delle violazioni, è avviato dal Prefetto di
+iniziativa o a seguito di richiesta dell’organo di polizia stradale competente per territorio,
+corredata degli elementi valutativi di seguito indicati e del parere dell’ente proprietario o
+concessionario della strada.
+4.1. Richiesta degli organi di polizia stradale
+La richiesta dell’organo di polizia stradale deve evidenziare, in particolare:
+la gravità del fenomeno infortunistico registrato nell’ultimo quinquennio nel tratto di
+strada interessato o nelle immediate vicinanze dello stesso, soprattutto in relazione
+all’inosservanza delle disposizioni in tema di velocità e di sorpasso;
+le caratteristiche del traffico che vi si svolge con riguardo sia alla composizione dello
+stesso, sia ai volumi che ordinariamente interessano l’arteria stradale;
+le difficoltà operative dell’organo di polizia stradale nel procedere con gli ordinari
+moduli di controllo alla contestazione immediata delle violazioni nell’area segnalata.
+Deve, inoltre, essere allegata la seguente documentazione:
+localizzazione esatta del tratto interessato e descrizione accurata della sede stradale,
+corredata di idonea documentazione fotografica e, ove possibile, di disegni, piante o
+planimetrie;
+studio statistico della situazione infortunistica, facendo riferimento ai sinistri che si
+sono verificati negli ultimi cinque anni nel tratto di strada interessato o nelle immediate
+vicinanze dello stesso con l’indicazione, per ciascun sinistro, delle presumibili cause e
+delle conseguenze alle persone o alle cose che ne sono derivate;
+analisi del traffico riferita ad almeno una giornata lavorativa rappresentativa;
+relazione conclusiva del responsabile dell’ufficio con la quale si illustrano le attività di
+polizia svolte sulla strada e le difficoltà riscontrate nell’utilizzazione degli ordinari
+18
+modelli operativi di controllo, senza recare pregiudizio alla sicurezza della
+circolazione, alla fluidità del traffico o all’incolumità dei conducenti controllati e del
+personale operante.
+4.2. Parere dell’ente proprietario o concessionario della strada
+Il comma 2 dell’art. 4 della legge n. 168/2002 prevede altresì che ai fini della
+individuazione dei tratti da sottoporre a controllo si debbano esprimere gli enti proprietari
+degli stessi (per le strade in concessione, il parere è espresso dal concessionario, ai sensi
+dell’art. 14, comma 3, C.d.S.).
+Tale parere ha natura obbligatoria e vincolante ed ha per oggetto la
+compatibilità
+tecnica
+dell’installazione
+o
+dell’utilizzazione
+dei
+dispositivi
+con
+la
+conservazione delle infrastrutture stradali, la tutela della fluidità del traffico e la sicurezza
+della circolazione.
+Per agevolare l’attività istruttoria, è opportuno promuovere modalità flessibili
+di comunicazione e di dialogo tra Amministrazioni, attraverso il ricorso a conferenze di
+servizi o a valutazioni collegiali.
+Potrebbe a tale scopo essere utile avvalersi delle Conferenze provinciali
+permanenti previste dall’art. 11 del D.Lvo 31 luglio 1999, n. 300, e successive
+modificazioni, nel cui ambito sono presenti ed operano tutte le componenti interessate alla
+sicurezza della circolazione stradale.
+Emissione del decreto da parte del Prefetto
+Nella prima fase di applicazione della legge è stata già effettuata una
+individuazione complessiva di tutti i tratti interessati, con l’emissione dei relativi decreti.
+La procedura per l’adozione di nuovi provvedimenti, in analogia con quanto
+previsto dal comma 2, art. 4 della legge 168/2002, in caso di richiesta presentata
+dall’organo di polizia stradale, dovrà concludersi entro 90 giorni.
+PARTE III:
+MODALITA’ DI CONTROLLO E DI CONTESTAZIONE
+POSTAZIONI
+FISSE
+DI
+RILEVAMENTO
+SENZA
+LA
+PRESENZA
+DELL’OPERATORE DI POLIZIA
+Le postazioni fisse in modalità automatica di controllo remoto delle violazioni,
+senza la presenza di un operatore di polizia, possono essere utilizzate solo quando
+ricorrono le condizioni indicate dall’art. 201, comma 1-bis, lett. f) C.d.S che richiama l’art. 4
+della legge 168/2002 (20) e precisamente:
+20Gli accertamenti delle violazioni di cui all’art. 142 C.d.S effettuati in deroga al principio di contestazione immediata ed in assenza degli organi di
+polizia stradale possono avvenire, mediante uso di apparecchiature debitamente omologate, solo sulle strade individuate all’art. 4 del D.L. 20.6.2002,
+n. 121, convertito, con modificazioni, dalla L.10.8.2002, n. 168 e con le modalità ivi previste. A tal fine occorre precisare che le disposizioni della
+lettera f) del comma 1-bis dell’art. 201 C.d.S, così come formulata a seguito delle modifiche apportate dal D.L. 27.6.2003, n. 151, convertito nella L
+1.8.2003, n. 214, pur facendo riferimento solo all’accertamento effettuato con i dispositivi di cui all’arti. 4 D.L. 121/2002, non hanno operato una
+tacita abrogazione, nelle parti non richiamate, del citato art. 4. Infatti, proprio nelle parti dell’art. 4 citato, non richiamate espressamente dall’art.
+201, comma 1- bis, lettera f) C.d.S, sono individuate le norme di comportamento la cui violazione può essere accertata e contestata con le modalità
+19
+a) sulle autostrade e sulle strade extraurbane principali. L’utilizzazione o
+l’installazione dei dispositivi o dei mezzi tecnici in argomento è ammessa senza la
+necessità di una preventiva verifica della possibilità di procedere alla contestazione
+immediata (21) in ragione dell’oggettiva difficoltà di procedere al fermo dei veicoli
+dei trasgressori da parte di chi svolge attività di vigilanza stradale;
+b) sugli altri tratti di strada individuati dal prefetto ai sensi dell’art.4 della L.
+168/2002. Sulle altre strade, cioè su quelle classificate dall’art. 2 C.d.S. lettere C e
+D come extraurbane secondarie ovvero urbane di scorrimento, l’utilizzazione o
+l’installazione dei predetti dispositivi è sottoposta ad una preventiva valutazione da
+parte del Prefetto tendente a verificare che, in concreto, sussistano le obiettive
+ragioni per l’impiego di strumenti di accertamento a distanza delle violazioni, in
+deroga al principio generale della contestazione immediata sancito dall’art. 200
+Le strade urbane di quartiere e le strade locali, classificate dall’art. 2 C.d.S.
+come di tipo E ed F, restano escluse dall’ambito di applicazione delle disposizioni
+sopraindicate. Su queste, pertanto, permane l’attività di controllo con l’intervento diretto
+degli organi di polizia stradale.
+Strumenti utilizzabili; approvazione, taratura e modalità d’impiego. Rinvio
+Si rinvia a: parte I - paragrafi 1, 2 e 3.(22)
+Presegnalazione della presenza dei dispositivi. Rinvio
+Gli strumenti devono essere presegnalati secondo le modalità indicate nella
+parte prima - paragrafo 7 delle presenti istruzioni operative.
+Se posizionati allo stesso livello della sede stradale, il box in cui sono
+alloggiati gli strumenti di misura deve essere reso ben visibile, collocando sopra di esso il
+segnale richiamato al paragrafo 7.2.
+Nel caso in cui gli strumenti di misura siano situati al di sopra della sede
+stradale, il portale su cui sono installati deve recare segnali ben visibili indicanti la presenza
+dello strumento di misura della velocità.
+POSTAZIONI
+TEMPORANEE
+DI
+RILEVAMENTO
+SENZA
+LA
+PRESENZA
+DELL’OPERATORE DI POLIZIA
+previste ai commi 1-bis e 1 -ter dell’articolo 201 C.d.S. Di conseguenza non si può ritenere che sia consentito il rilevamento, con le modalità
+prescritte, su ogni tipologia di strada.
+21 Il decreto legge 27.6.2003, n. 151 convertito in legge 1.8.2003, n. 214, ha introdotto il comma 1-ter dell’art 201 C.d.S., prevedendo che la
+contestazione immediata della violazione non sia necessaria qualora vengano utilizzati dispositivi debitamente omologati e che la violazione possa
+essere accertata anche senza la presenza materiale dell’operatore di polizia stradale, cioè attraverso le risultanze fotografiche o video degli
+apparecchi omologati installati ed utilizzati dall’organo di polizia stradale. Pertanto, l’accertamento delle violazioni ai limiti di velocità commesse
+sulle autostrade e sulle strade extraurbane principali è ammesso senza la necessità di una preventiva verifica della possibilità di procedere alla
+contestazione immediata e senza particolari limitazioni circa eventuali accertamenti da remoto cioè senza la presenza dell’operatore, purché avvenga
+con apparecchiature omologate.
+22 Sebbene superfluo si richiama l’attenzione degli operatori sulla necessità di impiegare i vari dispositivi di accertamento nel rispetto, oltre che delle
+istruzioni del presente documento, anche delle istruzioni contenute nei relativi manuali d’uso e manutenzione e delle prescrizioni contenute nei decreti
+di approvazione dei medesimi, in particolare nel caso di dispositivi per i quali sono previsti limiti e condizioni di impiego in relazione a circostanze
+specifiche ( climatiche, ambientali, di installazione, veicoli ammessi a circolare sulla strada, regime di velocità massima consentita sulla strada, ecc ).
+20
+Nei casi indicati alle lettere a) e b) del precedente paragrafo 1, possono
+essere utilizzate anche apparecchiature di rilevamento non fisse, purché approvate per tale
+scopo, funzionanti in modo automatico senza la presenza di un operatore di polizia. I
+dispositivi di misura possono essere alloggiati all’interno di veicoli in sosta fuori della
+carreggiata, ovvero collocati su cavalletti o in strutture removibili poste fuori della
+carreggiata.
+Rientrano, infatti, nella categoria degli strumenti di controllo a distanza anche
+i dispositivi rimovibili in grado di rilevare e documentare in modo automatico le violazioni.
+L’intervento dell’operatore di polizia è limitato all’attivazione e alla verifica della funzionalità
+dell’apparecchio, le cui risultanze - fotografie, filmati o analoghi sistemi di memorizzazione
+dell’immagine - sono successivamente sviluppate in un verbale di contestazione.
+Presegnalazione della presenza dei dispositivi. Rinvio
+A tal fine devono essere osservate le modalità indicate nella parte I -
+paragrafo 7. Il dispositivo di controllo deve essere reso ben visibile secondo le indicazioni
+valide per le postazioni di controllo temporanee di cui al medesimo paragrafo.
+POSTAZIONI
+TEMPORANEE
+DI
+RILEVAMENTO
+CON
+LA
+PRESENZA
+DELL’OPERATORE DI POLIZIA
+Gli strumenti di misura della velocità collocati in postazioni temporanee con la
+presenza e sotto il diretto controllo di un operatore di polizia possono essere utilizzati su
+tutte le strade sia urbane che extraurbane.
+Occorre, tuttavia, precisare che:
+se sono utilizzati in autostrada, sulle strade extraurbane principali e sulle strade
+indicate nel decreto del prefetto di cui all’art. 4 L.168/2002, è sempre ammessa la
+contestazione differita della violazione e, quindi, possono essere impiegati anche
+senza necessità di motivare le ragioni per le quali non si è proceduto al fermo del
+veicolo condotto in eccesso di velocità;
+se impiegati su altre strade, anche urbane, la contestazione differita della violazione è
+ammessa solo quando l’apparecchiatura di controllo è utilizzata sotto il diretto
+controllo di un operatore di polizia e ricorre, alternativamente, una delle seguenti
+condizioni indicate dall’art. 201, comma 1-bis, lett. e), C.d.S., e cioè:
+ lo strumento, per caratteristiche tecniche, non consente di accertare la
+velocità dei veicoli se non dopo che sono transitati davanti alla
+postazione di controllo(23);
+ sia impossibile fermare il veicolo in tempo utile o nei modi
+regolamentari(24).
+23Può ritenersi legittimo l’utilizzo di apparecchiature che consentono di rilevare la velocità senza procedere alla contestazione immediata della
+violazione quando, per la tutela degli operatori addetti al servizio e degli altri utenti della strada, sia obiettivamente impossibile o comunque molto
+pericoloso, da parte di una sola unità operativa, il fermo immediato del veicolo. Tale difficoltà può derivare sia dalle modalità di effettuazione del
+servizio di controllo che dalle caratteristiche strutturali o plano-altimetriche della strada. Salvo particolari situazioni contingenti, ed a titolo
+meramente esemplificativo, la situazione sopraindicata può dirsi sempre esistente sulle strade extraurbane a carreggiate separate prive di barriere o
+restringimenti che consentono la contestazione immediata; sulle strade a più corsie per senso di marcia, urbane ed extraurbane, prive di spazi adatti
+per effettuare il fermo dei veicoli; in tutte le situazioni in cui sia obiettivamente pericoloso procedere a fermare il trasgressore per l’incolumità degli
+utenti, degli operatori e per la sicurezza della circolazione
+24Senza procedere alla contestazione immediata della violazione può ritenersi legittimo l’utilizzo di apparecchiature che consentono di rilevare la
+velocità solo dopo che il veicolo controllato è passato davanti alla postazione di controllo. In tali casi non è necessario dimostrare anche l’obiettiva
+impossibilità o comunque l’elevata pericolosità del fermo immediato del veicolo. Né può essere richiesto all’organo di polizia procedente di operare
+con la presenza di più unità operative.
+21
+In tali casi, il verbale di contestazione, con richiamo alle disposizioni dell’art. 201,
+comma 1-bis, lett. e), deve solo indicare le modalità di effettuazione del servizio di
+controllo che legittimano il mancato fermo immediato del veicolo in eccesso di
+velocità;
+al di fuori delle condizioni di cui ai precedenti punti a) e b), devono essere impiegati in
+modo da consentire, ove possibile, il fermo immediato del conducente in eccesso di
+velocità per contestargli direttamente la violazione. In caso di impossibilità di
+contestazione immediata, il verbale deve indicare in modo preciso i motivi che non
+hanno consentito tale operazione.
+Fuori dei casi in cui si rende possibile il controllo remoto delle violazioni e la
+loro contestazione differita, è sempre opportuno procedere alla contestazione immediata
+degli illeciti stradali - se necessario con l’impiego articolato di più unità operative - nel
+rispetto della prioritaria esigenza della salvaguardia dell’incolumità degli operatori e dei
+trasgressori.
+Ciò in considerazione dell’indubbia efficacia deterrente della concreta
+possibilità di applicare eventuali misure sanzionatorie a carico del conducente nella
+immediatezza della violazione.
+ACCERTAMENTO DIRETTO CON FERMO DEL VEICOLO E CONTESTAZIONE
+IMMEDIATA DELLA VIOLAZIONE
+La contestazione immediata dell’eccesso di velocità al conducente del veicolo
+appena fermato non richiede che l’agente accertatore disponga di prove fotografiche o
+video o altro a supporto della rilevazione effettuata con lo strumento di misurazione.
+Sulla base delle disposizioni dell’art. 142, comma 6, C.d.S. (25) e
+conformemente ad un consolidato orientamento giurisprudenziale, in caso di accertamento
+con contestazione immediata, la fotografia o la ripresa rappresenta una documentazione
+ulteriore, ma non indispensabile, ai fini del raggiungimento della piena prova della
+violazione stessa. Le risultanze fornite dagli apparecchi omologati, coincidono, infatti, con
+la visualizzazione della velocità sul display degli apparecchi stessi; pertanto, la piena
+efficacia e la validità della contestazione si realizzano con l’accertamento diretto da parte
+dell’operatore addetto al controllo.
+In particolare, il personale, posto a valle del punto di rilevazione, ricevuta
+notizia via radio dall’accertatore della velocità desunta dal monitor dell’apparecchiatura,
+nonché del tipo, della targa o di altri elementi di riconoscimento del veicolo che ha superato
+il limite di velocità, procede al fermo dello stesso ed alla contestazione dell’infrazione.
+L’accertamento della violazione è effettuato dal personale che presidia l’apparecchio ed ha
+rilevato la velocità e, quindi, nel corpo del verbale di contestazione dovrà essere
+espressamente indicato il nominativo degli agenti accertatori e che la rilevazione
+dell’eccesso di velocità è stata compiuta dagli stessi.
+25Le disposizioni dell’articolo 142 comma 6 C.d.S. stabiliscono che “per la determinazione dell’osservanza dei limiti di velocità sono considerate fonti
+di prova le risultanze di apparecchiature debitamente omologate…..come precisato dal Regolamento”, e non dispongono, invece, obblighi di
+documentazione. In proposito, la Corte di Cassazione, con la sentenza di n. 21360 del 9 novembre 2004, ha ritenuto legittima la misurazione effettuata
+mediante apparecchio telelaser omologato, secondo il disposto dell’art. 142, comma 6 C.d.S, anche se privo di dispositivi che forniscano una
+documentazione fotografica dell’accertamento dell’infrazione. Con la citata sentenza è stato ribadito il principio in base al quale le risultanze di
+apparecchiature debitamente omologate costituiscono fonti di prova per la determinazione dell’osservanza dei limiti di velocità.
